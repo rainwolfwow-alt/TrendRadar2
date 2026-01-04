@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T19:21:16.893822+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-01-04T20:50:51.063275+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 171,
+      "match_count": 172,
       "titles": [
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 20时50分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[10时13分 ~ 20时50分]"
         },
         {
           "title": "特朗普：美国将接管委内瑞拉事务",
@@ -61,21 +61,6 @@
           "ranks": [
             2,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时35分 ~ 10时13分]"
-        },
-        {
-          "title": "特朗普称将占领管理委内瑞拉",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            2,
-            1,
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -91,8 +76,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时26分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[15时26分 ~ 20时50分]"
+        },
+        {
+          "title": "特朗普称将占领管理委内瑞拉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            2,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时35分 ~ 10时13分]"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -204,8 +204,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 20时50分]"
         },
         {
           "title": "特朗普发布马杜罗在美舰照片",
@@ -218,11 +218,12 @@
             11,
             21,
             22,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时35分 ~ 19时21分]"
+          "appearance_count": 19,
+          "time_info": "[02时35分 ~ 20时50分]"
         },
         {
           "title": "美媒称特朗普下令打击委内瑞拉，马杜罗宣布国家紧急状态",
@@ -258,6 +259,17 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
+          "url": "https://news.ifeng.com/c/8pdL68clJ3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 20时50分]"
+        },
+        {
           "title": "特朗普：对委内瑞拉军事行动中有美方人员受伤",
           "url": "https://news.ifeng.com/c/8pcdnCdGcIV",
           "source": "凤凰网",
@@ -267,17 +279,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时21分 ~ 10时13分]"
-        },
-        {
-          "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
-          "url": "https://news.ifeng.com/c/8pdL68clJ3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 19时21分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -312,8 +313,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 20时50分]"
         },
         {
           "title": "特朗普称马杜罗夫妇在美国军舰上",
@@ -389,8 +390,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 19时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 20时50分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -499,6 +500,20 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 20时50分]"
+        },
+        {
           "title": "特朗普：将让美石油公司进入委内瑞拉",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E8%AE%A9%E7%BE%8E%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E8%BF%9B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "百度热搜",
@@ -537,19 +552,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 19时21分]"
         },
         {
           "title": "特朗普透露夜袭细节",
@@ -708,17 +710,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
-          "url": "https://flash.jin10.com/detail/20260104184157171800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "特朗普：如有需要美国已准备好发动第二次袭击",
           "url": "https://flash.jin10.com/detail/20260104004630848800",
           "source": "金十数据",
@@ -835,6 +826,19 @@
           "time_info": "[10时13分 ~ 15时26分]"
         },
         {
+          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 20时50分]"
+        },
+        {
           "title": "特朗普称马杜罗夫妇在美军舰上",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E5%9C%A8%E7%BE%8E%E5%86%9B%E8%88%B0%E4%B8%8A%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -932,6 +936,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时20分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
+          "url": "https://flash.jin10.com/detail/20260104184157171800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时50分]"
         },
         {
           "title": "特朗普称美国大型石油公司将前往委内瑞拉",
@@ -1093,18 +1109,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时21分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -1876,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "特朗普：美国将“接管”委内瑞拉和石油，何时还给委内瑞拉人由美国决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32309419",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "特朗普发布马杜罗在“硫磺岛”号军舰上的照片",
