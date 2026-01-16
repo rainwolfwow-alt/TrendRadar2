@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T19:25:22.700639+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-01-16T20:55:56.848391+08:00",
+  "total_titles_processed": 1808,
   "failed_sources": [],
   "trends": [
     {
@@ -30,18 +30,6 @@
           "time_info": "[00时41分 ~ 07时27分]"
         },
         {
-          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
-          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 16时37分]"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
@@ -53,8 +41,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 20时55分]"
+        },
+        {
+          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
+          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时41分 ~ 19时25分]"
+          "time_info": "[10时04分 ~ 16时37分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -80,6 +80,21 @@
           "time_info": "[12时05分 ~ 16时37分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时05分 ~ 20时55分]"
+        },
+        {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
           "url": "https://wallstreetcn.com/articles/3763392",
           "source": "华尔街见闻",
@@ -94,18 +109,16 @@
           "time_info": "[07时26分 ~ 19时25分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
           "ranks": [
-            9,
-            10,
-            8,
-            6
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时05分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 20时55分]"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -128,18 +141,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时25分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -181,7 +182,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -208,6 +209,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时27分 ~ 10时05分]"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 20时55分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
@@ -358,17 +371,6 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时25分]"
-        },
-        {
           "title": "特朗普暂缓对伊朗动武决定",
           "url": "https://www.douyin.com/hot/2369152",
           "source": "抖音",
@@ -413,6 +415,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时55分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -523,6 +537,17 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时55分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
           "url": "https://flash.jin10.com/detail/20260116002546485800",
           "source": "金十数据",
@@ -587,17 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
@@ -672,7 +686,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -875,17 +889,6 @@
           "time_info": "12时05分"
         },
         {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
           "url": "https://flash.jin10.com/detail/20260116004031147800",
           "source": "金十数据",
@@ -1013,7 +1016,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -1032,8 +1035,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[10时04分 ~ 20时55分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1312,8 +1315,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时31分 ~ 19时25分]"
+          "appearance_count": 10,
+          "time_info": "[13时31分 ~ 20时55分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
