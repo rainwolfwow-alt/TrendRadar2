@@ -1,93 +1,22 @@
 {
-  "generated_at": "2026-01-19T23:20:32.476187+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2026-01-20T00:21:13.378035+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "浙江省筹建 400 亿新大学，将对当地高等教育和人才培养带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1995515345172181211",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
         {
           "title": "留学面相大变,软妹变亚裔女",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349305&amp;topic_name=%E7%95%99%E5%AD%A6%E9%9D%A2%E7%9B%B8%E5%A4%A7%E5%8F%98%2C%E8%BD%AF%E5%A6%B9%E5%8F%98%E4%BA%9A%E8%A3%94%E5%A5%B3",
           "source": "贴吧",
           "ranks": [
-            2,
-            3,
-            9,
-            11,
-            12,
-            14,
-            16,
-            19,
-            21,
-            22,
-            23,
             24
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时31分 ~ 23时20分]"
-        },
-        {
-          "title": "男孩凌晨 5 点起床写作业突然晕倒，事发时已久坐约四五个小时，为什么会这样？",
-          "url": "https://www.zhihu.com/question/1996126884505810111",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "成为一个「不扫兴」的父母，在亲子关系中意味着什么？",
-          "url": "https://www.zhihu.com/question/1994004599011549875",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时28分]"
-        },
-        {
-          "title": "危地马拉教育部18日宣布，因监狱骚乱引发持续暴力事态，全国范围教育机构19日停课一天，以保障学生和教职人员安全。",
-          "url": "https://flash.jin10.com/detail/20260119060019308800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "牢A说一定要感激高考",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%A2A%E8%AF%B4%E4%B8%80%E5%AE%9A%E8%A6%81%E6%84%9F%E6%BF%80%E9%AB%98%E8%80%83&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
