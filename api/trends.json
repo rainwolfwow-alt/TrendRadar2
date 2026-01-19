@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:17:30.547865+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-01-19T20:33:18.574791+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "浙江省筹建 400 亿新大学，将对当地高等教育和人才培养带来哪些影响？",
@@ -33,11 +33,12 @@
             14,
             16,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 19时17分]"
+          "appearance_count": 30,
+          "time_info": "[00时31分 ~ 20时33分]"
         },
         {
           "title": "男孩凌晨 5 点起床写作业突然晕倒，事发时已久坐约四五个小时，为什么会这样？",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "牢A说一定要感激高考",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%A2A%E8%AF%B4%E4%B8%80%E5%AE%9A%E8%A6%81%E6%84%9F%E6%BF%80%E9%AB%98%E8%80%83&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     }
