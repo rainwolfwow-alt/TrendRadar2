@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-01-19T15:03:19.364491+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-01-19T15:09:56.977770+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "#                         教育专区 # ═══════════════════════════════════════════════════════════════ /教育|高考|中考|职业教育|本科|大专|大学生就业|毕业实习/ AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 /家庭教育|亲子|鸡娃|内卷|卷不动|作业/ /中二|青春期|抑郁|焦虑|睡眠/",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "留学面相大变,软妹变亚裔女",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349305&amp;topic_name=%E7%95%99%E5%AD%A6%E9%9D%A2%E7%9B%B8%E5%A4%A7%E5%8F%98%2C%E8%BD%AF%E5%A6%B9%E5%8F%98%E4%BA%9A%E8%A3%94%E5%A5%B3",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 15时09分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
