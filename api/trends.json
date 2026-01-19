@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T21:41:11.453553+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-01-19T22:21:38.899105+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
             19,
             21,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时31分 ~ 21时41分]"
+          "appearance_count": 33,
+          "time_info": "[00时31分 ~ 22时21分]"
         },
         {
           "title": "男孩凌晨 5 点起床写作业突然晕倒，事发时已久坐约四五个小时，为什么会这样？",
