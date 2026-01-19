@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T16:23:56.225230+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-19T17:28:34.912980+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             11,
             12,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 16时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 17时28分]"
         },
         {
           "title": "男孩凌晨 5 点起床写作业突然晕倒，事发时已久坐约四五个小时，为什么会这样？",
@@ -51,6 +52,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "成为一个「不扫兴」的父母，在亲子关系中意味着什么？",
+          "url": "https://www.zhihu.com/question/1994004599011549875",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时28分]"
+        },
+        {
           "title": "危地马拉教育部18日宣布，因监狱骚乱引发持续暴力事态，全国范围教育机构19日停课一天，以保障学生和教职人员安全。",
           "url": "https://flash.jin10.com/detail/20260119060019308800",
           "source": "金十数据",
@@ -60,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "成为一个「不扫兴」的父母，在亲子关系中意味着什么？",
-          "url": "https://www.zhihu.com/question/1994004599011549875",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         }
       ]
     }
