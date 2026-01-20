@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:23:03.359628+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-01-20T16:23:16.092021+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 11时29分]"
+        },
+        {
+          "title": "男生教室内用凳子砸同学后脑勺，河南巩义市教育局：很重视，被砸男孩无大碍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32415596",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 16时23分]"
         },
         {
           "title": "人均64万！SK海力士巨额年终奖引发关注 韩国高考风向随之变化",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时25分 ~ 15时23分]"
-        },
-        {
-          "title": "男生教室内用凳子砸同学后脑勺，河南巩义市教育局：很重视，被砸男孩无大碍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32415596",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时26分]"
         },
         {
           "title": "中国留学生买错票躲过西班牙高铁事故",
