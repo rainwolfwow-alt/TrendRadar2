@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T07:15:11.054234+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-01-20T09:06:16.315712+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "留学面相大变,软妹变亚裔女",
@@ -15,8 +15,30 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 09时06分]"
+        },
+        {
+          "title": "人均64万！SK海力士巨额年终奖引发关注 韩国高考风向随之变化",
+          "url": "https://www.cls.cn/detail/2262766",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "中国留学生买错票躲过西班牙高铁事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%B9%B0%E9%94%99%E7%A5%A8%E8%BA%B2%E8%BF%87%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E4%BA%8B%E6%95%85%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     }
