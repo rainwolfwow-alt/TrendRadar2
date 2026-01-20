@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:29:11.330970+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-20T12:39:38.277746+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2262766",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 11时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 12时39分]"
         },
         {
           "title": "男生教室内用凳子砸同学后脑勺，河南巩义市教育局：很重视，被砸男孩无大碍",
