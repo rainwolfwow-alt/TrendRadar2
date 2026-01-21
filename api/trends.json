@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T06:18:40.764564+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-01-22T07:19:29.677931+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             9,
             14,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时19分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -29,11 +30,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时19分]"
         },
         {
           "title": "HR讽刺求职者本科学历不配双休",
