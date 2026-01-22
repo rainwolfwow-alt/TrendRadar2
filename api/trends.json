@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T17:27:28.712231+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-01-22T18:20:52.676821+08:00",
+  "total_titles_processed": 1673,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 18时20分]"
         },
         {
           "title": "中国人寿人事工作人员讽刺求职者「本科学历不配双休」，涉事公司回应已反馈有关部门，如何看待这种言论？",
@@ -92,6 +92,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "牢A谈女留学生是怎么被陷害的",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A2A%E8%B0%88%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E9%99%B7%E5%AE%B3%E7%9A%84%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 18时20分]"
         },
         {
           "title": "2026年高考全国统考时间确定",
@@ -107,18 +122,18 @@
           "time_info": "[11时42分 ~ 13时23分]"
         },
         {
-          "title": "牢A谈女留学生是怎么被陷害的",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A2A%E8%B0%88%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E9%99%B7%E5%AE%B3%E7%9A%84%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "2026年高考时间公布",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            23,
-            22,
-            24,
-            25
+            29,
+            17,
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时27分]"
+          "time_info": "[14时24分 ~ 18时20分]"
         },
         {
           "title": "2026高考时间公布",
@@ -131,19 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时23分]"
-        },
-        {
-          "title": "2026年高考时间公布",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 17时27分]"
         },
         {
           "title": "日本东京电力股价继续下跌，目前下跌3.0%。公司表示，已于21日重启的柏崎刈羽核电站6号机组在控制棒拔出作业中响起警报，拔出作业停止。",
