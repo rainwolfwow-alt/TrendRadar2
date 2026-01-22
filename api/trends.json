@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T00:25:40.617880+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-23T01:24:00.367463+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32439868",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时24分]"
         },
         {
           "title": "2026高考招生严控大类招生数量",
           "url": "https://www.toutiao.com/trending/7598012979319980051/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时24分]"
         },
         {
           "title": "中国女留学生诬告英国男警员强奸，最终被判6年",
@@ -37,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时24分]"
         }
       ]
     }
