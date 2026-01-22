@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T15:22:56.315772+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-01-22T16:22:30.414010+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 16时22分]"
         },
         {
           "title": "中国人寿人事工作人员讽刺求职者「本科学历不配双休」，涉事公司回应已反馈有关部门，如何看待这种言论？",
@@ -77,6 +77,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "2026年高考时间定了！全国统考将于6月7日、8日举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32439868",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 16时22分]"
         },
         {
           "title": "2026年高考全国统考时间确定",
@@ -92,20 +106,6 @@
           "time_info": "[11时42分 ~ 13时23分]"
         },
         {
-          "title": "2026年高考时间定了！全国统考将于6月7日、8日举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439868",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时22分]"
-        },
-        {
           "title": "2026高考时间公布",
           "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E5%85%AC%E5%B8%83",
           "source": "bilibili 热搜",
@@ -116,6 +116,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时23分]"
+        },
+        {
+          "title": "牢A谈女留学生是怎么被陷害的",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A2A%E8%B0%88%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E9%99%B7%E5%AE%B3%E7%9A%84%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时22分]"
         },
         {
           "title": "日本东京电力股价继续下跌，目前下跌3.0%。公司表示，已于21日重启的柏崎刈羽核电站6号机组在控制棒拔出作业中响起警报，拔出作业停止。",
@@ -130,6 +143,18 @@
           "time_info": "[12时42分 ~ 13时23分]"
         },
         {
+          "title": "2026年高考时间公布",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 16时22分]"
+        },
+        {
           "title": "如何看待「不会用 AI 的家庭将是新寒门」的观点，AI 改变教育模式的当下，该如何在学习中合理使用 AI？",
           "url": "https://www.zhihu.com/question/1997376980287513267",
           "source": "知乎",
@@ -139,18 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时23分]"
-        },
-        {
-          "title": "牢A谈女留学生是怎么被陷害的",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A2A%E8%B0%88%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E9%99%B7%E5%AE%B3%E7%9A%84%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 15时22分]"
         },
         {
           "title": "今年高考时间定了 关注4大趋势",
@@ -174,17 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "2026年高考时间公布",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         }
       ]
     }
