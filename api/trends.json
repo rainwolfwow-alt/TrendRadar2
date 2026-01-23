@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T16:21:29.238587+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-01-23T17:23:43.921333+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,18 @@
           "time_info": "[00时25分 ~ 14时24分]"
         },
         {
+          "title": "HR毒舌狠怼:本科双休纯做梦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349585&amp;topic_name=HR%E6%AF%92%E8%88%8C%E7%8B%A0%E6%80%BC%3A%E6%9C%AC%E7%A7%91%E5%8F%8C%E4%BC%91%E7%BA%AF%E5%81%9A%E6%A2%A6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时23分]"
+        },
+        {
           "title": "「必须学十年数学才能搞懂经济学，否则不如大专」怎么理解经济学对于数学的需要？",
           "url": "https://www.zhihu.com/question/1996946424567453335",
           "source": "知乎",
@@ -58,17 +70,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时20分 ~ 07时15分]"
-        },
-        {
-          "title": "HR毒舌狠怼:本科双休纯做梦",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349585&amp;topic_name=HR%E6%AF%92%E8%88%8C%E7%8B%A0%E6%80%BC%3A%E6%9C%AC%E7%A7%91%E5%8F%8C%E4%BC%91%E7%BA%AF%E5%81%9A%E6%A2%A6",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "牢A直播聊女留学生和陪读妈妈",
