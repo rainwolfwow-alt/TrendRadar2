@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T01:22:19.890817+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-01-24T02:23:00.909335+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1996625744554586850",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "HR毒舌狠怼:本科双休纯做梦",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         }
       ]
     }
