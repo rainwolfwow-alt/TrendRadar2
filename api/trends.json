@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T13:23:13.342090+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-23T14:24:44.987455+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时24分]"
         },
         {
           "title": "「必须学十年数学才能搞懂经济学，否则不如大专」怎么理解经济学对于数学的需要？",
