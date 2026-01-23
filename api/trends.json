@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T02:23:00.909335+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-24T03:21:02.637561+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时21分]"
         },
         {
           "title": "HR毒舌狠怼:本科双休纯做梦",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时21分]"
         }
       ]
     }
