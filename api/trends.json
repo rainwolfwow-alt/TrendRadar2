@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T19:15:45.581412+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-01-23T20:31:48.776015+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "2026年高考时间定了！全国统考将于6月7日、8日举行",
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 20时31分]"
         },
         {
           "title": "「必须学十年数学才能搞懂经济学，否则不如大专」怎么理解经济学对于数学的需要？",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时08分]"
+        },
+        {
+          "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
+          "url": "https://www.zhihu.com/question/1996625744554586850",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "国家科技重大专项正式启动，广生堂全口服方案剑指乙肝治愈",
