@@ -1,124 +1,33 @@
 {
-  "generated_at": "2026-01-23T23:19:13.975657+08:00",
-  "total_titles_processed": 2246,
+  "generated_at": "2026-01-24T00:21:44.293776+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "2026年高考时间定了！全国统考将于6月7日、8日举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439868",
-          "source": "澎湃新闻",
+          "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
+          "url": "https://www.zhihu.com/question/1996625744554586850",
+          "source": "知乎",
           "ranks": [
-            3,
-            2,
-            4,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
-        },
-        {
-          "title": "2026高考招生严控大类招生数量",
-          "url": "https://www.toutiao.com/trending/7598012979319980051/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            4,
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "HR毒舌狠怼:本科双休纯做梦",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349585&amp;topic_name=HR%E6%AF%92%E8%88%8C%E7%8B%A0%E6%80%BC%3A%E6%9C%AC%E7%A7%91%E5%8F%8C%E4%BC%91%E7%BA%AF%E5%81%9A%E6%A2%A6",
           "source": "贴吧",
           "ranks": [
-            2,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 23时19分]"
-        },
-        {
-          "title": "中国女留学生诬告英国男警员强奸，最终被判6年",
-          "url": "https://v.ifeng.com/c/8q7QIwmUcIL",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 14时24分]"
-        },
-        {
-          "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
-          "url": "https://www.zhihu.com/question/1996625744554586850",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时31分 ~ 23时19分]"
-        },
-        {
-          "title": "「必须学十年数学才能搞懂经济学，否则不如大专」怎么理解经济学对于数学的需要？",
-          "url": "https://www.zhihu.com/question/1996946424567453335",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 07时15分]"
-        },
-        {
-          "title": "取消统考后家长担忧高考变开盲盒",
-          "url": "https://www.toutiao.com/trending/7598422783395545151/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
-        },
-        {
-          "title": "牢A直播聊女留学生和陪读妈妈",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A2A%E7%9B%B4%E6%92%AD%E8%81%8A%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E5%92%8C%E9%99%AA%E8%AF%BB%E5%A6%88%E5%A6%88%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时08分]"
-        },
-        {
-          "title": "国家科技重大专项正式启动，广生堂全口服方案剑指乙肝治愈",
-          "url": "https://www.cls.cn/detail/2266999",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "00时21分"
         }
       ]
     }
