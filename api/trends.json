@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T07:15:34.697967+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-01-23T09:08:30.916701+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时08分]"
         },
         {
           "title": "2026高考招生严控大类招生数量",
@@ -32,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时08分]"
         },
         {
           "title": "中国女留学生诬告英国男警员强奸，最终被判6年",
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时08分]"
         },
         {
           "title": "「必须学十年数学才能搞懂经济学，否则不如大专」怎么理解经济学对于数学的需要？",
@@ -63,11 +64,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%A2A%E7%9B%B4%E6%92%AD%E8%81%8A%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E5%92%8C%E9%99%AA%E8%AF%BB%E5%A6%88%E5%A6%88%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时08分]"
         }
       ]
     }
