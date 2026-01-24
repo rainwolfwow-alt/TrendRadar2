@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T12:31:26.473984+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-01-24T13:17:21.426558+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -21,21 +21,6 @@
           "time_info": "[00时21分 ~ 09时05分]"
         },
         {
-          "title": "HR毒舌狠怼:本科双休纯做梦",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349585&amp;topic_name=HR%E6%AF%92%E8%88%8C%E7%8B%A0%E6%80%BC%3A%E6%9C%AC%E7%A7%91%E5%8F%8C%E4%BC%91%E7%BA%AF%E5%81%9A%E6%A2%A6",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            12,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 12时31分]"
-        },
-        {
           "title": "如何看待邯郸学院高层次人才招聘四名韩国和马来西亚低排名大学毕业的留学博士，学校回应「只是凑巧」？",
           "url": "https://www.zhihu.com/question/1997198742508573342",
           "source": "知乎",
@@ -44,8 +29,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 13时17分]"
+        },
+        {
+          "title": "HR毒舌狠怼:本科双休纯做梦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349585&amp;topic_name=HR%E6%AF%92%E8%88%8C%E7%8B%A0%E6%80%BC%3A%E6%9C%AC%E7%A7%91%E5%8F%8C%E4%BC%91%E7%BA%AF%E5%81%9A%E6%A2%A6",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            12,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 13时17分]"
         },
         {
           "title": "一下就对青春期男生祛魅了",
@@ -67,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 13时17分]"
         },
         {
           "title": "取消统考后家长担忧高考变开盲盒",
