@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T17:15:22.980123+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-01-24T18:15:15.278448+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待邯郸学院高层次人才招聘四名韩国和马来西亚低排名大学毕业的留学博士，学校回应「只是凑巧」？",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             2,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 18时15分]"
         },
         {
           "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
@@ -46,11 +47,12 @@
             17,
             19,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 18时15分]"
         },
         {
           "title": "深圳有望推行12年义务教育？假的",
@@ -60,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 18时15分]"
         },
         {
           "title": "一下就对青春期男生祛魅了",
@@ -74,6 +76,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时04分 ~ 11时22分]"
+        },
+        {
+          "title": "小学强制老师排练年会节目被投诉，教育局回应",
+          "url": "https://news.ifeng.com/c/8qB3ToO4UTL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "取消统考后家长担忧高考变开盲盒",
