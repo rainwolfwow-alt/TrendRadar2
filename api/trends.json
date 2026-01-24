@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T14:22:29.903123+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-01-24T15:15:48.604659+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 15时15分]"
         },
         {
           "title": "HR毒舌狠怼:本科双休纯做梦",
@@ -43,11 +43,12 @@
             12,
             14,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 14时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 15时15分]"
         },
         {
           "title": "深圳有望推行12年义务教育？假的",
@@ -57,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 15时15分]"
         },
         {
           "title": "一下就对青春期男生祛魅了",
