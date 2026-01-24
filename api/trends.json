@@ -1,61 +1,12 @@
 {
-  "generated_at": "2026-01-24T23:14:17.296853+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-01-25T00:17:08.091881+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "如何看待邯郸学院高层次人才招聘四名韩国和马来西亚低排名大学毕业的留学博士，学校回应「只是凑巧」？",
-          "url": "https://www.zhihu.com/question/1997198742508573342",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 18时15分]"
-        },
-        {
-          "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
-          "url": "https://www.zhihu.com/question/1996625744554586850",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时05分]"
-        },
-        {
-          "title": "HR毒舌狠怼:本科双休纯做梦",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349585&amp;topic_name=HR%E6%AF%92%E8%88%8C%E7%8B%A0%E6%80%BC%3A%E6%9C%AC%E7%A7%91%E5%8F%8C%E4%BC%91%E7%BA%AF%E5%81%9A%E6%A2%A6",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            12,
-            14,
-            16,
-            17,
-            19,
-            22,
-            23,
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时21分 ~ 22时14分]"
-        },
         {
           "title": "深圳有望推行12年义务教育？假的",
           "url": "https://www.toutiao.com/trending/7598500977743167497/",
@@ -64,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时21分 ~ 23时14分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "小学强制老师排练年会节目被投诉，教育局回应",
@@ -75,43 +26,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时14分 ~ 23时14分]"
-        },
-        {
-          "title": "一下就对青春期男生祛魅了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%AF%B9%E9%9D%92%E6%98%A5%E6%9C%9F%E7%94%B7%E7%94%9F%E7%A5%9B%E9%AD%85%E4%BA%86&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 11时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "成都一小学强制老师排练年会节目被投诉，教育局称已沟通",
           "url": "https://m.thepaper.cn/newsDetail_forward_32457208",
           "source": "澎湃新闻",
           "ranks": [
-            16,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 23时14分]"
-        },
-        {
-          "title": "取消统考后家长担忧高考变开盲盒",
-          "url": "https://www.toutiao.com/trending/7598422783395545151/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         }
       ]
     }
