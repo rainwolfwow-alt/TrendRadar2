@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T06:14:23.067402+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-01-25T07:14:36.900184+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "小学强制老师排练年会节目被投诉，教育局回应",
           "url": "https://news.ifeng.com/c/8qB3ToO4UTL",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "成都一小学强制老师排练年会节目被投诉，教育局称已沟通",
@@ -35,11 +36,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "成都一职校欠薪三月被老师投诉，教育局称已督促发放部分工资",
@@ -47,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时14分]"
         }
       ]
     }
