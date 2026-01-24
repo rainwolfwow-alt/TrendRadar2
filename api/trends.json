@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T07:15:53.079886+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-01-24T09:05:05.742489+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时05分]"
         },
         {
           "title": "HR毒舌狠怼:本科双休纯做梦",
@@ -25,11 +26,34 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时05分]"
+        },
+        {
+          "title": "如何看待邯郸学院高层次人才招聘四名韩国和马来西亚低排名大学毕业的留学博士，学校回应「只是凑巧」？",
+          "url": "https://www.zhihu.com/question/1997198742508573342",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
+        },
+        {
+          "title": "一下就对青春期男生祛魅了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%AF%B9%E9%9D%92%E6%98%A5%E6%9C%9F%E7%94%B7%E7%94%9F%E7%A5%9B%E9%AD%85%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时04分 ~ 09时05分]"
         },
         {
           "title": "取消统考后家长担忧高考变开盲盒",
