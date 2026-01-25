@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T20:28:18.904840+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-25T21:29:15.863279+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "砸锅卖铁花 200 万送孩子出国留学，回来月薪 6000，我跟孩子说就当见世面了，我是不是在自欺欺人？",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 20时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 21时29分]"
         },
         {
           "title": "北京市将加强全学段人工智能赋能教育",
@@ -133,6 +133,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 14时22分]"
+        },
+        {
+          "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
+          "url": "https://news.ifeng.com/c/8qD0Sm1YBau",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "胡锡进回应上热搜：我女儿没有留学经历，妻子出国陪读之说更荒唐",
+          "url": "https://news.ifeng.com/c/8qCsFfWQWSM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32461514",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         }
       ]
     }
