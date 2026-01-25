@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-25T16:19:35.222069+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-01-25T17:15:59.048087+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 9,
       "titles": [
+        {
+          "title": "砸锅卖铁花 200 万送孩子出国留学，回来月薪 6000，我跟孩子说就当见世面了，我是不是在自欺欺人？",
+          "url": "https://www.zhihu.com/question/1976386985569559739",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 17时15分]"
+        },
         {
           "title": "小学强制老师排练年会节目被投诉，教育局回应",
           "url": "https://news.ifeng.com/c/8qB3ToO4UTL",
@@ -54,26 +69,12 @@
             17,
             18,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时12分 ~ 16时19分]"
-        },
-        {
-          "title": "砸锅卖铁花 200 万送孩子出国留学，回来月薪 6000，我跟孩子说就当见世面了，我是不是在自欺欺人？",
-          "url": "https://www.zhihu.com/question/1976386985569559739",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 17时15分]"
         },
         {
           "title": "多地中小学取消非毕业年级「期末统考」，出于哪些考量？按照当前教育模式能真正实现「育人」目标吗？",
@@ -99,11 +100,23 @@
             11,
             12,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 17时15分]"
+        },
+        {
+          "title": "成都一小学因强制教师排练年会引投诉，教育局介入取消，反映哪些问题？真正有益的团队活动该是什么样？",
+          "url": "https://www.zhihu.com/question/1998705454289741444",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时15分]"
         },
         {
           "title": "教育局通报小学强制教师年会表演",
@@ -116,17 +129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 14时22分]"
-        },
-        {
-          "title": "成都一小学因强制教师排练年会引投诉，教育局介入取消，反映哪些问题？真正有益的团队活动该是什么样？",
-          "url": "https://www.zhihu.com/question/1998705454289741444",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时19分]"
         }
       ]
     }
