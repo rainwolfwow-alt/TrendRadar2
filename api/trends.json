@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:29:15.863279+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-01-25T22:14:11.299338+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时48分 ~ 21时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时48分 ~ 22时14分]"
         },
         {
           "title": "北京市将加强全学段人工智能赋能教育",
@@ -123,6 +123,39 @@
           "time_info": "[15时17分 ~ 20时28分]"
         },
         {
+          "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
+          "url": "https://news.ifeng.com/c/8qD0Sm1YBau",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时14分]"
+        },
+        {
+          "title": "胡锡进回应上热搜：我女儿没有留学经历，妻子出国陪读之说更荒唐",
+          "url": "https://news.ifeng.com/c/8qCsFfWQWSM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时14分]"
+        },
+        {
+          "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32461514",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时14分]"
+        },
+        {
           "title": "教育局通报小学强制教师年会表演",
           "url": "https://www.toutiao.com/trending/7598884462433157139/",
           "source": "今日头条",
@@ -133,39 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 14时22分]"
-        },
-        {
-          "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
-          "url": "https://news.ifeng.com/c/8qD0Sm1YBau",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "胡锡进回应上热搜：我女儿没有留学经历，妻子出国陪读之说更荒唐",
-          "url": "https://news.ifeng.com/c/8qCsFfWQWSM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32461514",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
         }
       ]
     }
