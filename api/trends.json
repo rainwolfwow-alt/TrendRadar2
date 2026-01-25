@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T22:14:11.299338+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-01-25T23:14:35.339045+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时48分 ~ 22时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时48分 ~ 23时14分]"
         },
         {
           "title": "北京市将加强全学段人工智能赋能教育",
@@ -130,8 +130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[21时28分 ~ 23时14分]"
         },
         {
           "title": "胡锡进回应上热搜：我女儿没有留学经历，妻子出国陪读之说更荒唐",
@@ -141,19 +141,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[21时28分 ~ 23时14分]"
         },
         {
           "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
           "url": "https://m.thepaper.cn/newsDetail_forward_32461514",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[21时28分 ~ 23时14分]"
         },
         {
           "title": "教育局通报小学强制教师年会表演",
