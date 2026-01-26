@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T19:16:45.782612+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-01-26T20:32:14.879626+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,18 @@
           "time_info": "[00时17分 ~ 13时29分]"
         },
         {
+          "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
+          "url": "https://www.zhihu.com/question/1998893739536568759",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时32分]"
+        },
+        {
           "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
           "url": "https://news.ifeng.com/c/8qD0Sm1YBau",
           "source": "凤凰网",
@@ -102,6 +114,21 @@
           "time_info": "[11时51分 ~ 15时23分]"
         },
         {
+          "title": "浙江一地取消中考选拔功能",
+          "url": "https://www.douyin.com/hot/2379447",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9,
+            14,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 20时32分]"
+        },
+        {
           "title": "泰国多机场启动尼帕病毒防疫措施，留学生称越来越多人戴口罩",
           "url": "https://news.ifeng.com/c/8qE5a7sdKYy",
           "source": "凤凰网",
@@ -114,29 +141,19 @@
           "time_info": "[14时27分 ~ 19时16分]"
         },
         {
-          "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
-          "url": "https://www.zhihu.com/question/1998893739536568759",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时16分]"
-        },
-        {
-          "title": "浙江一地取消中考选拔功能",
-          "url": "https://www.douyin.com/hot/2379447",
+          "title": "82岁老师写高考作文引关注",
+          "url": "https://www.douyin.com/hot/2379769",
           "source": "抖音",
           "ranks": [
-            6,
+            10,
             9,
-            14,
-            16
+            5,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 20时32分]"
         },
         {
           "title": "严寒席卷美国 留学生：比南极洲还冷",
@@ -150,20 +167,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时27分 ~ 17时28分]"
-        },
-        {
-          "title": "82岁老师写高考作文引关注",
-          "url": "https://www.douyin.com/hot/2379769",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时16分]"
         },
         {
           "title": "印度现尼帕病毒疫情在泰留学生发声",
