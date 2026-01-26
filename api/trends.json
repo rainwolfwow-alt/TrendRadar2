@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T20:32:14.879626+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-01-26T21:40:27.128625+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,18 @@
           "time_info": "[11时51分 ~ 16时23分]"
         },
         {
+          "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
+          "url": "https://www.zhihu.com/question/1998893739536568759",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时40分]"
+        },
+        {
           "title": "砸锅卖铁花 200 万送孩子出国留学，回来月薪 6000，我跟孩子说就当见世面了，我是不是在自欺欺人？",
           "url": "https://www.zhihu.com/question/1976386985569559739",
           "source": "知乎",
@@ -65,18 +77,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时17分 ~ 13时29分]"
-        },
-        {
-          "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
-          "url": "https://www.zhihu.com/question/1998893739536568759",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时32分]"
         },
         {
           "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
@@ -114,6 +114,22 @@
           "time_info": "[11时51分 ~ 15时23分]"
         },
         {
+          "title": "82岁老师写高考作文引关注",
+          "url": "https://www.douyin.com/hot/2379769",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            5,
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 21时40分]"
+        },
+        {
           "title": "浙江一地取消中考选拔功能",
           "url": "https://www.douyin.com/hot/2379447",
           "source": "抖音",
@@ -139,21 +155,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时27分 ~ 19时16分]"
-        },
-        {
-          "title": "82岁老师写高考作文引关注",
-          "url": "https://www.douyin.com/hot/2379769",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            5,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 20时32分]"
         },
         {
           "title": "严寒席卷美国 留学生：比南极洲还冷",
