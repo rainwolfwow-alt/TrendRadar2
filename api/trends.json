@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T02:25:53.624477+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-27T03:19:46.049881+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时19分]"
+        },
+        {
+          "title": "海岛小县取消中考 背后有个大趋势",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%B2%9B%E5%B0%8F%E5%8E%BF%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83+%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%AA%E5%A4%A7%E8%B6%8B%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时19分]"
         },
         {
           "title": "82岁老师写高考作文引关注",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "海岛小县取消中考 背后有个大趋势",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%B2%9B%E5%B0%8F%E5%8E%BF%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83+%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%AA%E5%A4%A7%E8%B6%8B%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
         }
       ]
     }
