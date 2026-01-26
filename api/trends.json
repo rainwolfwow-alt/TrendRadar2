@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T05:18:00.389938+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-01-27T06:16:01.393839+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             28,
             27,
             25,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[02时25分 ~ 06时16分]"
         },
         {
           "title": "82岁老师写高考作文引关注",
