@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T14:27:36.796845+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-01-26T15:23:11.926630+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时23分]"
         },
         {
           "title": "砸锅卖铁花 200 万送孩子出国留学，回来月薪 6000，我跟孩子说就当见世面了，我是不是在自欺欺人？",
@@ -54,6 +54,18 @@
           "time_info": "[00时17分 ~ 13时29分]"
         },
         {
+          "title": "杭州 11 岁男孩小区创业给同龄人培优，不到两月赚六千，怎么做到的？家庭教育如何做能培养出这样的孩子？",
+          "url": "https://www.zhihu.com/question/1998859078336739109",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时23分]"
+        },
+        {
           "title": "取消中考选拔功能、普通高中全员直升，浙江嵊泗教改细节披露",
           "url": "https://news.ifeng.com/c/8qD0Sm1YBau",
           "source": "凤凰网",
@@ -81,23 +93,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 14时27分]"
-        },
-        {
-          "title": "杭州 11 岁男孩小区创业给同龄人培优，不到两月赚六千，怎么做到的？家庭教育如何做能培养出这样的孩子？",
-          "url": "https://www.zhihu.com/question/1998859078336739109",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时23分]"
         },
         {
           "title": "浙江一地取消中考选拔功能",
@@ -106,11 +107,12 @@
           "ranks": [
             6,
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时23分]"
         },
         {
           "title": "教育部公布2025年国家学前教育普及普惠县（市、区）名单（第一批）",
@@ -129,22 +131,24 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%A5%E5%AF%92%E5%B8%AD%E5%8D%B7%E7%BE%8E%E5%9B%BD+%E7%95%99%E5%AD%A6%E7%94%9F%EF%BC%9A%E6%AF%94%E5%8D%97%E6%9E%81%E6%B4%B2%E8%BF%98%E5%86%B7",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时23分]"
         },
         {
           "title": "泰国多机场启动尼帕病毒防疫措施，留学生称越来越多人戴口罩",
           "url": "https://news.ifeng.com/c/8qE5a7sdKYy",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时23分]"
         }
       ]
     }
