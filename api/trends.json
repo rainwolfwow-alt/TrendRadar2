@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T04:19:05.770395+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-01-27T05:18:00.389938+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "海岛小县取消中考 背后有个大趋势",
@@ -26,11 +27,12 @@
           "ranks": [
             28,
             27,
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 05时18分]"
         },
         {
           "title": "82岁老师写高考作文引关注",
