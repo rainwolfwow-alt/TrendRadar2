@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:20:23.486076+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-01-26T19:16:45.782612+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 18时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时16分]"
         },
         {
           "title": "杭州 11 岁男孩小区创业给同龄人培优，不到两月赚六千，怎么做到的？家庭教育如何做能培养出这样的孩子？",
@@ -110,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
@@ -121,8 +121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时16分]"
         },
         {
           "title": "浙江一地取消中考选拔功能",
@@ -158,11 +158,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时16分]"
         },
         {
           "title": "印度现尼帕病毒疫情在泰留学生发声",
@@ -195,7 +196,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
