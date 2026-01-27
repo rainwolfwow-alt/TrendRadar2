@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-27T18:20:48.111541+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-01-27T19:18:34.813556+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 7,
       "titles": [
+        {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 19时18分]"
+        },
         {
           "title": "浙江一县取消中考选拔功能，实现全员直升，其主要政策考量是什么？这会成为普遍现象吗？",
           "url": "https://www.zhihu.com/question/1998893739536568759",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 05时18分]"
-        },
-        {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 18时20分]"
         },
         {
           "title": "海岛小县取消中考 背后有个大趋势",
