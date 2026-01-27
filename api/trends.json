@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T16:23:30.483616+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-01-27T17:26:43.693628+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 17时26分]"
         },
         {
           "title": "海岛小县取消中考 背后有个大趋势",
@@ -52,11 +52,12 @@
           "url": "https://www.zhihu.com/question/1998673563578757782",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "82岁老师写高考作文引关注",
