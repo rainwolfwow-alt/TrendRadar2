@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T01:28:03.275164+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-01-29T02:29:15.796766+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时29分]"
         },
         {
           "title": "阿富汗女性教育到小学为止",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             15,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时29分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -38,8 +39,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时29分]"
         }
       ]
     }
