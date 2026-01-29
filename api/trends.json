@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:31:45.321465+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-01-29T17:35:36.205190+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             9,
             8,
             12,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 16时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 17时35分]"
         },
         {
           "title": "阿富汗女性教育到小学为止",
@@ -58,11 +59,12 @@
             1,
             9,
             10,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 17时35分]"
         },
         {
           "title": "杭州妈妈因孩子反复学不会一道题吞安眠药被抢救，此前确诊过产后抑郁并服药多年，反映出哪些家庭与教育困境？",
@@ -80,11 +82,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32483924",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 17时35分]"
         },
         {
           "title": "深圳多区小学取消期末统考，由各校自行创新设计测试形式，如何看待这一决定？能推动教育评价多元化发展吗？",
