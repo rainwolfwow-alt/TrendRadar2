@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T17:35:36.205190+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-01-29T18:29:57.471296+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,24 @@
             9,
             10,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 18时29分]"
+        },
+        {
+          "title": "成都有家长反映高一学生无一教辅、依赖打印资料，教育局回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32483924",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 18时29分]"
         },
         {
           "title": "杭州妈妈因孩子反复学不会一道题吞安眠药被抢救，此前确诊过产后抑郁并服药多年，反映出哪些家庭与教育困境？",
@@ -76,18 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "成都有家长反映高一学生无一教辅、依赖打印资料，教育局回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32483924",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时35分]"
         },
         {
           "title": "深圳多区小学取消期末统考，由各校自行创新设计测试形式，如何看待这一决定？能推动教育评价多元化发展吗？",
