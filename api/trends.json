@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-01-29T14:38:01.073364+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-01-29T15:36:27.948684+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 7,
       "titles": [
-        {
-          "title": "82岁语文老师挑战高考作文",
-          "url": "https://search.bilibili.com/all?keyword=82%E5%B2%81%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E6%8C%91%E6%88%98%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时38分]"
-        },
         {
           "title": "马云谈AI时代教育",
           "url": "https://www.toutiao.com/trending/7600274916425351187/",
@@ -31,6 +18,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "82岁语文老师挑战高考作文",
+          "url": "https://search.bilibili.com/all?keyword=82%E5%B2%81%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E6%8C%91%E6%88%98%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 15时36分]"
         },
         {
           "title": "阿富汗女性教育到小学为止",
@@ -56,11 +57,12 @@
           "ranks": [
             1,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时36分]"
         },
         {
           "title": "杭州妈妈因孩子反复学不会一道题吞安眠药被抢救，此前确诊过产后抑郁并服药多年，反映出哪些家庭与教育困境？",
@@ -81,8 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 15时36分]"
         },
         {
           "title": "深圳多区小学取消期末统考，由各校自行创新设计测试形式，如何看待这一决定？能推动教育评价多元化发展吗？",
