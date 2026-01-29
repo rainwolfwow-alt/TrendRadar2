@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T19:26:27.920604+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-01-29T20:39:00.467761+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             12,
             15,
             17,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时02分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时02分 ~ 20时39分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -75,11 +76,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 19时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时37分 ~ 20时39分]"
         },
         {
           "title": "杭州妈妈因孩子反复学不会一道题吞安眠药被抢救，此前确诊过产后抑郁并服药多年，反映出哪些家庭与教育困境？",
