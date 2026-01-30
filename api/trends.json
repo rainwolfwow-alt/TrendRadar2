@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:03:25.763082+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-01-30T13:41:44.639291+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 12时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 13时41分]"
         },
         {
           "title": "成都有家长反映高一学生无一教辅、依赖打印资料，教育局回应",
