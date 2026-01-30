@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:20:13.283255+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-30T09:17:00.920286+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
@@ -28,19 +28,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 09时17分]"
         },
         {
           "title": "人设崩塌!夜店拼成留学主场",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349850&amp;topic_name=%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C%21%E5%A4%9C%E5%BA%97%E6%8B%BC%E6%88%90%E7%95%99%E5%AD%A6%E4%B8%BB%E5%9C%BA",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 09时17分]"
         }
       ]
     }
