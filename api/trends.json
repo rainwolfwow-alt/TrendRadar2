@@ -1,76 +1,7 @@
 {
-  "generated_at": "2026-01-30T23:27:27.562342+08:00",
-  "total_titles_processed": 2180,
+  "generated_at": "2026-01-31T00:31:44.769254+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "学校完工多年施工方称被拖欠工程款超2000万，沈阳浑南区教育局称已向财政部⻔请款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32483923",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时41分]"
-        },
-        {
-          "title": "成都有家长反映高一学生无一教辅、依赖打印资料，教育局回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32483924",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时20分]"
-        },
-        {
-          "title": "人设崩塌!夜店拼成留学主场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349850&amp;topic_name=%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C%21%E5%A4%9C%E5%BA%97%E6%8B%BC%E6%88%90%E7%95%99%E5%AD%A6%E4%B8%BB%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 09时17分]"
-        },
-        {
-          "title": "中公教育：预计2025年净利润同比下降70.06%-76.86%",
-          "url": "https://wallstreetcn.com/livenews/3047429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 23时27分]"
-        },
-        {
-          "title": "Anthropic CEO 发布万字长文《技术的青春期》，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1999506877659178761",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 16时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
