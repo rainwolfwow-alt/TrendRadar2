@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T15:36:28.540723+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-01-30T16:29:53.634208+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "url": "https://www.zhihu.com/question/1999506877659178761",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 16时29分]"
         }
       ]
     }
