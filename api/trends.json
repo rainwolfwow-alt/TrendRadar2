@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-02-01T23:18:36.447355+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-02-02T00:20:25.422081+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价电视剧《三十而已》大结局中王漫妮出国留学这个选择？",
-          "url": "https://www.zhihu.com/question/411895510",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            14,
-            9,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 19时17分]"
-        },
-        {
-          "title": "有什么适合本科学生研究的明史话题？",
-          "url": "https://www.zhihu.com/question/1999239878093857655",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 21时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
