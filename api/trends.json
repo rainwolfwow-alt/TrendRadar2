@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-01T09:29:24.117630+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-02-01T12:24:55.951890+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价电视剧《三十而已》大结局中王漫妮出国留学这个选择？",
+          "url": "https://www.zhihu.com/question/411895510",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
