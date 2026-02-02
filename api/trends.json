@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:37:37.828266+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-02-02T19:31:46.422562+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时31分]"
         },
         {
           "title": "新高考模式下该如何应考",
