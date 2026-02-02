@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T15:04:37.489345+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-02-02T16:34:44.722339+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 15时04分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 16时34分]"
         },
         {
           "title": "中考要退出历史舞台了吗",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E8%A6%81%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 16时34分]"
         },
         {
           "title": "新高考模式下该如何应考",
