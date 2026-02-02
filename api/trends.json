@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:31:46.422562+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-02-02T20:39:51.407318+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美方答凤凰：鲁比奥撤销签证声明针对中国留学生？",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时20分 ~ 17时39分]"
+        },
+        {
+          "title": "深圳 10 岁男孩帆船翻船求救，教练旁观指导自救成功，如何评价这种教育方式？",
+          "url": "https://www.zhihu.com/question/2001287396017321271",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 20时39分]"
         },
         {
           "title": "中考要退出历史舞台了吗",
@@ -33,19 +47,6 @@
           "time_info": "[13时59分 ~ 17时39分]"
         },
         {
-          "title": "深圳 10 岁男孩帆船翻船求救，教练旁观指导自救成功，如何评价这种教育方式？",
-          "url": "https://www.zhihu.com/question/2001287396017321271",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 19时31分]"
-        },
-        {
           "title": "新高考模式下该如何应考",
           "url": "https://www.toutiao.com/trending/7601798683901984810/",
           "source": "今日头条",
@@ -55,6 +56,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "看到好多留学生吐槽外国不仅猪肉骚，连牛肉羊肉甚至鸡肉都有点骚味，这是真的吗？",
+          "url": "https://www.zhihu.com/question/653628717",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     }
