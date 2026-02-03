@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T12:09:09.379082+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-02-03T13:44:55.553483+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             4,
             2,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 12时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 13时44分]"
         },
         {
           "title": "小学娃每天补课到晚上 10 点，成绩全班前 5，我却被骂「毁娃」，鸡娃到底错没错？",
