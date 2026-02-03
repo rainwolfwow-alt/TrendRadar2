@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T07:22:00.991326+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-02-03T09:22:54.995405+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 09时22分]"
         },
         {
           "title": "小学娃每天补课到晚上 10 点，成绩全班前 5，我却被骂「毁娃」，鸡娃到底错没错？",
           "url": "https://www.zhihu.com/question/2000508231253005397",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时22分]"
         }
       ]
     }
