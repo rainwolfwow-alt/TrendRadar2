@@ -1,86 +1,33 @@
 {
-  "generated_at": "2026-02-03T23:42:46.795928+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2026-02-04T00:44:12.643524+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "看到好多留学生吐槽外国不仅猪肉骚，连牛肉羊肉甚至鸡肉都有点骚味，这是真的吗？",
-          "url": "https://www.zhihu.com/question/653628717",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            4,
-            2,
-            19,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 14时41分]"
-        },
-        {
-          "title": "小学娃每天补课到晚上 10 点，成绩全班前 5，我却被骂「毁娃」，鸡娃到底错没错？",
-          "url": "https://www.zhihu.com/question/2000508231253005397",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时22分]"
-        },
-        {
-          "title": "你认为最有效的启蒙教育是什么",
-          "url": "https://www.toutiao.com/trending/7602467558870941702/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
         {
           "title": "本科二本清华硕士能弥补第一学历吗？",
           "url": "https://www.zhihu.com/question/1998507365620815764",
           "source": "知乎",
           "ranks": [
-            19,
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
+          "time_info": "[00时43分 ~ 00时44分]"
         },
         {
-          "title": "意外烧死萨摩耶两男孩已被批评教育",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%96%E7%83%A7%E6%AD%BB%E8%90%A8%E6%91%A9%E8%80%B6%E4%B8%A4%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "Meta Platforms(META.O)与尼日利亚数据保护委员会合作，在尼日利亚启动隐私教育活动。",
+          "url": "https://flash.jin10.com/detail/20260204002233801800",
+          "source": "金十数据",
           "ranks": [
-            21
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "上海印发《鼓励留学人员来上海工作和创业的若干规定》",
-          "url": "https://wallstreetcn.com/livenews/3048981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "00时44分"
         }
       ]
     }
