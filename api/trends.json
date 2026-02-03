@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T22:44:37.633061+08:00",
-  "total_titles_processed": 1937,
+  "generated_at": "2026-02-03T23:42:46.795928+08:00",
+  "total_titles_processed": 2032,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,30 @@
           "time_info": "[07时21分 ~ 09时22分]"
         },
         {
+          "title": "你认为最有效的启蒙教育是什么",
+          "url": "https://www.toutiao.com/trending/7602467558870941702/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时42分]"
+        },
+        {
+          "title": "本科二本清华硕士能弥补第一学历吗？",
+          "url": "https://www.zhihu.com/question/1998507365620815764",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时42分]"
+        },
+        {
           "title": "意外烧死萨摩耶两男孩已被批评教育",
           "url": "https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%96%E7%83%A7%E6%AD%BB%E8%90%A8%E6%91%A9%E8%80%B6%E4%B8%A4%E7%94%B7%E5%AD%A9%E5%B7%B2%E8%A2%AB%E6%89%B9%E8%AF%84%E6%95%99%E8%82%B2%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -48,17 +72,6 @@
           "time_info": "[12时08分 ~ 12时09分]"
         },
         {
-          "title": "你认为最有效的启蒙教育是什么",
-          "url": "https://www.toutiao.com/trending/7602467558870941702/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "上海印发《鼓励留学人员来上海工作和创业的若干规定》",
           "url": "https://wallstreetcn.com/livenews/3048981",
           "source": "华尔街见闻-快讯",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
-        },
-        {
-          "title": "本科二本清华硕士能弥补第一学历吗？",
-          "url": "https://www.zhihu.com/question/1998507365620815764",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
         }
       ]
     }
