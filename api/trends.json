@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T04:26:50.325022+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-02-05T05:26:51.885963+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时26分]"
         },
         {
           "title": "市场消息：美国在南卡罗来纳州重启铀回收作业。",
