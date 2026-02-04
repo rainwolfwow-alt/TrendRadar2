@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-02-04T23:37:43.416549+08:00",
-  "total_titles_processed": 2174,
+  "generated_at": "2026-02-05T00:38:22.261366+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "本科二本清华硕士能弥补第一学历吗？",
-          "url": "https://www.zhihu.com/question/1998507365620815764",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            9,
-            11,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 09时17分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)与尼日利亚数据保护委员会合作，在尼日利亚启动隐私教育活动。",
-          "url": "https://flash.jin10.com/detail/20260204002233801800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "广东教育厅原厅长罗伟其被查",
-          "url": "https://www.toutiao.com/trending/7602901285436031018/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
