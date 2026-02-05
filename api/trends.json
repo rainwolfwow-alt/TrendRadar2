@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T20:42:18.734724+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2026-02-05T22:02:09.572237+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             13,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时50分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[13时50分 ~ 22时02分]"
         },
         {
           "title": "取消中高考是早晚的事",
@@ -53,6 +54,19 @@
           "time_info": "[12时08分 ~ 17时37分]"
         },
         {
+          "title": "今年起苏浙皖均将实施中小学春秋假，“互推”亲子游客源",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32539352",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 22时02分]"
+        },
+        {
           "title": "上海政协委员：取消中高考是早晚的事",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%EF%BC%9A%E5%8F%96%E6%B6%88%E4%B8%AD%E9%AB%98%E8%80%83%E6%98%AF%E6%97%A9%E6%99%9A%E7%9A%84%E4%BA%8B",
           "source": "百度热搜",
@@ -63,18 +77,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时08分 ~ 15时45分]"
-        },
-        {
-          "title": "今年起苏浙皖均将实施中小学春秋假，“互推”亲子游客源",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32539352",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时42分]"
         },
         {
           "title": "爱泼斯坦案视频现亲子鉴定试剂盒",
