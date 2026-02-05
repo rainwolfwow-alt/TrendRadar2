@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T02:39:32.221989+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-06T03:33:58.919475+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32539352",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时33分]"
+        },
+        {
+          "title": "砖家神预言:中高考必取消",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350238&amp;topic_name=%E7%A0%96%E5%AE%B6%E7%A5%9E%E9%A2%84%E8%A8%80%3A%E4%B8%AD%E9%AB%98%E8%80%83%E5%BF%85%E5%8F%96%E6%B6%88",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "知名奶茶列三不买被吐槽教育顾客",
@@ -26,17 +38,6 @@
             10,
             15,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时39分]"
-        },
-        {
-          "title": "砖家神预言:中高考必取消",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350238&amp;topic_name=%E7%A0%96%E5%AE%B6%E7%A5%9E%E9%A2%84%E8%A8%80%3A%E4%B8%AD%E9%AB%98%E8%80%83%E5%BF%85%E5%8F%96%E6%B6%88",
-          "source": "贴吧",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 5,
