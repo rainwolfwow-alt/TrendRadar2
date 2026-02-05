@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T16:34:54.038137+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-02-05T17:37:16.790371+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             14,
             17,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 17时37分]"
         },
         {
           "title": "上海政协委员：取消中高考是早晚的事",
@@ -28,11 +29,12 @@
           "ranks": [
             2,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时37分]"
         },
         {
           "title": "上海政协委员：取消中高考是早晚的事",
@@ -53,11 +55,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 17时37分]"
         },
         {
           "title": "爱泼斯坦案视频现亲子鉴定试剂盒",
@@ -87,6 +90,17 @@
           "time_info": "[03时35分 ~ 05时26分]"
         },
         {
+          "title": "今年起苏浙皖均将实施中小学春秋假，“互推”亲子游客源",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32539352",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时37分]"
+        },
+        {
           "title": "市场消息：美国在南卡罗来纳州重启铀回收作业。",
           "url": "https://flash.jin10.com/detail/20260205023439629800",
           "source": "金十数据",
@@ -97,17 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时26分]"
-        },
-        {
-          "title": "今年起苏浙皖均将实施中小学春秋假，“互推”亲子游客源",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32539352",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         }
       ]
     }
