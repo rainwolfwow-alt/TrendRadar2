@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T05:22:57.541338+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-06T06:20:36.832618+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时20分]"
         },
         {
           "title": "砖家神预言:中高考必取消",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时20分]"
         },
         {
           "title": "知名奶茶列三不买被吐槽教育顾客",
@@ -49,11 +49,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时20分]"
         }
       ]
     }
