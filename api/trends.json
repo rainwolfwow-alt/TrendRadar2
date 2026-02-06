@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T01:37:22.231241+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-02-07T02:38:10.733254+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32550440",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "一批“60后”退休后出国留学",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E2%80%9C60%E5%90%8E%E2%80%9D%E9%80%80%E4%BC%91%E5%90%8E%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时38分]"
         }
       ]
     }
