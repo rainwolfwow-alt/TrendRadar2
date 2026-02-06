@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T13:48:00.034444+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-02-06T14:44:12.866463+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "今年起苏浙皖均将实施中小学春秋假，“互推”亲子游客源",
@@ -61,6 +61,29 @@
           "time_info": "[04时25分 ~ 07时18分]"
         },
         {
+          "title": "教育部将持续整治校园餐教辅校服等",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E6%8C%81%E7%BB%AD%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E9%A4%90%E6%95%99%E8%BE%85%E6%A0%A1%E6%9C%8D%E7%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 14时44分]"
+        },
+        {
+          "title": "一批“60后”退休后出国留学",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%89%B9%E2%80%9C60%E5%90%8E%E2%80%9D%E9%80%80%E4%BC%91%E5%90%8E%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
+        },
+        {
           "title": "斯内普给自己取名「混血王子」是不是有点中二？",
           "url": "https://www.zhihu.com/question/1992148325558941052",
           "source": "知乎",
@@ -72,24 +95,13 @@
           "time_info": "[09时17分 ~ 12时08分]"
         },
         {
-          "title": "教育部将持续整治校园餐教辅校服等",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E6%8C%81%E7%BB%AD%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E9%A4%90%E6%95%99%E8%BE%85%E6%A0%A1%E6%9C%8D%E7%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
           "title": "中考命题减少超纲超标和死记硬背",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E5%91%BD%E9%A2%98%E5%87%8F%E5%B0%91%E8%B6%85%E7%BA%B2%E8%B6%85%E6%A0%87%E5%92%8C%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C",
           "source": "百度热搜",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -100,7 +112,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
