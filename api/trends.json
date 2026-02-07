@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T02:24:47.669179+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-02-08T03:19:10.804052+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时19分]"
+        },
+        {
+          "title": "马蓉长文卖惨,自爆财尽亲子疏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350348&amp;topic_name=%E9%A9%AC%E8%93%89%E9%95%BF%E6%96%87%E5%8D%96%E6%83%A8%2C%E8%87%AA%E7%88%86%E8%B4%A2%E5%B0%BD%E4%BA%B2%E5%AD%90%E7%96%8F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时19分]"
         },
         {
           "title": "教育局回应成绩单用星星显示",
@@ -32,18 +44,6 @@
           "time_info": "[00时20分 ~ 02时24分]"
         },
         {
-          "title": "马蓉长文卖惨,自爆财尽亲子疏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350348&amp;topic_name=%E9%A9%AC%E8%93%89%E9%95%BF%E6%96%87%E5%8D%96%E6%83%A8%2C%E8%87%AA%E7%88%86%E8%B4%A2%E5%B0%BD%E4%BA%B2%E5%AD%90%E7%96%8F",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
-        },
-        {
           "title": "中国首次实现5000米级高海拔超高压等电位带电作业",
           "url": "https://wallstreetcn.com/livenews/3051735",
           "source": "华尔街见闻-快讯",
@@ -52,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时19分]"
         }
       ]
     }
