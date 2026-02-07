@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T15:27:22.460019+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-07T16:22:57.145748+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时22分]"
         },
         {
           "title": "【社论】推进中考改革，回归教育本质",
@@ -29,11 +29,12 @@
             11,
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 15时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时22分]"
         },
         {
           "title": "一批“60后”退休后出国留学",
