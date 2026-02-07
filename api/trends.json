@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T07:18:55.263662+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-02-07T09:15:44.461084+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【社论】推进中考改革，回归教育本质",
@@ -14,11 +14,23 @@
           "ranks": [
             13,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时15分]"
+        },
+        {
+          "title": "马蓉长文卖惨,自爆财尽亲子疏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350348&amp;topic_name=%E9%A9%AC%E8%93%89%E9%95%BF%E6%96%87%E5%8D%96%E6%83%A8%2C%E8%87%AA%E7%88%86%E8%B4%A2%E5%B0%BD%E4%BA%B2%E5%AD%90%E7%96%8F",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "一批“60后”退休后出国留学",
