@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:24:18.924482+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-02-08T17:24:16.297873+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             17,
             22,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 16时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 17时24分]"
         },
         {
           "title": "中国首次实现5000米级高海拔超高压等电位带电作业",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 17时24分]"
         }
       ]
     }
