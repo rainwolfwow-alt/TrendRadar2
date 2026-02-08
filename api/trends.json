@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T09:53:15.239337+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-02-08T12:28:53.988048+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             8,
             11,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 12时28分]"
         },
         {
           "title": "中国首次实现5000米级高海拔超高压等电位带电作业",
@@ -42,11 +43,12 @@
             10,
             12,
             14,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 09时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 12时28分]"
         },
         {
           "title": "教育局回应成绩单用星星显示",
