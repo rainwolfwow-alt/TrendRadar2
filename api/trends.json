@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T17:24:16.297873+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-02-08T18:19:58.316801+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 17时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 18时19分]"
         },
         {
           "title": "中国首次实现5000米级高海拔超高压等电位带电作业",
@@ -54,6 +54,18 @@
           "time_info": "[00时20分 ~ 12时28分]"
         },
         {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 18时19分]"
+        },
+        {
           "title": "教育局回应成绩单用星星显示",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%88%90%E7%BB%A9%E5%8D%95%E7%94%A8%E6%98%9F%E6%98%9F%E6%98%BE%E7%A4%BA%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -65,18 +77,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时24分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 17时24分]"
         }
       ]
     }
