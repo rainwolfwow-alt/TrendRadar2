@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:40:29.031462+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-02-08T22:21:59.521726+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时53分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时44分 ~ 22时21分]"
         },
         {
           "title": "马蓉长文卖惨,自爆财尽亲子疏",
@@ -53,20 +68,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 12时28分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时44分 ~ 21时40分]"
         },
         {
           "title": "教育局回应成绩单用星星显示",
