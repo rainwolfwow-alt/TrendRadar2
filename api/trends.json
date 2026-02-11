@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-02-11T23:54:31.619284+08:00",
-  "total_titles_processed": 1975,
+  "generated_at": "2026-02-12T00:57:59.309344+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "广东 6 岁女孩炫耀「假期很闲」引网友寄作业和戒尺，如何看待这种「玩笑」？",
           "url": "https://www.zhihu.com/question/2002842696365143183",
           "source": "知乎",
           "ranks": [
-            19,
-            12,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时39分 ~ 23时54分]"
-        },
-        {
-          "title": "博士寒假被迫挑战高考化学",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E5%A3%AB%E5%AF%92%E5%81%87%E8%A2%AB%E8%BF%AB%E6%8C%91%E6%88%98%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "距离年夜饭交作业还有5天",
-          "url": "https://www.douyin.com/hot/2396743",
-          "source": "抖音",
-          "ranks": [
-            23
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "00时57分"
         }
       ]
     }
