@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T20:49:39.768653+08:00",
-  "total_titles_processed": 1731,
+  "generated_at": "2026-02-11T22:12:38.517904+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时12分]"
         },
         {
           "title": "博士寒假被迫挑战高考化学",
