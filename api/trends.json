@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T20:45:36.116729+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2026-02-12T22:07:09.220508+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "time_info": "[00时57分 ~ 07时25分]"
         },
         {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时07分]"
+        },
+        {
           "title": "吉林省将进行中考改革",
           "url": "https://www.toutiao.com/trending/7604789279822266422/",
           "source": "今日头条",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时53分 ~ 06时23分]"
-        },
-        {
-          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 20时45分]"
         },
         {
           "title": "《生命树》杨紫也逃不掉辅导女儿作业",
