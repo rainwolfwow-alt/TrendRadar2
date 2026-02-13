@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:39:19.699112+08:00",
-  "total_titles_processed": 2033,
+  "generated_at": "2026-02-13T23:36:06.829489+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -27,11 +27,23 @@
             5,
             6,
             7,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 22时39分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 23时36分]"
+        },
+        {
+          "title": "清华大学本科生一作发表《Nature》攻克核光钟研制的瓶颈，此研究有哪些价值？",
+          "url": "https://www.zhihu.com/question/2005596695799562380",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "孩子抑郁厌学，为什么看了心理医生还是收效甚微？",
@@ -40,7 +52,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         }
