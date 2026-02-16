@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:42:03.545882+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-02-16T19:35:35.050582+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             21,
             16,
             14,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 19时35分]"
         },
         {
           "title": "留学新思路:打包教授带回国",
@@ -31,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时35分]"
         },
         {
           "title": "父母应该怎样教育孩子",
