@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T18:38:48.646237+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-02-17T19:35:24.797894+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 18时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 19时35分]"
         },
         {
           "title": "Anthropic与卢旺达政府签署关于人工智能在医疗和教育领域应用的谅解备忘录。",
@@ -30,7 +30,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
