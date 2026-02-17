@@ -1,38 +1,22 @@
 {
-  "generated_at": "2026-02-17T22:03:01.155593+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-02-18T00:14:49.201690+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "留学新思路:打包教授带回国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350742&amp;topic_name=%E7%95%99%E5%AD%A6%E6%96%B0%E6%80%9D%E8%B7%AF%3A%E6%89%93%E5%8C%85%E6%95%99%E6%8E%88%E5%B8%A6%E5%9B%9E%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            5,
-            4,
-            8,
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时35分 ~ 22时03分]"
-        },
-        {
-          "title": "Anthropic与卢旺达政府签署关于人工智能在医疗和教育领域应用的谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20260217180419136800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "00时14分"
         }
       ]
     }
