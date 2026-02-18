@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T12:15:12.967996+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-02-18T13:56:44.151499+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时56分]"
         },
         {
           "title": "美联储戴利：除了医疗和教育，美国经济中大部分行业都面临失业。",
