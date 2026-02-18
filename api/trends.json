@@ -1,87 +1,22 @@
 {
-  "generated_at": "2026-02-18T22:04:18.136660+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-02-19T00:55:59.927126+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "留学新思路:打包教授带回国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350742&amp;topic_name=%E7%95%99%E5%AD%A6%E6%96%B0%E6%80%9D%E8%B7%AF%3A%E6%89%93%E5%8C%85%E6%95%99%E6%8E%88%E5%B8%A6%E5%9B%9E%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            15,
-            16,
-            18,
-            19,
-            22,
-            23,
-            25,
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 22时04分]"
-        },
-        {
-          "title": "印度外交部发言人：印度总理莫迪与西班牙首相桑切斯于2026年印度AI影响峰会期间进行了会晤。两位领导人讨论了旨在深化印西伙伴关系的广泛议题。讨论的重点领域包括贸易与经济、数字化、创新、健康、气候行动和教育等。总理对西班牙在加强印欧关系方面的持续支持表示赞赏。",
-          "url": "https://flash.jin10.com/detail/20260218142118216800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "印度外交部发言人：印度总理莫迪今日与塞尔维亚总统在“人工智能影响峰会”的间隙举行了双边会谈。两位领导人探讨了加强双边在贸易与投资、人工智能、金融科技、教育、农业、旅游以及人文交流等方面合作的途径。他们还就双方共同关心的地区及全球性问题交换了意见。",
-          "url": "https://flash.jin10.com/detail/20260218161742110800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美联储戴利：除了医疗和教育，美国经济中大部分行业都面临失业。",
-          "url": "https://flash.jin10.com/detail/20260218042225616800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时28分]"
-        },
-        {
-          "title": "在亲子教育中为什么往往是大人先崩溃？",
-          "url": "https://www.zhihu.com/question/1994688363001823438",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时04分]"
-        },
-        {
-          "title": "美国一司机逃避移民执法人员拦查时发生车祸，致特殊教育教师死亡",
-          "url": "https://wallstreetcn.com/livenews/3056119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "00时55分"
         }
       ]
     }
