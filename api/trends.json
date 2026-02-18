@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T14:54:17.249525+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-02-18T15:46:45.745266+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             16,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 15时46分]"
         },
         {
           "title": "印度外交部发言人：印度总理莫迪与西班牙首相桑切斯于2026年印度AI影响峰会期间进行了会晤。两位领导人讨论了旨在深化印西伙伴关系的广泛议题。讨论的重点领域包括贸易与经济、数字化、创新、健康、气候行动和教育等。总理对西班牙在加强印欧关系方面的持续支持表示赞赏。",
@@ -28,7 +29,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
