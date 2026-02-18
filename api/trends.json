@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:37:51.825043+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-02-18T19:34:39.269936+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "留学新思路:打包教授带回国",
@@ -21,8 +21,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 18时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 19时34分]"
         },
         {
           "title": "印度外交部发言人：印度总理莫迪与西班牙首相桑切斯于2026年印度AI影响峰会期间进行了会晤。两位领导人讨论了旨在深化印西伙伴关系的广泛议题。讨论的重点领域包括贸易与经济、数字化、创新、健康、气候行动和教育等。总理对西班牙在加强印欧关系方面的持续支持表示赞赏。",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "在亲子教育中为什么往往是大人先崩溃？",
+          "url": "https://www.zhihu.com/question/1994688363001823438",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     }
