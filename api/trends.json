@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T19:16:07.573066+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-02-22T20:31:55.378090+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 20时31分]"
         },
         {
           "title": "在家喝杯咖啡都被教育",
