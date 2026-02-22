@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:18:44.993431+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-02-22T19:16:07.573066+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%93%B6%E5%8F%91%E7%95%99%E5%AD%A6%E2%80%9D%E6%AD%A3%E5%9C%A8%E6%82%84%E7%84%B6%E5%85%B4%E8%B5%B7",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时16分]"
         },
         {
           "title": "在家喝杯咖啡都被教育",
@@ -25,7 +26,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
