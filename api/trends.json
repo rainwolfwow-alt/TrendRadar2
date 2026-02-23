@@ -1,60 +1,33 @@
 {
-  "generated_at": "2026-02-23T23:40:11.914674+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-02-24T00:53:27.539738+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "在全党开展树立和践行正确政绩观学习教育",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%85%A8%E5%85%9A%E5%BC%80%E5%B1%95%E6%A0%91%E7%AB%8B%E5%92%8C%E8%B7%B5%E8%A1%8C%E6%AD%A3%E7%A1%AE%E6%94%BF%E7%BB%A9%E8%A7%82%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
         {
           "title": "这样写寒假作业夯爆了",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%A0%B7%E5%86%99%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E5%A4%AF%E7%88%86%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
-            9,
-            8,
-            26,
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 23时40分]"
-        },
-        {
-          "title": "“银发留学”正在悄然兴起",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%93%B6%E5%8F%91%E7%95%99%E5%AD%A6%E2%80%9D%E6%AD%A3%E5%9C%A8%E6%82%84%E7%84%B6%E5%85%B4%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "为什么有人认为我国基础教育不教逻辑学？",
-          "url": "https://www.zhihu.com/question/1973003474213048580",
-          "source": "知乎",
-          "ranks": [
-            16
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "市场消息：英国公布了40亿英镑的投资计划，用于支持有特殊教育需求和残疾的儿童。",
-          "url": "https://flash.jin10.com/detail/20260223073913753800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "00时53分"
         }
       ]
     }
