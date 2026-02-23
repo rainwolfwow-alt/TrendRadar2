@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T06:34:13.250425+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-24T07:29:21.194949+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时29分]"
         },
         {
           "title": "这样写寒假作业夯爆了",
@@ -26,11 +26,12 @@
             29,
             30,
             26,
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 06时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 07时29分]"
         }
       ]
     }
