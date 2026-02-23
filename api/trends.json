@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:35:23.803872+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-02-23T21:40:42.155987+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             9,
             8,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 21时40分]"
         },
         {
           "title": "“银发留学”正在悄然兴起",
@@ -39,7 +40,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
