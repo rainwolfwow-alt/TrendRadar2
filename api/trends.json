@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T14:01:49.782600+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-02-23T15:49:42.978714+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%A0%B7%E5%86%99%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E5%A4%AF%E7%88%86%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 15时49分]"
         },
         {
           "title": "“银发留学”正在悄然兴起",
