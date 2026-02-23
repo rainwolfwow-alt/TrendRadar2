@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T15:49:42.978714+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-02-23T16:40:37.604373+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 16时40分]"
         },
         {
           "title": "“银发留学”正在悄然兴起",
