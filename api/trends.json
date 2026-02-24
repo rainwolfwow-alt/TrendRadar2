@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T18:41:10.140848+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-02-24T19:46:55.234920+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 19时46分]"
         },
         {
           "title": "这样写寒假作业夯爆了",
@@ -43,11 +44,12 @@
             10,
             22,
             27,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 18时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 19时46分]"
         },
         {
           "title": "中办印发《通知》在全党开展树立和践行正确政绩观学习教育",
@@ -57,11 +59,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 19时46分]"
         }
       ]
     }
