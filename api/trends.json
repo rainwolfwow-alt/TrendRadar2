@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T16:38:05.400130+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-02-24T17:44:22.253552+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 12时28分]"
+        },
+        {
+          "title": "男粉舔coser,点名清北办留学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350914&amp;topic_name=%E7%94%B7%E7%B2%89%E8%88%94coser%2C%E7%82%B9%E5%90%8D%E6%B8%85%E5%8C%97%E5%8A%9E%E7%95%99%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 17时44分]"
         },
         {
           "title": "这样写寒假作业夯爆了",
@@ -36,29 +49,18 @@
           "time_info": "[00时53分 ~ 16时38分]"
         },
         {
-          "title": "男粉舔coser,点名清北办留学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350914&amp;topic_name=%E7%94%B7%E7%B2%89%E8%88%94coser%2C%E7%82%B9%E5%90%8D%E6%B8%85%E5%8C%97%E5%8A%9E%E7%95%99%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 16时38分]"
-        },
-        {
           "title": "中办印发《通知》在全党开展树立和践行正确政绩观学习教育",
           "url": "https://m.thepaper.cn/newsDetail_forward_32646362",
           "source": "澎湃新闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 16时38分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 17时44分]"
         }
       ]
     }
