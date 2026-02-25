@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T12:19:41.051456+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-02-25T14:15:09.129218+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             7,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时05分 ~ 14时15分]"
         },
         {
           "title": "教育局回应教师报考其他单位遭开除",
@@ -50,7 +51,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         }
