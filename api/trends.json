@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T17:55:51.190102+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-02-25T18:43:34.220629+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             14,
             12,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时05分 ~ 17时55分]"
+          "appearance_count": 23,
+          "time_info": "[00时05分 ~ 18时43分]"
         },
         {
           "title": "寒假作业烂尾工程开工了",
@@ -31,11 +32,12 @@
           "ranks": [
             24,
             18,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 17时55分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 18时43分]"
         },
         {
           "title": "教育局回应教师报考其他单位遭开除",
@@ -55,11 +57,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时43分]"
         },
         {
           "title": "这样写寒假作业夯爆了",
