@@ -1,59 +1,12 @@
 {
-  "generated_at": "2026-02-25T23:55:33.358607+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2026-02-26T01:01:40.219666+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "男粉舔coser,点名清北办留学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350914&amp;topic_name=%E7%94%B7%E7%B2%89%E8%88%94coser%2C%E7%82%B9%E5%90%8D%E6%B8%85%E5%8C%97%E5%8A%9E%E7%95%99%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            13,
-            14,
-            12,
-            15,
-            17,
-            19,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时05分 ~ 23时55分]"
-        },
-        {
-          "title": "寒假作业烂尾工程开工了",
-          "url": "https://www.baidu.com/s?wd=%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E7%83%82%E5%B0%BE%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时55分 ~ 19时36分]"
-        },
-        {
-          "title": "重庆85岁爸爸教育62岁儿子少玩手机",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%8685%E5%B2%81%E7%88%B8%E7%88%B8%E6%95%99%E8%82%B262%E5%B2%81%E5%84%BF%E5%AD%90%E5%B0%91%E7%8E%A9%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时36分]"
-        },
         {
           "title": "曾高考16次的唐尚珺为老妈盖楼房",
           "url": "https://www.toutiao.com/trending/7610496290271100969/",
@@ -61,90 +14,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时55分"
+          "time_info": "01时01分"
         },
         {
           "title": "教育部：将严查挤占体育课、课间不准学生出教室等行为",
           "url": "https://www.cls.cn/detail/2295029",
           "source": "财联社热门",
           "ranks": [
-            13,
-            5,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时52分 ~ 23时55分]"
-        },
-        {
-          "title": "教育局回应教师报考其他单位遭开除",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E6%8A%A5%E8%80%83%E5%85%B6%E4%BB%96%E5%8D%95%E4%BD%8D%E9%81%AD%E5%BC%80%E9%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时19分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
           "url": "https://m.thepaper.cn/newsDetail_forward_32655079",
           "source": "澎湃新闻",
           "ranks": [
-            15,
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时52分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
-          "title": "教育部：将严查挤占体育课等行为",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%B0%86%E4%B8%A5%E6%9F%A5%E6%8C%A4%E5%8D%A0%E4%BD%93%E8%82%B2%E8%AF%BE%E7%AD%89%E8%A1%8C%E4%B8%BA",
-          "source": "百度热搜",
+          "title": "男粉舔coser,点名清北办留学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350914&amp;topic_name=%E7%94%B7%E7%B2%89%E8%88%94coser%2C%E7%82%B9%E5%90%8D%E6%B8%85%E5%8C%97%E5%8A%9E%E7%95%99%E5%AD%A6",
+          "source": "贴吧",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
-          "url": "https://wallstreetcn.com/livenews/3058822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "这样写寒假作业夯爆了",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%A0%B7%E5%86%99%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E5%A4%AF%E7%88%86%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "教育局回应教师报考其他单位遭开除",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E6%8A%A5%E8%80%83%E5%85%B6%E4%BB%96%E5%8D%95%E4%BD%8D%E9%81%AD%E5%BC%80%E9%99%A4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "01时01分"
         }
       ]
     }
