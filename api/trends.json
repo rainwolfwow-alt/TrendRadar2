@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T19:35:25.882241+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-02-26T20:44:41.821383+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,21 @@
           "time_info": "[01时01分 ~ 09时18分]"
         },
         {
+          "title": "寒假赶作业现状",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%92%E5%81%87%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            14,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 20时44分]"
+        },
+        {
           "title": "曾高考16次的唐尚珺为老妈盖楼房",
           "url": "https://www.toutiao.com/trending/7610496290271100969/",
           "source": "今日头条",
@@ -67,21 +82,6 @@
           "time_info": "[01时01分 ~ 07时23分]"
         },
         {
-          "title": "寒假赶作业现状",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%92%E5%81%87%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            14,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时51分 ~ 19时35分]"
-        },
-        {
           "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658888",
           "source": "澎湃新闻",
@@ -90,11 +90,12 @@
             14,
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 20时44分]"
         },
         {
           "title": "教育部将严查挤占体育课、课间不准学生出教室等行为，具有怎样的积极作用？能否有效落实？",
@@ -164,7 +165,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
