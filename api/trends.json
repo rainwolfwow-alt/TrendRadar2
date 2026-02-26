@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:38:48.545114+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-02-26T19:35:25.882241+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "教育部：学生每天体育2小时、课间15分钟已在全国所有省份部署推开",
@@ -74,11 +74,12 @@
             5,
             9,
             14,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 18时38分]"
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 19时35分]"
         },
         {
           "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
@@ -88,11 +89,12 @@
             19,
             14,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 19时35分]"
         },
         {
           "title": "教育部将严查挤占体育课、课间不准学生出教室等行为，具有怎样的积极作用？能否有效落实？",
@@ -133,6 +135,18 @@
           "time_info": "[09时18分 ~ 12时10分]"
         },
         {
+          "title": "甘肃一中学拟制定早五晚十一超长作息表，教育局回应「参考外地学校」，这种安排会对孩子带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010341505303344959",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
+        },
+        {
           "title": "日本科研机构用宇树机器人诵经",
           "url": "https://www.toutiao.com/trending/7610684492474449974/",
           "source": "今日头条",
@@ -144,15 +158,15 @@
           "time_info": "13时53分"
         },
         {
-          "title": "甘肃一中学拟制定早五晚十一超长作息表，教育局回应「参考外地学校」，这种安排会对孩子带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010341505303344959",
-          "source": "知乎",
+          "title": "东方财富：控股股东其实计划向上海交通大学教育发展基金会捐赠2000万股 按今日收盘价计对应市值4.5亿元",
+          "url": "https://wallstreetcn.com/livenews/3059536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "19时35分"
         },
         {
           "title": "教育部：严查课间不准学生出教室",
