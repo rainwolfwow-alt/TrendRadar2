@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T15:46:32.451575+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-02-26T16:37:46.535253+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 15时46分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 16时37分]"
         },
         {
           "title": "男粉舔coser,点名清北办留学",
@@ -31,11 +31,12 @@
             23,
             25,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 15时46分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 16时37分]"
         },
         {
           "title": "教育部：将严查挤占体育课、课间不准学生出教室等行为",
@@ -71,11 +72,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时37分]"
         },
         {
           "title": "教育部将严查挤占体育课、课间不准学生出教室等行为，具有怎样的积极作用？能否有效落实？",
@@ -116,6 +118,18 @@
           "time_info": "[09时18分 ~ 12时10分]"
         },
         {
+          "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658888",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时37分]"
+        },
+        {
           "title": "日本科研机构用宇树机器人诵经",
           "url": "https://www.toutiao.com/trending/7610684492474449974/",
           "source": "今日头条",
@@ -125,17 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658888",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
         },
         {
           "title": "教育部：严查课间不准学生出教室",
