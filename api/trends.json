@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T01:53:54.688715+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-27T02:42:03.290705+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时42分]"
         },
         {
           "title": "高考最后一百天可以做什么",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时42分]"
         },
         {
           "title": "寒假赶作业现状",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时42分]"
         },
         {
           "title": "高考百日冲刺抖音帮我上分了",
@@ -46,11 +46,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时42分]"
         }
       ]
     }
