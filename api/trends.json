@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T09:17:05.785619+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-02-27T12:07:06.260393+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 09时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 12时07分]"
         },
         {
           "title": "高考最后一百天可以做什么",
@@ -28,11 +28,12 @@
             3,
             2,
             4,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 09时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 12时07分]"
         },
         {
           "title": "寒假赶作业现状",
@@ -42,11 +43,12 @@
             10,
             14,
             8,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 09时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 12时07分]"
         },
         {
           "title": "高考百日冲刺抖音帮我上分了",
@@ -62,19 +64,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 12时07分]"
         },
         {
           "title": "高考倒计时100天",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 12时07分]"
         }
       ]
     }
