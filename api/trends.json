@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:33:10.162622+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-02-27T17:34:16.661239+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 17时34分]"
         },
         {
           "title": "高考最后一百天可以做什么",
@@ -63,11 +64,12 @@
             13,
             20,
             24,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 16时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时49分 ~ 17时34分]"
         },
         {
           "title": "高考百日冲刺抖音帮我上分了",
@@ -98,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 17时34分]"
         }
       ]
     }
