@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T02:32:14.979062+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-28T03:29:12.408480+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时29分]"
         },
         {
           "title": "寒假赶作业现状",
           "url": "https://search.bilibili.com/all?keyword=%E5%AF%92%E5%81%87%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 03时29分]"
         }
       ]
     }
