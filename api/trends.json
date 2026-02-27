@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T06:16:46.635136+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-02-28T07:18:09.865208+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时18分]"
         },
         {
           "title": "寒假赶作业现状",
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 07时18分]"
         }
       ]
     }
