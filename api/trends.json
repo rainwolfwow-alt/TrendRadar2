@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:31:36.538076+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-02-27T19:27:38.337111+08:00",
+  "total_titles_processed": 1686,
   "failed_sources": [],
   "trends": [
     {
@@ -22,20 +22,6 @@
           "time_info": "[00时49分 ~ 13时46分]"
         },
         {
-          "title": "高考倒计时100天",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 18时31分]"
-        },
-        {
           "title": "高考最后一百天可以做什么",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E%E4%B8%80%E7%99%BE%E5%A4%A9%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -55,6 +41,21 @@
           "time_info": "[00时49分 ~ 16时33分]"
         },
         {
+          "title": "高考倒计时100天",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时16分 ~ 19时27分]"
+        },
+        {
           "title": "寒假赶作业现状",
           "url": "https://search.bilibili.com/all?keyword=%E5%AF%92%E5%81%87%E8%B5%B6%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
@@ -69,8 +70,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时49分 ~ 18时31分]"
+          "appearance_count": 24,
+          "time_info": "[00时49分 ~ 19时27分]"
         },
         {
           "title": "高考百日冲刺抖音帮我上分了",
@@ -99,11 +100,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时42分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时42分 ~ 19时27分]"
         }
       ]
     }
