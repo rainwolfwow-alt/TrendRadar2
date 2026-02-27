@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:35:46.851166+08:00",
-  "total_titles_processed": 1989,
+  "generated_at": "2026-02-27T23:32:39.673107+08:00",
+  "total_titles_processed": 2091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "著名法学家、“人民教育家”高铭暄逝世，享年98岁",
@@ -52,11 +52,12 @@
             10,
             25,
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时16分 ~ 22时35分]"
+          "appearance_count": 17,
+          "time_info": "[09时16分 ~ 23时32分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -70,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 22时35分]"
+          "appearance_count": 12,
+          "time_info": "[14时42分 ~ 23时32分]"
         },
         {
           "title": "寒假赶作业现状",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时49分 ~ 16时33分]"
+        },
+        {
+          "title": "假期返程飞机上孩子扎堆赶作业崩溃大哭，你家孩子这次假期作业收尾得还顺利吗？",
+          "url": "https://www.zhihu.com/question/2010094067950850784",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     }
