@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T21:55:40.611727+08:00",
-  "total_titles_processed": 1902,
+  "generated_at": "2026-02-27T22:35:46.851166+08:00",
+  "total_titles_processed": 1989,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
             13,
             10,
             25,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时16分 ~ 21时55分]"
+          "appearance_count": 16,
+          "time_info": "[09时16分 ~ 22时35分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时42分 ~ 21时55分]"
+          "appearance_count": 11,
+          "time_info": "[14时42分 ~ 22时35分]"
         },
         {
           "title": "寒假赶作业现状",
