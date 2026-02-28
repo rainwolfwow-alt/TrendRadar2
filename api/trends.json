@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:17:44.074766+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-01T05:14:52.325491+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "寒假作业赶工现场",
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             25,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -30,8 +31,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "辽宁一地要求班主任退群 教育局回应",
@@ -42,8 +43,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 05时14分]"
+        },
+        {
+          "title": "孩子说他不想卷学习了，就想当一个普通人！可不好好学习，将来能干嘛呢？",
+          "url": "https://www.zhihu.com/question/2010196671993234801",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "孟加拉国外交部：已采取措施，确保在德黑兰的外交机构、外交官、其他工作人员以及在伊朗的孟加拉国留学生的安全与保障。",
