@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T19:14:08.631906+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-02-28T20:29:45.324406+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             17,
             19,
             25,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 18时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 20时29分]"
         },
         {
           "title": "寒假作业赶工现场",
@@ -31,11 +32,12 @@
           "ranks": [
             13,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 20时29分]"
         },
         {
           "title": "寒假赶作业现状",
@@ -57,7 +59,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -68,7 +70,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
