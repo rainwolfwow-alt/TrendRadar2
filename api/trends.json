@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T01:15:00.614334+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-01T02:22:48.381836+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "寒假作业赶工现场",
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -28,19 +29,31 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "辽宁一地要求班主任退群 教育局回应",
           "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E8%A6%81%E6%B1%82%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%80%80%E7%BE%A4+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 02时22分]"
+        },
+        {
+          "title": "孟加拉国外交部：已采取措施，确保在德黑兰的外交机构、外交官、其他工作人员以及在伊朗的孟加拉国留学生的安全与保障。",
+          "url": "https://flash.jin10.com/detail/20260301012938107800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     }
