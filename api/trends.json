@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:21:59.505602+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-02-28T16:20:07.671571+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             11,
             8,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 16时20分]"
         },
         {
           "title": "寒假赶作业现状",
@@ -41,7 +42,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
