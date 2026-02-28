@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T06:16:01.943719+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-03-01T07:15:42.641999+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -41,11 +41,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 07时15分]"
         },
         {
           "title": "孩子说他不想卷学习了，就想当一个普通人！可不好好学习，将来能干嘛呢？",
@@ -56,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时14分 ~ 07时15分]"
         },
         {
           "title": "孟加拉国外交部：已采取措施，确保在德黑兰的外交机构、外交官、其他工作人员以及在伊朗的孟加拉国留学生的安全与保障。",
