@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T03:16:13.725461+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-03-01T04:17:44.074766+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "辽宁一地要求班主任退群 教育局回应",
@@ -41,8 +42,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 04时17分]"
         },
         {
           "title": "孟加拉国外交部：已采取措施，确保在德黑兰的外交机构、外交官、其他工作人员以及在伊朗的孟加拉国留学生的安全与保障。",
