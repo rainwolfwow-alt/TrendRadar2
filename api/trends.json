@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T17:20:13.189834+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-02-28T18:16:10.258894+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             8,
             17,
             19,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 17时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 18时16分]"
         },
         {
           "title": "寒假赶作业现状",
@@ -41,11 +42,12 @@
           "url": "https://www.douyin.com/hot/2414244",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 18时16分]"
         }
       ]
     }
