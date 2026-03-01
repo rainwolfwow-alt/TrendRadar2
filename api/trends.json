@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T15:28:44.439297+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-03-01T16:23:07.644410+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             18,
             20,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 16时23分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -61,8 +62,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 16时23分]"
+        },
+        {
+          "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
+          "url": "https://www.zhihu.com/question/2009233303836829261",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时23分]"
         },
         {
           "title": "孩子说他不想卷学习了，就想当一个普通人！可不好好学习，将来能干嘛呢？",
@@ -75,19 +89,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
-          "url": "https://www.zhihu.com/question/2009233303836829261",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时28分]"
         },
         {
           "title": "我国海上油田首次实现无人机规模化作业",
@@ -129,7 +130,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
