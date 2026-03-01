@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T12:15:58.755691+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-03-01T13:46:53.109322+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "寒假作业赶工现场",
@@ -16,11 +16,12 @@
             25,
             22,
             23,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 13时46分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -70,8 +71,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时46分]"
+        },
+        {
+          "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
+          "url": "https://www.zhihu.com/question/2009233303836829261",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时46分]"
         },
         {
           "title": "我国海上油田首次实现无人机规模化作业",
@@ -85,17 +98,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
-          "url": "https://www.zhihu.com/question/2009233303836829261",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "孟加拉国外交部：已采取措施，确保在德黑兰的外交机构、外交官、其他工作人员以及在伊朗的孟加拉国留学生的安全与保障。",
           "url": "https://flash.jin10.com/detail/20260301012938107800",
           "source": "金十数据",
@@ -105,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "老师宣布寒假作业没写完不用补",
+          "url": "https://www.toutiao.com/trending/7610809977749979145/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     }
