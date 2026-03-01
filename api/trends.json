@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T13:46:53.109322+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-03-01T14:37:19.418448+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             22,
             23,
             18,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 13时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 14时37分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -52,6 +53,17 @@
           "time_info": "[01时14分 ~ 07时15分]"
         },
         {
+          "title": "在伊中国留学生：这一年来，我在伊朗经历了三次断网、两次撤离",
+          "url": "https://news.ifeng.com/c/8r8HbwEHkpu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时37分]"
+        },
+        {
           "title": "孩子说他不想卷学习了，就想当一个普通人！可不好好学习，将来能干嘛呢？",
           "url": "https://www.zhihu.com/question/2010196671993234801",
           "source": "知乎",
@@ -64,27 +76,17 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
-          "title": "在伊中国留学生：这一年来，我在伊朗经历了三次断网、两次撤离",
-          "url": "https://news.ifeng.com/c/8r8HbwEHkpu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 13时46分]"
-        },
-        {
           "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
           "url": "https://www.zhihu.com/question/2009233303836829261",
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时37分]"
         },
         {
           "title": "我国海上油田首次实现无人机规模化作业",
@@ -115,7 +117,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
