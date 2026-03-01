@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-01T23:16:33.355916+08:00",
-  "total_titles_processed": 1865,
+  "generated_at": "2026-03-02T00:19:29.244052+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 15,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "我国海上油田首次实现无人机规模化作业",
-          "url": "https://www.toutiao.com/trending/7612200378548964910/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 21时35分]"
-        },
         {
           "title": "在伊中国留学生：这一年来，我在伊朗经历了三次断网、两次撤离",
           "url": "https://news.ifeng.com/c/8r8HbwEHkpu",
@@ -26,169 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 23时16分]"
-        },
-        {
-          "title": "寒假作业赶工现场",
-          "url": "https://www.douyin.com/hot/2414244",
-          "source": "抖音",
-          "ranks": [
-            21,
-            25,
-            22,
-            23,
-            18,
-            20,
-            24,
-            28,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时18分 ~ 23时16分]"
-        },
-        {
-          "title": "高考百日冲刺怎么学",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%99%BE%E6%97%A5%E5%86%B2%E5%88%BA%E6%80%8E%E4%B9%88%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            23,
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时27分]"
-        },
-        {
-          "title": "辽宁一地要求班主任退群 教育局回应",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%9C%B0%E8%A6%81%E6%B1%82%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%80%80%E7%BE%A4+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时15分]"
-        },
-        {
-          "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
-          "url": "https://www.zhihu.com/question/2009233303836829261",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时23分]"
-        },
-        {
-          "title": "孩子说他不想卷学习了，就想当一个普通人！可不好好学习，将来能干嘛呢？",
-          "url": "https://www.zhihu.com/question/2010196671993234801",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "广东一地推行“周三无作业日”",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E6%8E%A8%E8%A1%8C%E2%80%9C%E5%91%A8%E4%B8%89%E6%97%A0%E4%BD%9C%E4%B8%9A%E6%97%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
-          "title": "祖传的寒假作业连夜赶工现场来了",
-          "url": "https://www.toutiao.com/trending/7611755274330177577/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
-          "title": "第一次看盲人赶作业",
-          "url": "https://www.toutiao.com/trending/7611751613656694820/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "我国海上油田首次实现无人机规模化作业",
-          "url": "https://flash.jin10.com/detail/20260301085255664800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "孟加拉国外交部：已采取措施，确保在德黑兰的外交机构、外交官、其他工作人员以及在伊朗的孟加拉国留学生的安全与保障。",
-          "url": "https://flash.jin10.com/detail/20260301012938107800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "李荣浩 高考界最严厉的父亲",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%20%E9%AB%98%E8%80%83%E7%95%8C%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%88%B6%E4%BA%B2&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "老师宣布寒假作业没写完不用补",
-          "url": "https://www.toutiao.com/trending/7610809977749979145/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "官俊臣参加高考成人礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E4%BF%8A%E8%87%A3%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E6%88%90%E4%BA%BA%E7%A4%BC%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "00时19分"
         }
       ]
     }
