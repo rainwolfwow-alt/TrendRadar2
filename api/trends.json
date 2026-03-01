@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-01T18:18:50.901598+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-03-01T19:15:15.723400+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "在伊中国留学生：这一年来，我在伊朗经历了三次断网、两次撤离",
+          "url": "https://news.ifeng.com/c/8r8HbwEHkpu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 19时15分]"
+        },
         {
           "title": "寒假作业赶工现场",
           "url": "https://www.douyin.com/hot/2414244",
@@ -23,8 +34,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 18时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 19时15分]"
         },
         {
           "title": "高考百日冲刺怎么学",
@@ -55,15 +66,15 @@
           "time_info": "[01时14分 ~ 07时15分]"
         },
         {
-          "title": "在伊中国留学生：这一年来，我在伊朗经历了三次断网、两次撤离",
-          "url": "https://news.ifeng.com/c/8r8HbwEHkpu",
-          "source": "凤凰网",
+          "title": "我国海上油田首次实现无人机规模化作业",
+          "url": "https://www.toutiao.com/trending/7612200378548964910/",
+          "source": "今日头条",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时15分]"
         },
         {
           "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
@@ -79,17 +90,6 @@
           "time_info": "[12时15分 ~ 17时23分]"
         },
         {
-          "title": "我国海上油田首次实现无人机规模化作业",
-          "url": "https://www.toutiao.com/trending/7612200378548964910/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
-        },
-        {
           "title": "孩子说他不想卷学习了，就想当一个普通人！可不好好学习，将来能干嘛呢？",
           "url": "https://www.zhihu.com/question/2010196671993234801",
           "source": "知乎",
@@ -100,6 +100,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时14分 ~ 07时15分]"
+        },
+        {
+          "title": "广东一地推行“周三无作业日”",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E6%8E%A8%E8%A1%8C%E2%80%9C%E5%91%A8%E4%B8%89%E6%97%A0%E4%BD%9C%E4%B8%9A%E6%97%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "祖传的寒假作业连夜赶工现场来了",
+          "url": "https://www.toutiao.com/trending/7611755274330177577/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "我国海上油田首次实现无人机规模化作业",
@@ -130,7 +152,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
