@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T12:07:40.324372+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-03-02T13:47:14.914379+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -19,24 +19,25 @@
           "time_info": "[00时19分 ~ 05时16分]"
         },
         {
+          "title": "放假第一天VS最后一天写作业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%94%BE%E5%81%87%E7%AC%AC%E4%B8%80%E5%A4%A9VS%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E5%86%99%E4%BD%9C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时47分]"
+        },
+        {
           "title": "小学生寒假作业未完成离家出走",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E6%9C%AA%E5%AE%8C%E6%88%90%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "放假第一天VS最后一天写作业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%94%BE%E5%81%87%E7%AC%AC%E4%B8%80%E5%A4%A9VS%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E5%86%99%E4%BD%9C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
