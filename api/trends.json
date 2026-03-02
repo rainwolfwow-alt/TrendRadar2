@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T13:47:14.914379+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-02T14:47:21.047893+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时47分]"
         },
         {
           "title": "小学生寒假作业未完成离家出走",
