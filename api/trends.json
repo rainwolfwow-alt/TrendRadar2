@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T22:39:25.457801+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-03-02T23:34:58.869615+08:00",
+  "total_titles_processed": 2161,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,20 @@
           "time_info": "[00时19分 ~ 05时16分]"
         },
         {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 23时34分]"
+        },
+        {
           "title": "伊朗教育部发言人：所有学校的线下课程将暂停至本学年结束，课程和教育将通过线上远程进行。",
           "url": "https://flash.jin10.com/detail/20260302182422712800",
           "source": "金十数据",
@@ -55,19 +69,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 22时39分]"
         },
         {
           "title": "小学生寒假作业未完成离家出走",
