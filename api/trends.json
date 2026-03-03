@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:32:46.945050+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-03-03T19:27:12.134148+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[14时40分 ~ 19时27分]"
         },
         {
           "title": "两会前瞻｜多名代表委员将为西部教育鼓与呼",
@@ -61,7 +61,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
