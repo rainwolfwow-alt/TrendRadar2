@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T14:40:56.314604+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-03T15:38:25.766630+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -22,24 +22,24 @@
           "time_info": "[00时36分 ~ 13时44分]"
         },
         {
-          "title": "花钱找机构填报高考志愿值得吗",
-          "url": "https://www.toutiao.com/trending/7612483704771018794/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "伊朗导弹击中以色列高楼，中国工人在高空作业拍下惊魂一幕",
           "url": "https://news.ifeng.com/c/8rBxKxZAkag",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时38分]"
+        },
+        {
+          "title": "花钱找机构填报高考志愿值得吗",
+          "url": "https://www.toutiao.com/trending/7612483704771018794/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
