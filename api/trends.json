@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T15:38:25.766630+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-03-03T16:32:09.053149+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -29,8 +29,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 16时32分]"
+        },
+        {
+          "title": "两会前瞻｜多名代表委员将为西部教育鼓与呼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684871",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时38分]"
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "花钱找机构填报高考志愿值得吗",
