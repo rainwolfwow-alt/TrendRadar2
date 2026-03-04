@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:33:59.731867+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-03-04T16:31:50.291719+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗导弹击中以色列高楼，中国工人在高空作业拍下惊魂一幕",
@@ -32,6 +32,30 @@
           "time_info": "[12时02分 ~ 14时38分]"
         },
         {
+          "title": "建议基础教育学制缩短为532",
+          "url": "https://www.toutiao.com/trending/7612916978738741286/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "建议高考英语降为100分",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E9%99%8D%E4%B8%BA100%E5%88%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 16时31分]"
+        },
+        {
           "title": "委员建议逐步将高中纳入义务教育",
           "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E9%80%90%E6%AD%A5%E5%B0%86%E9%AB%98%E4%B8%AD%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2",
           "source": "百度热搜",
@@ -43,18 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 12时02分]"
-        },
-        {
-          "title": "建议高考英语降为100分",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E9%99%8D%E4%B8%BA100%E5%88%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 15时33分]"
         },
         {
           "title": "英国内政部：政府将取消来自阿富汗、喀麦隆、缅甸和苏丹的留学签证，以及面向阿富汗人的工作签证。",
@@ -74,9 +86,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "建议高考英语降为100分",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E9%99%8D%E4%B8%BA100%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     }
