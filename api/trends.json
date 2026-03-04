@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T05:27:59.391491+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-03-05T06:24:15.780837+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 06时24分]"
         },
         {
           "title": "政协委员建议逐步将高中纳入义务教育，扩大教育资源缓解中考压力，还能带来哪些利好？可能面临哪些难点？",
@@ -43,8 +43,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 06时24分]"
         },
         {
           "title": "委员建议高考英语由150分降至100分",
@@ -54,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 06时24分]"
         },
         {
           "title": "用新三国的方式交寒假作业",
@@ -66,11 +66,12 @@
             20,
             26,
             18,
-            27
+            27,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 06时24分]"
         }
       ]
     }
