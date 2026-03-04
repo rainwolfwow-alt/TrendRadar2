@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T00:35:11.303166+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-03-05T01:34:11.553058+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "建议基础教育学制缩短为532",
-          "url": "https://www.toutiao.com/trending/7612916978738741286/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时34分]"
         },
         {
           "title": "政协委员洪明基建议高考英语降为 100 分，一年两考取最高分，目的在于什么？会对英语教学带来哪些影响？",
           "url": "https://www.zhihu.com/question/2012551238252787116",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时34分]"
+        },
+        {
+          "title": "建议基础教育学制缩短为532",
+          "url": "https://www.toutiao.com/trending/7612916978738741286/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时34分]"
         },
         {
           "title": "委员建议高考英语由150分降至100分",
@@ -48,19 +50,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时34分]"
         },
         {
           "title": "用新三国的方式交寒假作业",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E6%96%B0%E4%B8%89%E5%9B%BD%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BA%A4%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 01时34分]"
         }
       ]
     }
