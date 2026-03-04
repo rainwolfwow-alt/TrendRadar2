@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T12:02:30.408843+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-03-04T13:38:36.296877+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时20分]"
+        },
+        {
+          "title": "建议基础教育学制缩短为532",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E4%B8%BA532%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时38分]"
         },
         {
           "title": "委员建议逐步将高中纳入义务教育",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "建议基础教育学制缩短为532",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%AD%A6%E5%88%B6%E7%BC%A9%E7%9F%AD%E4%B8%BA532%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         }
       ]
     }
