@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T04:25:39.383619+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-03-05T05:27:59.391491+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "政协委员建议逐步将高中纳入义务教育，扩大教育资源缓解中考压力，还能带来哪些利好？可能面临哪些难点？",
-          "url": "https://www.zhihu.com/question/2012442872696239258",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 04时25分]"
-        },
-        {
           "title": "政协委员洪明基建议高考英语降为 100 分，一年两考取最高分，目的在于什么？会对英语教学带来哪些影响？",
           "url": "https://www.zhihu.com/question/2012551238252787116",
           "source": "知乎",
           "ranks": [
             7,
             3,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 05时27分]"
+        },
+        {
+          "title": "政协委员建议逐步将高中纳入义务教育，扩大教育资源缓解中考压力，还能带来哪些利好？可能面临哪些难点？",
+          "url": "https://www.zhihu.com/question/2012442872696239258",
+          "source": "知乎",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -42,8 +43,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 05时27分]"
         },
         {
           "title": "委员建议高考英语由150分降至100分",
@@ -53,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 05时27分]"
         },
         {
           "title": "用新三国的方式交寒假作业",
@@ -64,11 +65,12 @@
             30,
             20,
             26,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 03时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时27分]"
         }
       ]
     }
