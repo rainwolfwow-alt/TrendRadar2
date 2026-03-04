@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T06:24:15.780837+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-03-05T07:24:15.491023+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "政协委员建议逐步将高中纳入义务教育，扩大教育资源缓解中考压力，还能带来哪些利好？可能面临哪些难点？",
@@ -40,11 +40,12 @@
             7,
             4,
             28,
-            29
+            29,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时24分]"
         },
         {
           "title": "委员建议高考英语由150分降至100分",
@@ -67,11 +68,12 @@
             26,
             18,
             27,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时24分]"
         }
       ]
     }
