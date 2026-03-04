@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T02:37:51.317226+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-05T03:34:07.259176+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时34分]"
         },
         {
           "title": "政协委员洪明基建议高考英语降为 100 分，一年两考取最高分，目的在于什么？会对英语教学带来哪些影响？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时34分]"
         },
         {
           "title": "建议基础教育学制缩短为532",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             4,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时34分]"
         },
         {
           "title": "委员建议高考英语由150分降至100分",
@@ -51,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时34分]"
         },
         {
           "title": "用新三国的方式交寒假作业",
@@ -61,11 +62,12 @@
           "ranks": [
             30,
             20,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 03时34分]"
         }
       ]
     }
