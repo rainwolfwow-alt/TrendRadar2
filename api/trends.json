@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T16:32:38.921089+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-03-05T17:36:31.207904+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BC%98%E5%8C%96%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A9%9A%E8%82%B2%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时36分]"
         },
         {
           "title": "开学检查作业现状",
@@ -97,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 17时36分]"
         },
         {
           "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
