@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T14:41:10.699935+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-03-05T15:37:48.787840+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -78,6 +78,18 @@
           "time_info": "[00时34分 ~ 14时41分]"
         },
         {
+          "title": "开学检查作业现状",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E6%A3%80%E6%9F%A5%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 15时37分]"
+        },
+        {
           "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
           "url": "https://www.zhihu.com/question/2012838478728099542",
           "source": "知乎",
@@ -87,17 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时42分 ~ 14时41分]"
-        },
-        {
-          "title": "开学检查作业现状",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E6%A3%80%E6%9F%A5%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "“十五五”规划纲要草案提出推进基础教育扩优提质 探索延长义务教育年限",
