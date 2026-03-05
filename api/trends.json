@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T06:24:32.743610+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-03-06T07:46:25.702679+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 06时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 07时46分]"
         },
         {
           "title": "开学检查作业现状",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E6%A3%80%E6%9F%A5%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 06时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 07时46分]"
         },
         {
           "title": "代表建议推行十二年义务教育",
@@ -37,8 +38,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 06时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 07时46分]"
         }
       ]
     }
