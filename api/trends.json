@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:28:51.950837+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-03-05T20:41:06.372236+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
@@ -88,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 19时28分]"
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 20时41分]"
         },
         {
           "title": "建议优化大学生婚育教育体系",
@@ -98,11 +98,12 @@
           "ranks": [
             5,
             1,
-            23
+            23,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 20时41分]"
         },
         {
           "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
