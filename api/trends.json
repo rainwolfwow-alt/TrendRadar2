@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T18:32:27.603494+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-03-05T19:28:51.950837+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
@@ -72,23 +72,12 @@
             13,
             14,
             12,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 18时32分]"
-        },
-        {
-          "title": "建议优化大学生婚育教育体系",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BC%98%E5%8C%96%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A9%9A%E8%82%B2%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 19时28分]"
         },
         {
           "title": "开学检查作业现状",
@@ -99,8 +88,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 19时28分]"
+        },
+        {
+          "title": "建议优化大学生婚育教育体系",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BC%98%E5%8C%96%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A9%9A%E8%82%B2%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 19时28分]"
         },
         {
           "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
