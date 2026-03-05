@@ -1,123 +1,33 @@
 {
-  "generated_at": "2026-03-05T23:44:08.368129+08:00",
-  "total_titles_processed": 2127,
+  "generated_at": "2026-03-06T01:56:41.286016+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
-          "title": "政协委员洪明基建议高考英语降为 100 分，一年两考取最高分，目的在于什么？会对英语教学带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2012551238252787116",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 09时19分]"
-        },
-        {
-          "title": "建议基础教育学制缩短为532",
-          "url": "https://www.toutiao.com/trending/7612916978738741286/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4,
-            28,
-            29,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 09时19分]"
-        },
-        {
-          "title": "政协委员建议逐步将高中纳入义务教育，扩大教育资源缓解中考压力，还能带来哪些利好？可能面临哪些难点？",
-          "url": "https://www.zhihu.com/question/2012442872696239258",
+          "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
+          "url": "https://www.zhihu.com/question/2012838478728099542",
           "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 04时25分]"
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "开学检查作业现状",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%AD%A6%E6%A3%80%E6%9F%A5%E4%BD%9C%E4%B8%9A%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时40分 ~ 23时44分]"
-        },
-        {
-          "title": "委员建议高考英语由150分降至100分",
-          "url": "https://www.toutiao.com/trending/7613290303797198867/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 06时24分]"
-        },
-        {
-          "title": "用新三国的方式交寒假作业",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E6%96%B0%E4%B8%89%E5%9B%BD%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BA%A4%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            20,
-            26,
-            18,
-            27,
-            13,
-            14,
-            12,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 19时28分]"
-        },
-        {
-          "title": "建议优化大学生婚育教育体系",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%BC%98%E5%8C%96%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A9%9A%E8%82%B2%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            1,
-            23,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 22时42分]"
-        },
-        {
-          "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
-          "url": "https://www.zhihu.com/question/2012838478728099542",
-          "source": "知乎",
-          "ranks": [
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "代表建议推行十二年义务教育",
@@ -127,52 +37,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时42分 ~ 23时44分]"
-        },
-        {
-          "title": "“十五五”规划纲要草案提出推进基础教育扩优提质 探索延长义务教育年限",
-          "url": "https://wallstreetcn.com/livenews/3064191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "“十五五”规划纲要草案提出推动高等教育提质扩容",
-          "url": "https://wallstreetcn.com/livenews/3064189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "学前一年免费教育惠及1400万儿童",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E5%89%8D%E4%B8%80%E5%B9%B4%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%E6%83%A0%E5%8F%8A1400%E4%B8%87%E5%84%BF%E7%AB%A5",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "建议全面实施优质免费学前教育",
-          "url": "https://www.toutiao.com/trending/7612553771668078601/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "01时56分"
         }
       ]
     }
