@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T15:34:47.215007+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-03-06T16:29:31.437835+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "2026 政府工作报告提及将增加普通高中学位供给，推动基础教育扩优提质，能带来哪些实实在在的好处？",
@@ -25,11 +25,25 @@
           "ranks": [
             9,
             8,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时56分 ~ 15时34分]"
+          "appearance_count": 12,
+          "time_info": "[01时56分 ~ 16时29分]"
+        },
+        {
+          "title": "教育、消费、就业、民营经济……代表委员热议政府工作报告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32706447",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 16时29分]"
         },
         {
           "title": "代表建议推行十二年义务教育",
@@ -43,30 +57,18 @@
           "time_info": "[01时56分 ~ 07时46分]"
         },
         {
-          "title": "教育、消费、就业、民营经济……代表委员热议政府工作报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32706447",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 15时34分]"
-        },
-        {
           "title": "“十五五”将探索延长义务教育年限",
           "url": "https://www.toutiao.com/trending/7613613171706822666/",
           "source": "今日头条",
           "ranks": [
             5,
             10,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时29分]"
         },
         {
           "title": "委员建议逐步取消中考 初中直升高中",
@@ -82,6 +84,17 @@
           "time_info": "[12时03分 ~ 15时34分]"
         },
         {
+          "title": "动漫专业学生作业有多离谱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E6%BC%AB%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E4%BD%9C%E4%B8%9A%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时29分]"
+        },
+        {
           "title": "建议将免费教育年限扩至15年",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%E5%B9%B4%E9%99%90%E6%89%A9%E8%87%B315%E5%B9%B4%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -94,15 +107,26 @@
           "time_info": "[13时40分 ~ 15时34分]"
         },
         {
-          "title": "动漫专业学生作业有多离谱",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A8%E6%BC%AB%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E4%BD%9C%E4%B8%9A%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "title": "五年级的小朋友沉迷用 Python 编写游戏，家长对此完全不懂的情况下，应该怎么教育引导？",
+          "url": "https://www.zhihu.com/question/2011755020413064619",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "花式补作业",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E5%BC%8F%E8%A1%A5%E4%BD%9C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "霍启刚建议香港深化爱国主义教育",
