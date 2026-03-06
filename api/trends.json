@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T01:29:17.198693+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-07T02:34:26.351307+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "优质本科有望继续扩大，郑栅洁：“十五五”时期支持双一流高校本科扩招10万人以上",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "开学检查作业现状",
@@ -36,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时34分]"
         }
       ]
     }
