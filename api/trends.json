@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T14:38:33.119145+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-06T15:34:47.215007+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时56分 ~ 15时34分]"
         },
         {
           "title": "代表建议推行十二年义务教育",
@@ -43,28 +43,30 @@
           "time_info": "[01时56分 ~ 07时46分]"
         },
         {
-          "title": "“十五五”将探索延长义务教育年限",
-          "url": "https://www.toutiao.com/trending/7613613171706822666/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时38分]"
-        },
-        {
           "title": "教育、消费、就业、民营经济……代表委员热议政府工作报告",
           "url": "https://m.thepaper.cn/newsDetail_forward_32706447",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时34分]"
+        },
+        {
+          "title": "“十五五”将探索延长义务教育年限",
+          "url": "https://www.toutiao.com/trending/7613613171706822666/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时34分]"
         },
         {
           "title": "委员建议逐步取消中考 初中直升高中",
@@ -76,8 +78,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 15时34分]"
+        },
+        {
+          "title": "建议将免费教育年限扩至15年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%E5%B9%B4%E9%99%90%E6%89%A9%E8%87%B315%E5%B9%B4%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时34分]"
         },
         {
           "title": "动漫专业学生作业有多离谱",
@@ -86,20 +100,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "建议将免费教育年限扩至15年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%E5%B9%B4%E9%99%90%E6%89%A9%E8%87%B315%E5%B9%B4%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时34分]"
         },
         {
           "title": "霍启刚建议香港深化爱国主义教育",
