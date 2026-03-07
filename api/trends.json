@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:34:35.002350+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-03-07T22:18:04.761551+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时54分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[11时54分 ~ 22时18分]"
+        },
+        {
+          "title": "我国义务教育达高收入国家平均水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 22时18分]"
         },
         {
           "title": "委员建议逐步取消中考",
@@ -42,22 +54,12 @@
             18,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时54分 ~ 21时34分]"
-        },
-        {
-          "title": "我国义务教育达高收入国家平均水平",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[11时54分 ~ 22时18分]"
         },
         {
           "title": "“十五五”将探索延长义务教育年限",
@@ -83,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 21时34分]"
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 22时18分]"
         },
         {
           "title": "优质本科有望继续扩大，郑栅洁：“十五五”时期支持双一流高校本科扩招10万人以上",
@@ -113,11 +115,12 @@
             18,
             25,
             22,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时54分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[11时54分 ~ 22时18分]"
         },
         {
           "title": "开学检查作业现状",
@@ -264,6 +267,18 @@
           "time_info": "[11时54分 ~ 13时35分]"
         },
         {
+          "title": "当孩子告诉妈妈，今天的心情很乱，实在不想写作业，妈妈如何回答孩子？",
+          "url": "https://www.zhihu.com/question/1894224963529070101",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时18分]"
+        },
+        {
           "title": "建议将性教育纳入教师必修课",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%80%A7%E6%95%99%E8%82%B2%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E5%BF%85%E4%BF%AE%E8%AF%BE%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -353,17 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "当孩子告诉妈妈，今天的心情很乱，实在不想写作业，妈妈如何回答孩子？",
-          "url": "https://www.zhihu.com/question/1894224963529070101",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         }
       ]
     }
