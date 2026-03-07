@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T17:22:19.532111+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-03-07T18:17:22.316674+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时54分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时54分 ~ 18时17分]"
         },
         {
           "title": "委员建议逐步取消中考",
@@ -52,11 +52,12 @@
             13,
             12,
             10,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 18时17分]"
         },
         {
           "title": "开学检查作业现状",
@@ -86,11 +87,12 @@
             19,
             18,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时54分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时54分 ~ 18时17分]"
         },
         {
           "title": "寒假作业速补攻略",
@@ -100,11 +102,12 @@
             15,
             10,
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时54分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时54分 ~ 18时17分]"
         },
         {
           "title": "学前教育毛入园率达92.9%",
@@ -118,26 +121,28 @@
           "time_info": "[11时54分 ~ 16时22分]"
         },
         {
-          "title": "国家发改委：“十五五”将探索延长义务教育年限",
-          "url": "https://flash.jin10.com/detail/20260307164632300800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "我国义务教育达高收入国家平均水平",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
+          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 18时17分]"
         },
         {
           "title": "双一流高校本科扩招10万人以上",
@@ -178,16 +183,17 @@
           "time_info": "14时31分"
         },
         {
-          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
-          "source": "澎湃新闻",
+          "title": "委员称中考改革核心在改招生，要从选分真正转向选人，如何理解？中考「分分计较」会成为历史吗？",
+          "url": "https://www.zhihu.com/question/2012856904972464828",
+          "source": "知乎",
           "ranks": [
-            12,
-            9
+            20,
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时22分]"
+          "time_info": "[15时24分 ~ 18时17分]"
         },
         {
           "title": "教育部部长：让“班超”“校超”燃动校园",
@@ -203,6 +209,18 @@
           "time_info": "[11时54分 ~ 13时35分]"
         },
         {
+          "title": "国家发改委：“十五五”将探索延长义务教育年限",
+          "url": "https://flash.jin10.com/detail/20260307164632300800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
           "title": "教育部将深入开展“校园餐”专项治理",
           "url": "https://www.toutiao.com/trending/7613561452842008639/",
           "source": "今日头条",
@@ -213,18 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 13时35分]"
-        },
-        {
-          "title": "委员称中考改革核心在改招生，要从选分真正转向选人，如何理解？中考「分分计较」会成为历史吗？",
-          "url": "https://www.zhihu.com/question/2012856904972464828",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时22分]"
         },
         {
           "title": "教育部：广泛开展三大球比赛，让“班超”“校超”燃动校园，使每个学生都至少掌握一项运动技能、终身受益。（央视）",
@@ -275,6 +281,18 @@
           "time_info": "[11时54分 ~ 12时57分]"
         },
         {
+          "title": "国家发展改革委社会司：“十五五”将探索延长义务教育年限",
+          "url": "https://wallstreetcn.com/livenews/3065678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
           "title": "高等教育学龄人口2032年将达峰值",
           "url": "https://www.toutiao.com/trending/7614279199599201801/",
           "source": "今日头条",
@@ -284,6 +302,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32714690",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
         },
         {
           "title": "国家发改委：推动电信、互联网、教育、文化、医疗等领域有序扩大开放",
@@ -308,35 +338,13 @@
           "time_info": "11时54分"
         },
         {
-          "title": "国家发展改革委社会司：“十五五”将探索延长义务教育年限",
-          "url": "https://wallstreetcn.com/livenews/3065678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "国家发改委：推动电信、互联网、教育、文化、医疗等领域有序扩大开放",
           "url": "https://flash.jin10.com/detail/20260307161134751800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "小浪花跑两会丨如何推动教育科技人才一体化？丁奎岭代表提出建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32714690",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
