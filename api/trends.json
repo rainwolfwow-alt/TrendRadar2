@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-07T20:31:13.502906+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-03-07T21:34:35.002350+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "国家发改委主任郑栅洁称，「十五五」时期支持「双一流」高校本科扩招 10 万人以上，可能有哪些考量？",
           "url": "https://www.zhihu.com/question/2013311145201644777",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 21时34分]"
         },
         {
           "title": "委员建议逐步取消中考",
@@ -44,8 +45,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 21时34分]"
+        },
+        {
+          "title": "我国义务教育达高收入国家平均水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 21时34分]"
         },
         {
           "title": "“十五五”将探索延长义务教育年限",
@@ -59,6 +71,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时15分]"
+        },
+        {
+          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 21时34分]"
         },
         {
           "title": "优质本科有望继续扩大，郑栅洁：“十五五”时期支持双一流高校本科扩招10万人以上",
@@ -86,11 +112,12 @@
             14,
             18,
             25,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 21时34分]"
         },
         {
           "title": "开学检查作业现状",
@@ -109,31 +136,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 13时35分]"
-        },
-        {
-          "title": "我国义务教育达高收入国家平均水平",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时31分]"
-        },
-        {
-          "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32721180",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 20时31分]"
         },
         {
           "title": "学前教育毛入园率达92.9%",
@@ -351,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "当孩子告诉妈妈，今天的心情很乱，实在不想写作业，妈妈如何回答孩子？",
+          "url": "https://www.zhihu.com/question/1894224963529070101",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     }
