@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T05:15:07.837569+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-03-08T06:16:29.642655+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "教育部部长向1800万教师致谢",
+          "url": "https://www.douyin.com/hot/2421777",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "当孩子告诉妈妈，今天的心情很乱，实在不想写作业，妈妈如何回答孩子？",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时17分]"
-        },
-        {
-          "title": "教育部部长向1800万教师致谢",
-          "url": "https://www.douyin.com/hot/2421777",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时15分]"
         },
         {
           "title": "寒假作业速补攻略",
