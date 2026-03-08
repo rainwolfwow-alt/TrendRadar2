@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T22:19:11.743458+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-03-08T23:17:18.665021+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "民生主题记者会丨教育部：让学生身上有汗眼里有光，让“班超”“校超”燃动校园",
@@ -34,16 +34,40 @@
           "time_info": "[00时19分 ~ 09时20分]"
         },
         {
+          "title": "九三学社建议：显著增加高考等考试中启发性、开放性试题占比",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727704",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时17分]"
+        },
+        {
+          "title": "阿曼杜库姆港表示，港口及海上作业正正常进行。",
+          "url": "https://flash.jin10.com/detail/20260308222652921800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "中国传媒大学一口气砍16个本科专业",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D16%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
           "source": "百度热搜",
           "ranks": [
             5,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时17分]"
         },
         {
           "title": "当孩子告诉妈妈，今天的心情很乱，实在不想写作业，妈妈如何回答孩子？",
@@ -57,17 +81,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时17分]"
-        },
-        {
-          "title": "九三学社建议：显著增加高考等考试中启发性、开放性试题占比",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32727704",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时19分]"
         },
         {
           "title": "寒假作业速补攻略",
