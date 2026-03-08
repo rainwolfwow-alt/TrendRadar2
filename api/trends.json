@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T02:23:34.463306+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-03-09T03:19:30.996772+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时19分]"
         },
         {
           "title": "中国传媒大学一口气砍16个本科专业",
