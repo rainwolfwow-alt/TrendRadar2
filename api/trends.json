@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T06:16:46.253347+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-03-09T07:17:23.095203+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时17分]"
         },
         {
           "title": "委员：微信群布置作业是为家长增负",
@@ -26,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 07时17分]"
         },
         {
           "title": "中国传媒大学一口气砍16个本科专业",
