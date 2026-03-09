@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T15:45:57.448309+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-03-09T16:36:18.909405+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 16时36分]"
+        },
+        {
+          "title": "强制中国留学生服役？俄外交部辟谣",
+          "url": "https://www.toutiao.com/trending/7614542402971959359/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 16时36分]"
         },
         {
           "title": "中传一口气砍掉16个本科专业",
@@ -35,17 +46,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时20分 ~ 14时53分]"
-        },
-        {
-          "title": "强制中国留学生服役？俄外交部辟谣",
-          "url": "https://www.toutiao.com/trending/7614542402971959359/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 15时45分]"
         },
         {
           "title": "代表建议将全面性教育纳入基础教育，将性基础课列为教师必修，和以往有何不同？从教师侧着手，可行性如何？",
@@ -79,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 16时36分]"
         },
         {
           "title": "委员：微信群布置作业是为家长增负",
