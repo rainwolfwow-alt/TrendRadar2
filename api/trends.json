@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T18:38:36.762937+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-03-09T19:31:35.375361+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 19时31分]"
+        },
+        {
+          "title": "俄方辟谣“强制中国留学生服役”",
+          "url": "https://www.douyin.com/hot/2423722",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 19时31分]"
         },
         {
           "title": "中传一口气砍掉16个本科专业",
@@ -46,17 +57,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时20分 ~ 14时53分]"
-        },
-        {
-          "title": "俄方辟谣“强制中国留学生服役”",
-          "url": "https://www.douyin.com/hot/2423722",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 18时38分]"
         },
         {
           "title": "代表建议将全面性教育纳入基础教育，将性基础课列为教师必修，和以往有何不同？从教师侧着手，可行性如何？",
@@ -102,7 +102,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
