@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T03:36:28.878640+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-03-10T04:26:03.605300+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时26分]"
         },
         {
           "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
           "url": "https://www.zhihu.com/question/660280143",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时26分]"
         },
         {
           "title": "巴基斯坦总理：本周结束后，所有学校将停课两周；为节约燃料，高等教育将立即转为线上教学。",
