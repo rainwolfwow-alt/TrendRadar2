@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T16:36:18.909405+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-09T17:41:23.561309+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 16时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 17时41分]"
         },
         {
           "title": "强制中国留学生服役？俄外交部辟谣",
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 17时41分]"
         },
         {
           "title": "中传一口气砍掉16个本科专业",
@@ -59,6 +59,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "俄方辟谣“强制中国留学生服役”",
+          "url": "https://www.douyin.com/hot/2423722",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 17时41分]"
+        },
+        {
           "title": "中传一口气砍掉16个本科专业",
           "url": "https://www.douyin.com/hot/2423848",
           "source": "抖音",
@@ -70,17 +81,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时09分 ~ 15时45分]"
-        },
-        {
-          "title": "俄方辟谣“强制中国留学生服役”",
-          "url": "https://www.douyin.com/hot/2423722",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 16时36分]"
         },
         {
           "title": "委员：微信群布置作业是为家长增负",
