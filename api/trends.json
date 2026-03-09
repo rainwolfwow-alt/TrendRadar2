@@ -1,144 +1,55 @@
 {
-  "generated_at": "2026-03-09T23:56:52.319262+08:00",
-  "total_titles_processed": 2011,
+  "generated_at": "2026-03-10T00:51:45.294427+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "九三学社建议：显著增加高考等考试中启发性、开放性试题占比",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32727704",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            7,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 17时41分]"
-        },
-        {
-          "title": "俄方辟谣“强制中国留学生服役”",
-          "url": "https://www.douyin.com/hot/2423722",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时53分 ~ 22时58分]"
-        },
-        {
-          "title": "强制中国留学生服役？俄外交部辟谣",
-          "url": "https://www.toutiao.com/trending/7614542402971959359/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 20时41分]"
-        },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
           "url": "https://www.zhihu.com/question/2014268583652320290",
           "source": "知乎",
           "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时01分 ~ 23时56分]"
-        },
-        {
-          "title": "中传一口气砍掉16个本科专业",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            27,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时53分]"
-        },
-        {
-          "title": "代表建议将全面性教育纳入基础教育，将性基础课列为教师必修，和以往有何不同？从教师侧着手，可行性如何？",
-          "url": "https://www.zhihu.com/question/2013653549951710425",
-          "source": "知乎",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "中传一口气砍掉16个本科专业",
-          "url": "https://www.douyin.com/hot/2423848",
-          "source": "抖音",
-          "ranks": [
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时45分]"
-        },
-        {
-          "title": "委员：微信群布置作业是为家长增负",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%EF%BC%9A%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A%E6%98%AF%E4%B8%BA%E5%AE%B6%E9%95%BF%E5%A2%9E%E8%B4%9F",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 07时17分]"
+          "time_info": "00时51分"
         },
         {
           "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
           "url": "https://www.zhihu.com/question/660280143",
           "source": "知乎",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "建议将性教育纳入中小学课程",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E6%80%A7%E6%95%99%E8%82%B2%E7%BA%B3%E5%85%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%BE%E7%A8%8B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "00时51分"
         },
         {
-          "title": "中国传媒大学一口气砍16个本科专业",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D16%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
-          "source": "百度热搜",
+          "title": "巴基斯坦总理：本周结束后，所有学校将停课两周；为节约燃料，高等教育将立即转为线上教学。",
+          "url": "https://flash.jin10.com/detail/20260310002157421800",
+          "source": "金十数据",
           "ranks": [
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "00时51分"
+        },
+        {
+          "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
+          "url": "https://wallstreetcn.com/livenews/3066617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     }
