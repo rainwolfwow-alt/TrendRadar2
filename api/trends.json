@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T05:26:41.617215+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-03-10T06:24:06.420532+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时24分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -29,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时24分]"
         },
         {
           "title": "巴基斯坦总理：本周结束后，所有学校将停课两周；为节约燃料，高等教育将立即转为线上教学。",
