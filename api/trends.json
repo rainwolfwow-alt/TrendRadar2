@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T21:57:50.944790+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2026-03-10T23:17:12.565250+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时17分]"
         },
         {
           "title": "全国人大代表余绍容：建议初中阶段开展职业启蒙教育",
