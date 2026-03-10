@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T05:24:04.013954+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-03-11T06:21:00.724953+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 06时21分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时25分 ~ 06时21分]"
         },
         {
           "title": "业内消息人士称，壳牌(SHEL.N)已达成初步协议，将在委内瑞拉莫纳加斯州北部的油气田开展作业。",
@@ -36,7 +37,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         }
