@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T09:14:48.877230+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-03-10T12:03:13.812442+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -47,13 +47,24 @@
           "time_info": "00时51分"
         },
         {
+          "title": "猫咪不让女生摸被教育 坐姿像宝宝",
+          "url": "https://www.toutiao.com/trending/7614587778017427519/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 12时03分]"
+        },
+        {
           "title": "孩子总是把幼儿园的玩具偷偷带回家，我该怎么教育他？",
           "url": "https://www.zhihu.com/question/2011114797484225056",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "猫咪不让女生摸被教育 坐姿像宝宝",
-          "url": "https://www.toutiao.com/trending/7614587778017427519/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
         }
       ]
     }
