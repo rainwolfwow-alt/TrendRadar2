@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T12:03:13.812442+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-03-10T13:41:24.321253+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://www.toutiao.com/trending/7614587778017427519/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 13时41分]"
         },
         {
           "title": "孩子总是把幼儿园的玩具偷偷带回家，我该怎么教育他？",
