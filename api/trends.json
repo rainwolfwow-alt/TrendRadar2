@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T06:21:00.724953+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-03-11T07:21:33.775123+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32738861",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 07时21分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -27,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时25分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[04时25分 ~ 07时21分]"
         },
         {
           "title": "业内消息人士称，壳牌(SHEL.N)已达成初步协议，将在委内瑞拉莫纳加斯州北部的油气田开展作业。",
