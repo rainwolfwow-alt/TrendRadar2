@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T07:21:20.260143+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-03-10T09:14:48.877230+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "忽然觉得我似乎把孩子养废了，女孩青春期对父母很不尊重和礼貌，我是教育出了问题吗？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 09时14分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -28,11 +28,12 @@
             2,
             3,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 09时14分]"
         },
         {
           "title": "巴基斯坦总理：本周结束后，所有学校将停课两周；为节约燃料，高等教育将立即转为线上教学。",
@@ -46,6 +47,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "孩子总是把幼儿园的玩具偷偷带回家，我该怎么教育他？",
+          "url": "https://www.zhihu.com/question/2011114797484225056",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
           "url": "https://wallstreetcn.com/livenews/3066617",
           "source": "华尔街见闻-快讯",
@@ -55,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "猫咪不让女生摸被教育 坐姿像宝宝",
+          "url": "https://www.toutiao.com/trending/7614587778017427519/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     }
