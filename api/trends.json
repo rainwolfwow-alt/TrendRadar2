@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T02:44:07.222288+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-12T03:38:45.217832+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时38分]"
         },
         {
           "title": "12 岁女孩用零花钱盘下文具店雇妈妈看店，这场被网友围观的财商教育实验，到底做对了什么？",
           "url": "https://www.zhihu.com/question/2014990850543805086",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时38分]"
         },
         {
           "title": "阿曼塞拉莱港在油罐遇袭后暂停作业",
@@ -36,7 +37,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         }
