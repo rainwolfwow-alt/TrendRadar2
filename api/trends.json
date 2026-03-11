@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T17:36:04.088462+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-03-11T18:32:15.748086+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时50分 ~ 13时43分]"
         },
         {
+          "title": "华师大回应师范本科不再输出教师",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E5%B8%88%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%B8%88%E8%8C%83%E6%9C%AC%E7%A7%91%E4%B8%8D%E5%86%8D%E8%BE%93%E5%87%BA%E6%95%99%E5%B8%88",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 18时32分]"
+        },
+        {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -34,17 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时25分 ~ 09时23分]"
-        },
-        {
-          "title": "华师大回应师范本科不再输出教师",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E5%B8%88%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%B8%88%E8%8C%83%E6%9C%AC%E7%A7%91%E4%B8%8D%E5%86%8D%E8%BE%93%E5%87%BA%E6%95%99%E5%B8%88",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "代表建议破除AI教育产品算法偏见",
@@ -66,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 18时32分]"
         },
         {
           "title": "华东师大：师范本科基本不输出教师",
@@ -77,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "市场消息：美国建议公民在地区紧张局势中考虑离开黎巴嫩的选项。",
