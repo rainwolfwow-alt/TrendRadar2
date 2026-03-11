@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:28:05.387664+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2026-03-11T20:41:12.304328+08:00",
+  "total_titles_processed": 1845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "华师大回应师范本科不再输出教师",
@@ -13,11 +13,26 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 20时41分]"
+        },
+        {
+          "title": "华师大回应师范本科不再输出教师",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B8%88%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%B8%88%E8%8C%83%E6%9C%AC%E7%A7%91%E4%B8%8D%E5%86%8D%E8%BE%93%E5%87%BA%E6%95%99%E5%B8%88%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 20时41分]"
         },
         {
           "title": "广东清远4名儿童排成一列躺在马路中央，镇政府：已对他们进行安全教育",
@@ -33,19 +48,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时50分 ~ 13时43分]"
-        },
-        {
-          "title": "华师大回应师范本科不再输出教师",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B8%88%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%B8%88%E8%8C%83%E6%9C%AC%E7%A7%91%E4%B8%8D%E5%86%8D%E8%BE%93%E5%87%BA%E6%95%99%E5%B8%88%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 19时28分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -81,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "12 岁女孩用零花钱盘下文具店雇妈妈看店，这场被网友围观的财商教育实验，到底做对了什么？",
+          "url": "https://www.zhihu.com/question/2014990850543805086",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "市场消息：美国建议公民在地区紧张局势中考虑离开黎巴嫩的选项。",
