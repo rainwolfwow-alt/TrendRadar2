@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T01:43:40.866397+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-03-12T02:44:07.222288+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "教育局通报“湖南江华二中学生澡堂视频”：已停用，学生均在寝室淋浴",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时44分]"
         },
         {
           "title": "12 岁女孩用零花钱盘下文具店雇妈妈看店，这场被网友围观的财商教育实验，到底做对了什么？",
@@ -26,8 +26,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时44分]"
+        },
+        {
+          "title": "阿曼塞拉莱港在油罐遇袭后暂停作业",
+          "url": "https://flash.jin10.com/detail/20260312021944963800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         }
       ]
     }
