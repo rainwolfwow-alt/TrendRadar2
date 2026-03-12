@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:34:22.722502+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-03-12T17:36:11.368418+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,25 @@
           "source": "百度热搜",
           "ranks": [
             15,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时44分 ~ 17时36分]"
+        },
+        {
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[14时44分 ~ 17时36分]"
         },
         {
           "title": "代表建议取消中考分流",
@@ -60,28 +74,27 @@
           "time_info": "[14时44分 ~ 15时42分]"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 16时34分]"
-        },
-        {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
           "url": "https://flash.jin10.com/detail/20260312162011551800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "我国学前教育毛入园率 92.9%，高中教育毛入学率 92%，义务教育达高收入国家平均水平，如何解读该数据？",
+          "url": "https://www.zhihu.com/question/2013558967935137344",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时36分]"
         },
         {
           "title": "马上评｜家庭教育指导令，让失职家长“补补课”",
@@ -116,17 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        },
-        {
-          "title": "我国学前教育毛入园率 92.9%，高中教育毛入学率 92%，义务教育达高收入国家平均水平，如何解读该数据？",
-          "url": "https://www.zhihu.com/question/2013558967935137344",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         }
       ]
     }
