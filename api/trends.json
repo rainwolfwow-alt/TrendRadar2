@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T21:59:03.572859+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2026-03-12T22:47:00.885642+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
@@ -78,27 +78,29 @@
           "time_info": "[14时44分 ~ 19时28分]"
         },
         {
-          "title": "这所211为何“砍掉”16个本科专业",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%89%80211%E4%B8%BA%E4%BD%95%E2%80%9C%E7%A0%8D%E6%8E%89%E2%80%9D16%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
           "title": "华东师范大学回应「师范本科不再输出教师」，称将把培养重心提升到研究生阶段，背后有哪些考量？",
           "url": "https://www.zhihu.com/question/2015102955217449063",
           "source": "知乎",
           "ranks": [
             15,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 21时59分]"
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 22时47分]"
+        },
+        {
+          "title": "这所211为何“砍掉”16个本科专业",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%89%80211%E4%B8%BA%E4%BD%95%E2%80%9C%E7%A0%8D%E6%8E%89%E2%80%9D16%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 22时47分]"
         },
         {
           "title": "代表建议取消中考分流",
@@ -124,6 +126,18 @@
           "time_info": "16时34分"
         },
         {
+          "title": "马上评｜“师范生本科不再输出教师”折射教育升级",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753677",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 22时47分]"
+        },
+        {
           "title": "马上评｜家庭教育指导令，让失职家长“补补课”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32747601",
           "source": "澎湃新闻",
@@ -134,17 +148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时44分 ~ 16时34分]"
-        },
-        {
-          "title": "马上评｜“师范生本科不再输出教师”折射教育升级",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753677",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
         },
         {
           "title": "人大代表建议取消中考分流",
@@ -175,7 +178,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
