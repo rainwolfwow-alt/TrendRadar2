@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T00:21:53.683807+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T00:53:34.655672+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时53分]"
         },
         {
           "title": "代表建议取消中考分流，禁止为升学率游说学生弃考，若施行将对我国教育生态、人才结构等产生哪些影响？",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时53分]"
         },
         {
           "title": "华东师范大学回应「师范本科不再输出教师」，称将把培养重心提升到研究生阶段，背后有哪些考量？",
           "url": "https://www.zhihu.com/question/2015102955217449063",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时53分]"
         },
         {
           "title": "马上评｜“师范生本科不再输出教师”折射教育升级",
@@ -48,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时53分]"
         }
       ]
     }
