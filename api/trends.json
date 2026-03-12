@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T18:32:21.449551+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2026-03-12T19:28:25.629078+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             15,
             2,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时44分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[14时44分 ~ 19时28分]"
         },
         {
           "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
@@ -58,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时44分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[14时44分 ~ 19时28分]"
         },
         {
           "title": "我国学前教育毛入园率 92.9%，高中教育毛入学率 92%，义务教育达高收入国家平均水平，如何解读该数据？",
@@ -71,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时28分]"
         },
         {
           "title": "代表建议取消中考分流",
@@ -110,6 +111,17 @@
           "time_info": "[14时44分 ~ 16时34分]"
         },
         {
+          "title": "华东师范大学回应「师范本科不再输出教师」，称将把培养重心提升到研究生阶段，背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2015102955217449063",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时28分]"
+        },
+        {
           "title": "人大代表建议取消中考分流",
           "url": "https://www.toutiao.com/trending/7615172642144026665/",
           "source": "今日头条",
@@ -130,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        },
-        {
-          "title": "华东师范大学回应「师范本科不再输出教师」，称将把培养重心提升到研究生阶段，背后有哪些考量？",
-          "url": "https://www.zhihu.com/question/2015102955217449063",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         }
       ]
     }
