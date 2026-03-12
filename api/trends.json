@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T06:18:54.225870+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-03-13T07:21:34.811840+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "代表建议取消中考分流，禁止为升学率游说学生弃考，若施行将对我国教育生态、人才结构等产生哪些影响？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "华东师范大学回应「师范本科不再输出教师」，称将把培养重心提升到研究生阶段，背后有哪些考量？",
@@ -37,33 +37,36 @@
             7,
             4,
             8,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "马上评｜“师范生本科不再输出教师”折射教育升级",
           "url": "https://m.thepaper.cn/newsDetail_forward_32753677",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "力拓集团：犹他州宾厄姆峡谷矿发生事故，承包公司一名员工死亡，已暂停旗下肯尼科特犹他铜业的所有采矿作业。",
           "url": "https://flash.jin10.com/detail/20260313054005567800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时21分]"
         }
       ]
     }
