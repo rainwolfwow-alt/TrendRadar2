@@ -1,186 +1,55 @@
 {
-  "generated_at": "2026-03-12T22:47:00.885642+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2026-03-13T00:21:53.683807+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
         {
-          "title": "教育局通报“湖南江华二中学生澡堂视频”：已停用，学生均在寝室淋浴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746789",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 12时07分]"
-        },
-        {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时44分 ~ 21时59分]"
-        },
-        {
-          "title": "12 岁女孩用零花钱盘下文具店雇妈妈看店，这场被网友围观的财商教育实验，到底做对了什么？",
-          "url": "https://www.zhihu.com/question/2014990850543805086",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 09时15分]"
-        },
-        {
-          "title": "我国学前教育毛入园率 92.9%，高中教育毛入学率 92%，义务教育达高收入国家平均水平，如何解读该数据？",
-          "url": "https://www.zhihu.com/question/2013558967935137344",
-          "source": "知乎",
-          "ranks": [
-            20,
-            5,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 21时59分]"
-        },
-        {
-          "title": "代表建议取消中考分流",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%81",
+          "title": "这所211为何“砍掉”16个本科专业",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%89%80211%E4%B8%BA%E4%BD%95%E2%80%9C%E7%A0%8D%E6%8E%89%E2%80%9D16%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
           "source": "百度热搜",
           "ranks": [
-            15,
-            2,
-            5,
-            14
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时44分 ~ 19时28分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "代表建议取消中考分流，禁止为升学率游说学生弃考，若施行将对我国教育生态、人才结构等产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2015450640051040494",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "华东师范大学回应「师范本科不再输出教师」，称将把培养重心提升到研究生阶段，背后有哪些考量？",
           "url": "https://www.zhihu.com/question/2015102955217449063",
           "source": "知乎",
           "ranks": [
-            15,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时32分 ~ 22时47分]"
-        },
-        {
-          "title": "这所211为何“砍掉”16个本科专业",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%89%80211%E4%B8%BA%E4%BD%95%E2%80%9C%E7%A0%8D%E6%8E%89%E2%80%9D16%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时58分 ~ 22时47分]"
-        },
-        {
-          "title": "代表建议取消中考分流",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E5%88%86%E6%B5%81%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 15时42分]"
-        },
-        {
-          "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
-          "url": "https://flash.jin10.com/detail/20260312162011551800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "00时21分"
         },
         {
           "title": "马上评｜“师范生本科不再输出教师”折射教育升级",
           "url": "https://m.thepaper.cn/newsDetail_forward_32753677",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时58分 ~ 22时47分]"
-        },
-        {
-          "title": "马上评｜家庭教育指导令，让失职家长“补补课”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32747601",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 16时34分]"
-        },
-        {
-          "title": "人大代表建议取消中考分流",
-          "url": "https://www.toutiao.com/trending/7615172642144026665/",
-          "source": "今日头条",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "阿曼塞拉莱港在油罐遇袭后暂停作业",
-          "url": "https://flash.jin10.com/detail/20260312021944963800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "伊拉克石油部长：已决定继续以每日140万桶的水平开采原油。 南部的出口作业已停止，正在寻找出口原油的可能替代方案。 每天有20万桶原油通过储油库经由土耳其、叙利亚和约旦运输。",
-          "url": "https://wallstreetcn.com/livenews/3068944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "00时21分"
         }
       ]
     }
