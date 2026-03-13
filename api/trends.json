@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T21:55:36.351670+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2026-03-13T22:38:34.581113+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时38分]"
         },
         {
           "title": "代表称家校共育不能职责转移，为何老师职责常常转移成家庭作业？越界背后问题到底出在哪？",
@@ -97,6 +98,18 @@
           "time_info": "[06时18分 ~ 07时21分]"
         },
         {
+          "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760156",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时38分]"
+        },
+        {
           "title": "很多人说不要在吃饭时教育孩子，你会如何选择教育孩子的时机和场景？",
           "url": "https://www.zhihu.com/question/662298837",
           "source": "知乎",
@@ -106,17 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        },
-        {
-          "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760156",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         }
       ]
     }
