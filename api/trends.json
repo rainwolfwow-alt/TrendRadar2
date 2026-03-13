@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T22:38:34.581113+08:00",
-  "total_titles_processed": 2074,
+  "generated_at": "2026-03-13T23:38:28.667075+08:00",
+  "total_titles_processed": 2175,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
           "ranks": [
             3,
             12,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时38分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 23时38分]"
         },
         {
           "title": "代表称家校共育不能职责转移，为何老师职责常常转移成家庭作业？越界背后问题到底出在哪？",
@@ -86,6 +87,19 @@
           "time_info": "[19时25分 ~ 20时39分]"
         },
         {
+          "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760156",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时38分]"
+        },
+        {
           "title": "力拓集团：犹他州宾厄姆峡谷矿发生事故，承包公司一名员工死亡，已暂停旗下肯尼科特犹他铜业的所有采矿作业。",
           "url": "https://flash.jin10.com/detail/20260313054005567800",
           "source": "金十数据",
@@ -96,18 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时21分]"
-        },
-        {
-          "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760156",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时38分]"
         },
         {
           "title": "很多人说不要在吃饭时教育孩子，你会如何选择教育孩子的时机和场景？",
