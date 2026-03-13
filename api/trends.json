@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T02:36:12.226219+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-14T03:27:37.886590+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时27分]"
         },
         {
           "title": "4 名儿童躺在公路上扮演减速带，路过司机回忆此景感到后怕，这反映了安全教育的哪些缺失？",
@@ -27,8 +28,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时27分]"
         }
       ]
     }
