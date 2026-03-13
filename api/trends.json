@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T03:27:37.886590+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-03-14T04:26:07.631876+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "4 名儿童躺在公路上扮演减速带，路过司机回忆此景感到后怕，这反映了安全教育的哪些缺失？",
           "url": "https://www.zhihu.com/question/2015006537005933951",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         }
       ]
     }
