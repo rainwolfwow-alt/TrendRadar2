@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T20:33:31.810025+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-03-14T21:40:47.193769+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             25,
             21,
             29,
-            28
+            28,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 21时40分]"
         },
         {
           "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
@@ -133,7 +134,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
