@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T12:04:49.954225+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-03-14T13:41:00.400043+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%91%9B%E5%86%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时41分]"
         },
         {
           "title": "市场消息：目击者称，卡塔尔当局也在周六清晨疏散了多哈教育城的部分区域，该区域设有六所美国大学的分校校区。",
