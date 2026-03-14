@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T04:19:54.090306+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-03-15T05:20:23.887630+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时20分]"
         },
         {
           "title": "为什么越到青春期，儿子越不愿意跟爸爸说话？",
