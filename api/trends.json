@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T18:21:21.580220+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-03-14T19:18:56.639036+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "葛军 03年高考卷真不是我",
@@ -16,11 +16,12 @@
             8,
             17,
             25,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时04分 ~ 19时18分]"
         },
         {
           "title": "上海财经大学本科生转专业首次取消GPA限制，有何考量？",
@@ -98,9 +99,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
+          "title": "受早前无人机碎片影响，富查伊拉（阿联酋东海岸最大的深水转运港口及石油码头）的石油装载作业全面暂停。 作为预防措施，富查伊拉石油装载作业暂停。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3070135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时18分"
         },
         {
           "title": "市场消息：目击者称，卡塔尔当局也在周六清晨疏散了多哈教育城的部分区域，该区域设有六所美国大学的分校校区。",
