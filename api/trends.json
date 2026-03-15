@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T18:22:25.183332+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-03-15T19:20:27.690678+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 19时20分]"
         },
         {
           "title": "“人民教育家”于漪去世",
