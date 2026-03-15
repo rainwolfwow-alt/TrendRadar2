@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:40:11.632849+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-15T16:29:31.581276+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时21分 ~ 12时27分]"
         },
         {
+          "title": "人民教育家于漪逝世",
+          "url": "https://www.douyin.com/hot/2431215",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时29分]"
+        },
+        {
           "title": "为什么越到青春期，儿子越不愿意跟爸爸说话？",
           "url": "https://www.zhihu.com/question/2015420850879366767",
           "source": "知乎",
@@ -32,17 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 07时21分]"
-        },
-        {
-          "title": "人民教育家于漪逝世",
-          "url": "https://www.douyin.com/hot/2431215",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
