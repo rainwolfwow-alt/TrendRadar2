@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T09:30:30.850165+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-03-15T12:27:24.340041+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "葛军 03年高考卷真不是我",
@@ -15,11 +15,12 @@
             5,
             3,
             4,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 12时27分]"
         },
         {
           "title": "为什么越到青春期，儿子越不愿意跟爸爸说话？",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 07时21分]"
+        },
+        {
+          "title": "AI时代家长如何教育孩子",
+          "url": "https://www.toutiao.com/trending/7616957895850246154/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     }
