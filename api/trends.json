@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-16T02:28:40.262939+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-03-16T03:23:12.221362+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "人民教育家于漪逝世",
+          "url": "https://www.douyin.com/hot/2431215",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 03时23分]"
+        },
         {
           "title": "AI时代家长如何教育孩子",
           "url": "https://www.toutiao.com/trending/7616957895850246154/",
@@ -14,7 +25,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
