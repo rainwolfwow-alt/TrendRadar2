@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T06:20:05.303923+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-03-16T07:22:08.916395+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人民教育家于漪逝世",
@@ -14,22 +14,35 @@
           "ranks": [
             19,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[03时22分 ~ 07时22分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
           "url": "https://www.toutiao.com/trending/7616957895850246154/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 07时22分]"
+        },
+        {
+          "title": "葛军 03年高考卷真不是我",
+          "url": "https://search.bilibili.com/all?keyword=%E8%91%9B%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时20分]"
+          "time_info": "[07时21分 ~ 07时22分]"
         }
       ]
     }
