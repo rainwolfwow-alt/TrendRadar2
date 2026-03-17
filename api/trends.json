@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T01:39:35.275974+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-18T02:52:14.647037+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时52分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时52分]"
         },
         {
           "title": "波斯湾油气生产端首次遇袭！阿联酋大型天然气田起火 暂停作业",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时52分]"
         }
       ]
     }
