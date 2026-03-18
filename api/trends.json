@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T06:26:43.186662+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-03-19T07:25:41.510382+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时25分]"
         },
         {
           "title": "马上评丨不计入中考总分，不等于生物地理不重要了",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时25分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分",
@@ -40,11 +40,12 @@
             22,
             27,
             26,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 07时25分]"
         },
         {
           "title": "多地中考新方案公布",
@@ -56,11 +57,12 @@
             21,
             19,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时25分]"
         },
         {
           "title": "日本主管教育大臣陷不伦丑闻",
@@ -69,7 +71,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
