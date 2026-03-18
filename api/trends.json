@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T05:28:36.086153+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-03-19T06:26:43.186662+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "多地宣布生物地理不计入中考总分",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时26分]"
         },
         {
           "title": "马上评丨不计入中考总分，不等于生物地理不重要了",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时26分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分",
@@ -39,11 +39,12 @@
           "ranks": [
             22,
             27,
-            26
+            26,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 06时26分]"
         },
         {
           "title": "多地中考新方案公布",
@@ -54,11 +55,23 @@
             28,
             21,
             19,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时26分]"
+        },
+        {
+          "title": "日本主管教育大臣陷不伦丑闻",
+          "url": "https://www.toutiao.com/trending/7618428535308926982/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     }
