@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T04:28:59.479384+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-03-19T05:28:36.086153+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时28分]"
         },
         {
           "title": "马上评丨不计入中考总分，不等于生物地理不重要了",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时28分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分",
@@ -42,8 +42,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 05时28分]"
         },
         {
           "title": "多地中考新方案公布",
@@ -53,11 +53,12 @@
             29,
             28,
             21,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 05时28分]"
         }
       ]
     }
