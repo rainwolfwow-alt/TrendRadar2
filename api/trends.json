@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:33:18.505591+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2026-03-19T19:31:35.112392+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时15分 ~ 19时31分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分",
@@ -110,7 +110,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -132,7 +132,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
