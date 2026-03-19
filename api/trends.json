@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T17:36:39.492252+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-03-19T18:33:18.505591+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "多地宣布生物地理不计入中考总分",
@@ -34,6 +34,19 @@
           "time_info": "[00时03分 ~ 13时53分]"
         },
         {
+          "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时33分]"
+        },
+        {
           "title": "多地宣布生物地理不再计入中考总分",
           "url": "https://www.toutiao.com/trending/7618370449738731018/",
           "source": "今日头条",
@@ -47,19 +60,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时55分 ~ 07时25分]"
-        },
-        {
-          "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时36分]"
         },
         {
           "title": "雨中送别“人民教育家”于漪，八旬学生专程从北京坐高铁前来",
@@ -104,6 +104,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "围绕七方面重点发力 教育部启动高校毕业生“春季促就业攻坚行动”",
+          "url": "https://wallstreetcn.com/livenews/3073193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "日本主管教育大臣陷不伦丑闻",
           "url": "https://www.toutiao.com/trending/7618428535308926982/",
           "source": "今日头条",
@@ -113,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "沙特延布港恢复装油作业",
+          "url": "https://flash.jin10.com/detail/20260319175555882800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     }
