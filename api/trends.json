@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:31:35.112392+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2026-03-19T20:43:48.867439+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[00时03分 ~ 07时25分]"
         },
         {
+          "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时43分]"
+        },
+        {
           "title": "马上评丨不计入中考总分，不等于生物地理不重要了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32788109",
           "source": "澎湃新闻",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时03分 ~ 13时53分]"
-        },
-        {
-          "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时31分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分",
