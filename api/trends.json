@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T15:42:46.991495+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-03-19T16:34:27.707065+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,20 @@
           "time_info": "[01时55分 ~ 07时25分]"
         },
         {
+          "title": "雨中送别“人民教育家”于漪，八旬学生专程从北京坐高铁前来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788061",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时24分 ~ 16时34分]"
+        },
+        {
           "title": "多地中考新方案公布",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E8%80%83%E6%96%B0%E6%96%B9%E6%A1%88%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
@@ -66,20 +80,6 @@
           "time_info": "[00时03分 ~ 07时25分]"
         },
         {
-          "title": "雨中送别“人民教育家”于漪，八旬学生专程从北京坐高铁前来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788061",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 15时42分]"
-        },
-        {
           "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
           "source": "澎湃新闻",
@@ -89,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时34分]"
         },
         {
           "title": "四川一学校放假六天无作业",
