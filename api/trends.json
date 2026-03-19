@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T09:24:34.474276+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-03-19T12:15:42.748998+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "多地宣布生物地理不计入中考总分",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 12时15分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分",
@@ -66,6 +66,29 @@
           "time_info": "[00时03分 ~ 07时25分]"
         },
         {
+          "title": "雨中送别“人民教育家”于漪，八旬学生专程从北京坐高铁前来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788061",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 12时15分]"
+        },
+        {
+          "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "日本主管教育大臣陷不伦丑闻",
           "url": "https://www.toutiao.com/trending/7618428535308926982/",
           "source": "今日头条",
@@ -75,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "雨中送别“人民教育家”于漪，八旬学生专程从北京坐高铁前来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788061",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         }
       ]
     }
