@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T13:53:57.441100+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-03-19T14:49:01.237033+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
           "ranks": [
             19,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时49分]"
         },
         {
           "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
@@ -84,11 +85,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时49分]"
         },
         {
           "title": "四川一学校放假六天无作业",
@@ -97,7 +99,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
