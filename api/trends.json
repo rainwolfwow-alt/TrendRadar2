@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T16:34:27.707065+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2026-03-19T17:36:39.492252+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[01时55分 ~ 07时25分]"
         },
         {
+          "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时36分]"
+        },
+        {
           "title": "雨中送别“人民教育家”于漪，八旬学生专程从北京坐高铁前来",
           "url": "https://m.thepaper.cn/newsDetail_forward_32788061",
           "source": "澎湃新闻",
@@ -78,19 +91,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 07时25分]"
-        },
-        {
-          "title": "多地宣布生物地理不再计入中考总分，背后有何改革逻辑？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32792839",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 16时34分]"
         },
         {
           "title": "四川一学校放假六天无作业",
