@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:40:35.426127+08:00",
-  "total_titles_processed": 2026,
+  "generated_at": "2026-03-20T23:36:52.641784+08:00",
+  "total_titles_processed": 2117,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,24 @@
             19,
             17,
             4,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 22时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 23时36分]"
+        },
+        {
+          "title": "中考改革：为何生物地理不计入总分",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E6%94%B9%E9%9D%A9%EF%BC%9A%E4%B8%BA%E4%BD%95%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E8%AE%A1%E5%85%A5%E6%80%BB%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时36分]"
         },
         {
           "title": "陪孩子写作业的家长有多难",
@@ -39,22 +52,12 @@
           "source": "今日头条",
           "ranks": [
             11,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 22时40分]"
-        },
-        {
-          "title": "中考改革：为何生物地理不计入总分",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E6%94%B9%E9%9D%A9%EF%BC%9A%E4%B8%BA%E4%BD%95%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E8%AE%A1%E5%85%A5%E6%80%BB%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 23时36分]"
         },
         {
           "title": "沙特阿美一度在红海港口Yanbu暂停石油装货作业，此前伊朗打击该港口所在地的周边区域。",
