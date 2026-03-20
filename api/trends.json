@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T19:26:14.491338+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-03-20T20:39:58.108753+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/2017546749061898708",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时39分]"
         },
         {
           "title": "陪孩子写作业的家长有多难",
