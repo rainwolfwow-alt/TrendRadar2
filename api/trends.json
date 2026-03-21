@@ -1,127 +1,22 @@
 {
-  "generated_at": "2026-03-21T23:19:41.027506+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-03-22T00:20:37.231875+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "中考改革：为何生物地理不计入总分",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E6%94%B9%E9%9D%A9%EF%BC%9A%E4%B8%BA%E4%BD%95%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E8%AE%A1%E5%85%A5%E6%80%BB%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时15分]"
-        },
-        {
-          "title": "为什么生物地理会被踢出中考计分",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%BC%9A%E8%A2%AB%E8%B8%A2%E5%87%BA%E4%B8%AD%E8%80%83%E8%AE%A1%E5%88%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            10,
-            20,
-            19,
-            5,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时15分]"
-        },
-        {
-          "title": "陪孩子写作业的家长有多难",
-          "url": "https://www.toutiao.com/trending/7618976144432365614/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19,
-            22,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 17时25分]"
-        },
         {
           "title": "2026高考最后十课",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E%E5%8D%81%E8%AF%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时19分]"
-        },
-        {
-          "title": "吉林、安徽、江西、湖南等十余省市宣布生物地理不再计入中考总分，为什么是这两个科目？家长们怎么看？",
-          "url": "https://www.zhihu.com/question/2017546749061898708",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时33分]"
-        },
-        {
-          "title": "高考语文最后十课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%9C%80%E5%90%8E%E5%8D%81%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时37分]"
-        },
-        {
-          "title": "为何生物地理会被踢出中考计分",
-          "url": "https://www.toutiao.com/trending/7618383307562221574/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 13时06分]"
-        },
-        {
-          "title": "巴拿马运河管理局：计划于2026年3月至9月期间进行维护作业，期间将确保船舶通行不受中断。",
-          "url": "https://flash.jin10.com/detail/20260321001416542800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "高考政治最后十课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%94%BF%E6%B2%BB%E6%9C%80%E5%90%8E%E5%8D%81%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时20分"
         }
       ]
     }
