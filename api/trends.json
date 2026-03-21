@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:23:26.431622+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-03-21T17:25:18.139776+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
             18,
             19,
             22,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 17时25分]"
         },
         {
           "title": "吉林、安徽、江西、湖南等十余省市宣布生物地理不再计入中考总分，为什么是这两个科目？家长们怎么看？",
