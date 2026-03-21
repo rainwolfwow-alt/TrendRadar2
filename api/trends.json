@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:22:32.847230+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-21T09:15:53.370734+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E6%94%B9%E9%9D%A9%EF%BC%9A%E4%B8%BA%E4%BD%95%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E8%AE%A1%E5%85%A5%E6%80%BB%E5%88%86",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时15分]"
         },
         {
           "title": "为什么生物地理会被踢出中考计分",
@@ -29,11 +30,25 @@
             20,
             19,
             5,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时15分]"
+        },
+        {
+          "title": "陪孩子写作业的家长有多难",
+          "url": "https://www.toutiao.com/trending/7618976144432365614/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 09时15分]"
         },
         {
           "title": "吉林、安徽、江西、湖南等十余省市宣布生物地理不再计入中考总分，为什么是这两个科目？家长们怎么看？",
@@ -44,18 +59,6 @@
             9,
             15,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时33分]"
-        },
-        {
-          "title": "陪孩子写作业的家长有多难",
-          "url": "https://www.toutiao.com/trending/7618976144432365614/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 5,
