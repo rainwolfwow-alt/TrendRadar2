@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T20:31:59.980694+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-03-21T21:37:55.299837+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -53,17 +53,6 @@
           "time_info": "[00时34分 ~ 17时25分]"
         },
         {
-          "title": "高考语文最后十课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%9C%80%E5%90%8E%E5%8D%81%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "吉林、安徽、江西、湖南等十余省市宣布生物地理不再计入中考总分，为什么是这两个科目？家长们怎么看？",
           "url": "https://www.zhihu.com/question/2017546749061898708",
           "source": "知乎",
@@ -76,6 +65,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 03时33分]"
+        },
+        {
+          "title": "高考语文最后十课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%9C%80%E5%90%8E%E5%8D%81%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时37分]"
         },
         {
           "title": "为何生物地理会被踢出中考计分",
@@ -107,7 +108,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         }
