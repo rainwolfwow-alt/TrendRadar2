@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T17:25:50.789996+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-03-22T18:20:16.621246+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 18时20分]"
         },
         {
           "title": "为何生物地理会被踢出中考计分",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时34分 ~ 18时20分]"
         }
       ]
     }
