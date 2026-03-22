@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T05:19:58.992889+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-03-23T06:18:35.331785+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "2026高考最后十课",
@@ -26,11 +26,12 @@
             23,
             24,
             29,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         }
       ]
     }
