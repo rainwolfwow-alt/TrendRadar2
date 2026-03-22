@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T22:21:39.909104+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-03-22T23:19:36.080897+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,12 @@
             26,
             28,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 22时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 23时19分]"
         },
         {
           "title": "吉林某校老师推出背书攒积分养电子宠物活动，学生为养「宠物」抢着找老师背书，这一教育方式有何启发？",
@@ -47,11 +48,12 @@
           "ranks": [
             13,
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时34分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[15时34分 ~ 23时19分]"
         },
         {
           "title": "为何生物地理会被踢出中考计分",
