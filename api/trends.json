@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-24T03:43:19.816729+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-03-24T04:56:16.722750+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "假如围棋是高考唯一科目，那么新出现的棋手能不能把申真谞挤出前 100？",
+          "url": "https://www.zhihu.com/question/1931641841775796718",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
