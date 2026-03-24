@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-03-24T17:48:29.083081+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-03-24T18:43:47.107646+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 2,
       "titles": [
-        {
-          "title": "假如围棋是高考唯一科目，那么新出现的棋手能不能把申真谞挤出前 100？",
-          "url": "https://www.zhihu.com/question/1931641841775796718",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时56分 ~ 13时55分]"
-        },
         {
           "title": "多地中考改革调整开闭卷科目，同省不同市采取两种策略",
           "url": "https://m.thepaper.cn/newsDetail_forward_32815896",
@@ -34,8 +20,22 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 18时43分]"
+        },
+        {
+          "title": "假如围棋是高考唯一科目，那么新出现的棋手能不能把申真谞挤出前 100？",
+          "url": "https://www.zhihu.com/question/1931641841775796718",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            8,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时12分 ~ 17时48分]"
+          "time_info": "[04时56分 ~ 13时55分]"
         }
       ]
     }
