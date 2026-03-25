@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T13:57:00.882060+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-03-25T14:55:22.922981+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -32,16 +32,40 @@
           "time_info": "[07时24分 ~ 09时23分]"
         },
         {
+          "title": "工人师傅抓光缆作业被弹飞",
+          "url": "https://www.toutiao.com/trending/7620718479146450985/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 14时55分]"
+        },
+        {
           "title": "日本被曝多年搞反华教育",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%B9%B4%E6%90%9E%E5%8F%8D%E5%8D%8E%E6%95%99%E8%82%B2",
           "source": "百度热搜",
           "ranks": [
             7,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时55分]"
+        },
+        {
+          "title": "张雪峰去世，‌对其创办的教育机构有影响有多大？大家更看重张雪峰本人还是其团队能力？",
+          "url": "https://www.zhihu.com/question/2019898065952142497",
+          "source": "知乎",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时57分]"
+          "time_info": "[13时56分 ~ 14时55分]"
         },
         {
           "title": "60秒回顾张雪峰从北漂讲师到教育网红",
@@ -56,17 +80,6 @@
           "time_info": "[09时22分 ~ 12时13分]"
         },
         {
-          "title": "张雪峰去世，‌对其创办的教育机构有影响有多大？大家更看重张雪峰本人还是其团队能力？",
-          "url": "https://www.zhihu.com/question/2019898065952142497",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
           "title": "如何评价张雪峰在教育领域的贡献",
           "url": "https://www.toutiao.com/trending/7620829007944286227/",
           "source": "今日头条",
@@ -74,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 14时55分]"
         },
         {
           "title": "奖状在小学教育中的作用有多大",
@@ -87,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "工人师傅抓光缆作业被弹飞",
-          "url": "https://www.toutiao.com/trending/7620718479146450985/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
         },
         {
           "title": "日本被曝多年搞反华教育",
