@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T15:49:39.553615+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-03-25T16:40:57.133696+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             25,
             4,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 16时40分]"
         },
         {
           "title": "日本被曝多年搞反华教育",
