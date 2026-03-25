@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:55:22.922981+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-03-25T15:49:39.553615+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 15时49分]"
         },
         {
           "title": "日本被曝多年搞反华教育",
@@ -50,11 +51,12 @@
           "ranks": [
             7,
             6,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时49分]"
         },
         {
           "title": "张雪峰去世，‌对其创办的教育机构有影响有多大？大家更看重张雪峰本人还是其团队能力？",
