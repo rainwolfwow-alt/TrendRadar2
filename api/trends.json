@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T18:45:49.317162+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-03-26T19:44:33.847058+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32834409",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时44分]"
         },
         {
           "title": "教育孩子你掌握边界感了吗",
