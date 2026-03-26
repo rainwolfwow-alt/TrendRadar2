@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T01:55:38.601110+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-03-27T02:56:21.747856+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "四川教育厅回应“恢复生物地理中考计分”建议：将指导市州结合实际调研",
@@ -27,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时56分]"
         }
       ]
     }
