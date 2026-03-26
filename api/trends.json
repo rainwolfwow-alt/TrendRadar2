@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T19:44:33.847058+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-03-26T20:56:39.138992+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "四川教育厅回应“恢复生物地理中考计分”建议：将指导市州结合实际调研",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 20时56分]"
+        },
+        {
+          "title": "山东师大砍掉25个本科专业",
+          "url": "https://news.ifeng.com/c/8roXFgUrdiY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "教育孩子你掌握边界感了吗",
