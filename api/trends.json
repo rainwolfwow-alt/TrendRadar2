@@ -1,267 +1,77 @@
 {
-  "generated_at": "2026-03-27T23:44:50.214843+08:00",
-  "total_titles_processed": 2078,
+  "generated_at": "2026-03-28T00:44:56.530957+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 20,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "严禁幼儿园小学化教育",
+          "url": "https://www.douyin.com/hot/2445725",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            13,
-            11,
-            10,
-            8,
-            7,
-            5,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 23时44分]"
-        },
-        {
-          "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837538",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13,
-            12,
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 23时44分]"
-        },
-        {
-          "title": "一天连轴转的留学生活",
-          "url": "https://www.douyin.com/hot/2445418",
-          "source": "抖音",
-          "ranks": [
-            8,
-            2,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 22时07分]"
-        },
-        {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://www.douyin.com/hot/2445159",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14,
-            11,
-            9,
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 23时44分]"
-        },
-        {
-          "title": "教育部重申严禁宣传高考状元和升学率",
-          "url": "https://www.toutiao.com/trending/7621744185402146825/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20,
-            15,
-            10,
-            23,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 23时44分]"
-        },
-        {
-          "title": "山东师大砍掉25个本科专业",
-          "url": "https://news.ifeng.com/c/8roXFgUrdiY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时34分]"
-        },
-        {
-          "title": "四川教育厅回应“恢复生物地理中考计分”建议：将指导市州结合实际调研",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834409",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 12时29分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
           "url": "https://www.zhihu.com/question/2020558931072745982",
           "source": "知乎",
           "ranks": [
-            8,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8320%E6%9D%A1%E4%B8%A5%E7%A6%81%E6%B8%85%E5%8D%95",
-          "source": "bilibili 热搜",
+          "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837538",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            29
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时46分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://www.toutiao.com/trending/7621744185402212361/",
+          "title": "教育部重申严禁宣传高考状元和升学率",
+          "url": "https://www.toutiao.com/trending/7621744185402146825/",
           "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时09分]"
-        },
-        {
-          "title": "20条“严禁”！教育部发布负面清单",
-          "url": "https://www.baidu.com/s?wd=20%E6%9D%A1%E2%80%9C%E4%B8%A5%E7%A6%81%E2%80%9D%EF%BC%81%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 15时56分]"
-        },
-        {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8320%E6%9D%A1%E4%B8%A5%E7%A6%81%E6%B8%85%E5%8D%95%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "教育部发布 20 条负面清单，严禁提前开学延迟放假、幼儿园小学化等，会带来哪些影响和变化？",
-          "url": "https://www.zhihu.com/question/2020799455490836465",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
-        },
-        {
-          "title": "教育部：严禁学校提前开学延迟放假",
-          "url": "https://www.toutiao.com/trending/7620784202447618099/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
-        },
-        {
-          "title": "教育部：严禁班干部选拔弄虚作假",
-          "url": "https://www.toutiao.com/trending/7621745318950010934/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "市场消息：卡塔尔宣布5月份液化天然气提货作业受不可抗力影响。",
-          "url": "https://flash.jin10.com/detail/20260327182655688800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "初二下学期，每天作业写到九点半，没报任何课外班，孩子还是累到不想说话，是否常见？",
-          "url": "https://www.zhihu.com/question/2020416624247748508",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "教育孩子你掌握边界感了吗",
-          "url": "https://www.toutiao.com/trending/7621174030637629491/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "红十字会官员：据伊朗红新月会消息，伊朗已有289处制药、医疗及卫生保健设施受损，此外约有600所学校及其他教育机构受损。",
-          "url": "https://flash.jin10.com/detail/20260327181841024800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "00时44分"
         },
         {
           "title": "男孩写作业头痛 突发脑出血进ICU",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%86%99%E4%BD%9C%E4%B8%9A%E5%A4%B4%E7%97%9B+%E7%AA%81%E5%8F%91%E8%84%91%E5%87%BA%E8%A1%80%E8%BF%9BICU",
           "source": "百度热搜",
           "ranks": [
-            30
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "00时44分"
         }
       ]
     }
