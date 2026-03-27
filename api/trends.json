@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T01:43:59.850446+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-28T02:45:50.826016+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时45分]"
         },
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -27,20 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
-        },
-        {
-          "title": "严禁幼儿园小学化教育",
-          "url": "https://www.douyin.com/hot/2445725",
-          "source": "抖音",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时45分]"
         },
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -51,8 +39,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时45分]"
+        },
+        {
+          "title": "严禁幼儿园小学化教育",
+          "url": "https://www.douyin.com/hot/2445725",
+          "source": "抖音",
+          "ranks": [
+            1,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时45分]"
         },
         {
           "title": "教育部重申严禁宣传高考状元和升学率",
@@ -63,8 +64,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时45分]"
         },
         {
           "title": "男孩写作业头痛 突发脑出血进ICU",
@@ -72,11 +73,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时45分]"
         }
       ]
     }
