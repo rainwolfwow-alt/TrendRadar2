@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T20:44:43.376909+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2026-03-27T22:07:24.689355+08:00",
+  "total_titles_processed": 1950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -18,11 +18,26 @@
             10,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 22时07分]"
+        },
+        {
+          "title": "一天连轴转的留学生活",
+          "url": "https://www.douyin.com/hot/2445418",
+          "source": "抖音",
+          "ranks": [
+            8,
+            2,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 22时07分]"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -34,11 +49,12 @@
             11,
             9,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 22时07分]"
         },
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -54,8 +70,24 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 22时07分]"
+        },
+        {
+          "title": "教育部重申严禁宣传高考状元和升学率",
+          "url": "https://www.toutiao.com/trending/7621744185402146825/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20,
+            15,
+            10,
+            23,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[12时28分 ~ 20时44分]"
+          "time_info": "[12时28分 ~ 22时07分]"
         },
         {
           "title": "山东师大砍掉25个本科专业",
@@ -82,35 +114,6 @@
           "time_info": "[00时05分 ~ 12时29分]"
         },
         {
-          "title": "一天连轴转的留学生活",
-          "url": "https://www.douyin.com/hot/2445418",
-          "source": "抖音",
-          "ranks": [
-            8,
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 20时44分]"
-        },
-        {
-          "title": "教育部重申严禁宣传高考状元和升学率",
-          "url": "https://www.toutiao.com/trending/7621744185402146825/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20,
-            15,
-            10,
-            23,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 20时44分]"
-        },
-        {
           "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
           "url": "https://www.zhihu.com/question/2020558931072745982",
           "source": "知乎",
@@ -120,8 +123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 20时44分]"
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 22时07分]"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -212,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "初二下学期，每天作业写到九点半，没报任何课外班，孩子还是累到不想说话，是否常见？",
+          "url": "https://www.zhihu.com/question/2020416624247748508",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "教育孩子你掌握边界感了吗",
