@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T05:28:22.215725+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-03-28T06:25:07.277303+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时25分]"
         },
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时25分]"
         },
         {
           "title": "严禁幼儿园小学化教育",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时25分]"
         },
         {
           "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
@@ -68,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时25分]"
         },
         {
           "title": "男孩写作业头痛 突发脑出血进ICU",
@@ -84,8 +84,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时25分]"
         },
         {
           "title": "一天连轴转的留学生活",
@@ -97,8 +97,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时28分]"
+          "appearance_count": 6,
+          "time_info": "[03时37分 ~ 06时25分]"
+        },
+        {
+          "title": "教育部明确严禁布置重复性惩罚性作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%98%8E%E7%A1%AE%E4%B8%A5%E7%A6%81%E5%B8%83%E7%BD%AE%E9%87%8D%E5%A4%8D%E6%80%A7%E6%83%A9%E7%BD%9A%E6%80%A7%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 06时25分]"
         }
       ]
     }
