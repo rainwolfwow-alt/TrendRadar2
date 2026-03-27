@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T18:40:40.258166+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-03-27T19:37:21.804915+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时08分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时08分 ~ 19时37分]"
         },
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 19时37分]"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 19时37分]"
         },
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 19时37分]"
         },
         {
           "title": "教育部重申严禁宣传高考状元和升学率",
@@ -98,11 +98,24 @@
             17,
             20,
             15,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 19时37分]"
+        },
+        {
+          "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2020558931072745982",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时37分]"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -126,18 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 14时09分]"
-        },
-        {
-          "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
-          "url": "https://www.zhihu.com/question/2020558931072745982",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时40分]"
         },
         {
           "title": "20条“严禁”！教育部发布负面清单",
@@ -202,7 +203,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -224,7 +225,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
