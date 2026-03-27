@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T14:09:14.135493+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-03-27T15:56:30.882452+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "山东师大砍掉25个本科专业",
@@ -32,15 +32,27 @@
           "time_info": "[00时05分 ~ 12时29分]"
         },
         {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://www.toutiao.com/trending/7621744185402212361/",
-          "source": "今日头条",
+          "title": "一天连轴转的留学生活",
+          "url": "https://www.douyin.com/hot/2445418",
+          "source": "抖音",
           "ranks": [
-            7
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时56分]"
+        },
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8320%E6%9D%A1%E4%B8%A5%E7%A6%81%E6%B8%85%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -48,11 +60,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时56分]"
         },
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -60,18 +73,31 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时56分]"
         },
         {
           "title": "教育部发布20条严禁清单",
           "url": "https://www.douyin.com/hot/2445159",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时56分]"
+        },
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://www.toutiao.com/trending/7621744185402212361/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -89,15 +115,16 @@
           "time_info": "[12时28分 ~ 14时09分]"
         },
         {
-          "title": "一天连轴转的留学生活",
-          "url": "https://www.douyin.com/hot/2445418",
-          "source": "抖音",
+          "title": "20条“严禁”！教育部发布负面清单",
+          "url": "https://www.baidu.com/s?wd=20%E6%9D%A1%E2%80%9C%E4%B8%A5%E7%A6%81%E2%80%9D%EF%BC%81%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95",
+          "source": "百度热搜",
           "ranks": [
-            8
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时56分]"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -142,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "20条“严禁”！教育部发布负面清单",
-          "url": "https://www.baidu.com/s?wd=20%E6%9D%A1%E2%80%9C%E4%B8%A5%E7%A6%81%E2%80%9D%EF%BC%81%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
         },
         {
           "title": "教育孩子你掌握边界感了吗",
