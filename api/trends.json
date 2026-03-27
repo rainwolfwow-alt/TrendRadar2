@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-03-27T19:37:21.804915+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2026-03-27T20:44:43.376909+08:00",
+  "total_titles_processed": 1832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 18,
       "titles": [
+        {
+          "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            11,
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时44分]"
+        },
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://www.douyin.com/hot/2445159",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14,
+            11,
+            9,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时44分]"
+        },
+        {
+          "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837538",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时44分]"
+        },
         {
           "title": "山东师大砍掉25个本科专业",
           "url": "https://news.ifeng.com/c/8roXFgUrdiY",
@@ -37,58 +87,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时08分 ~ 19时37分]"
-        },
-        {
-          "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时37分]"
-        },
-        {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://www.douyin.com/hot/2445159",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14,
-            11,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时37分]"
-        },
-        {
-          "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837538",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 20时44分]"
         },
         {
           "title": "教育部重申严禁宣传高考状元和升学率",
@@ -99,11 +103,12 @@
             20,
             15,
             10,
-            23
+            23,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 19时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 20时44分]"
         },
         {
           "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
@@ -111,11 +116,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时44分]"
         },
         {
           "title": "教育部发布20条严禁清单",
