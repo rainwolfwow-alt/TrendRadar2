@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:22:39.649570+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2026-03-28T20:36:38.440972+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,19 @@
           "time_info": "[00时44分 ~ 04时31分]"
         },
         {
+          "title": "高考志愿填报要做哪些准备",
+          "url": "https://www.toutiao.com/trending/7621883306233954347/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时49分 ~ 20时36分]"
+        },
+        {
           "title": "一口气做四国高考英语试题",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E5%81%9A%E5%9B%9B%E5%9B%BD%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E8%AF%95%E9%A2%98",
           "source": "bilibili 热搜",
@@ -123,19 +136,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时40分 ~ 19时22分]"
-        },
-        {
-          "title": "高考志愿填报要做哪些准备",
-          "url": "https://www.toutiao.com/trending/7621883306233954347/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时49分 ~ 19时22分]"
         },
         {
           "title": "河南再添一所本科高校",
@@ -196,11 +196,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时36分]"
         },
         {
           "title": "教育部明确严禁布置重复性惩罚性作业",
