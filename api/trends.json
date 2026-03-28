@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T21:45:46.476637+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-03-28T22:25:59.994861+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -62,6 +62,19 @@
           "time_info": "[00时44分 ~ 09时22分]"
         },
         {
+          "title": "高考志愿填报要做哪些准备",
+          "url": "https://www.toutiao.com/trending/7621883306233954347/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时49分 ~ 22时25分]"
+        },
+        {
           "title": "男孩写作业头痛 突发脑出血进ICU",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E5%86%99%E4%BD%9C%E4%B8%9A%E5%A4%B4%E7%97%9B+%E7%AA%81%E5%8F%91%E8%84%91%E5%87%BA%E8%A1%80%E8%BF%9BICU",
           "source": "百度热搜",
@@ -108,19 +121,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 04时31分]"
-        },
-        {
-          "title": "高考志愿填报要做哪些准备",
-          "url": "https://www.toutiao.com/trending/7621883306233954347/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时49分 ~ 21时45分]"
         },
         {
           "title": "一口气做四国高考英语试题",
