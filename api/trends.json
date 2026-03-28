@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T14:49:43.928750+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-03-28T15:40:15.978768+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -121,6 +121,32 @@
           "time_info": "[12时13分 ~ 13时52分]"
         },
         {
+          "title": "留学生回忆李昌钰半年前露面精神不错",
+          "url": "https://www.toutiao.com/trending/7622101955284094491/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            17,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时40分]"
+        },
+        {
+          "title": "一口气做四国高考英语试题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E5%81%9A%E5%9B%9B%E5%9B%BD%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E8%AF%95%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "切割作业火星飞溅真的会“秒燃”",
           "url": "https://www.toutiao.com/trending/7621878691278848041/",
           "source": "今日头条",
@@ -130,20 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        },
-        {
-          "title": "留学生回忆李昌钰半年前露面精神不错",
-          "url": "https://www.toutiao.com/trending/7622101955284094491/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时49分]"
         },
         {
           "title": "教育部明确严禁布置重复性惩罚性作业",
@@ -163,31 +175,44 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时40分]"
         },
         {
           "title": "河南再添一所本科高校",
           "url": "https://www.douyin.com/hot/2446334",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时40分]"
         },
         {
           "title": "20条负面清单将如何影响教育",
           "url": "https://search.bilibili.com/all?keyword=20%E6%9D%A1%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%99%E8%82%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时40分]"
+        },
+        {
+          "title": "伊朗教育部：美以军事打击已致252名学生和教师死亡",
+          "url": "https://flash.jin10.com/detail/20260328150622648800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时40分"
         }
       ]
     }
