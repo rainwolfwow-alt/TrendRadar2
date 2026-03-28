@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:25:59.994861+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-03-28T23:24:31.227039+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时49分 ~ 22时25分]"
+          "appearance_count": 11,
+          "time_info": "[14时49分 ~ 23时24分]"
         },
         {
           "title": "男孩写作业头痛 突发脑出血进ICU",
@@ -131,11 +131,12 @@
             15,
             9,
             8,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 23时24分]"
         },
         {
           "title": "河南再添一所本科高校",
