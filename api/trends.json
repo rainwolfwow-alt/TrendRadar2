@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T07:25:47.276605+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-03-28T09:22:19.987100+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -15,22 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时25分]"
-        },
-        {
-          "title": "严禁幼儿园小学化教育",
-          "url": "https://www.douyin.com/hot/2445725",
-          "source": "抖音",
-          "ranks": [
-            1,
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时22分]"
         },
         {
           "title": "日本自卫官持刀闯使馆背后：自卫队教育体系与政界的危险信号",
@@ -46,6 +32,21 @@
           "time_info": "[00时44分 ~ 07时25分]"
         },
         {
+          "title": "严禁幼儿园小学化教育",
+          "url": "https://www.douyin.com/hot/2445725",
+          "source": "抖音",
+          "ranks": [
+            1,
+            5,
+            6,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时22分]"
+        },
+        {
           "title": "教育部重申严禁宣传高考状元和升学率",
           "url": "https://www.toutiao.com/trending/7621744185402146825/",
           "source": "今日头条",
@@ -53,11 +54,12 @@
             10,
             17,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时22分]"
         },
         {
           "title": "男孩写作业头痛 突发脑出血进ICU",
@@ -70,11 +72,12 @@
             15,
             23,
             19,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时22分]"
         },
         {
           "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
@@ -98,11 +101,23 @@
             26,
             24,
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时37分 ~ 07时25分]"
+          "appearance_count": 8,
+          "time_info": "[03时37分 ~ 09时22分]"
+        },
+        {
+          "title": "留学生回忆李昌钰半年前露面精神不错",
+          "url": "https://www.toutiao.com/trending/7622101955284094491/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "教育部明确严禁布置重复性惩罚性作业",
