@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T05:23:41.458635+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-03-29T06:21:29.205783+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "2026高考数学冲刺",
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 06时21分]"
         },
         {
           "title": "高考志愿填报要做哪些准备",
