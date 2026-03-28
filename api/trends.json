@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T12:13:19.448264+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-03-28T13:52:47.614474+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
@@ -80,6 +80,22 @@
           "time_info": "[00时44分 ~ 09时22分]"
         },
         {
+          "title": "一天连轴转的留学生活",
+          "url": "https://www.douyin.com/hot/2445418",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            23,
+            21,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时37分 ~ 13时52分]"
+        },
+        {
           "title": "14 岁男生把干冰放冷冻室，半夜爆炸致价值上万冰箱损毁，母亲称不会责罚会引导，如何看待这种教育方式？",
           "url": "https://www.zhihu.com/question/2020558931072745982",
           "source": "知乎",
@@ -94,30 +110,26 @@
           "time_info": "[00时44分 ~ 04时31分]"
         },
         {
-          "title": "一天连轴转的留学生活",
-          "url": "https://www.douyin.com/hot/2445418",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24,
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时37分 ~ 12时13分]"
-        },
-        {
           "title": "20条负面清单让基础教育回归本真",
           "url": "https://s.weibo.com/weibo?q=%2320%E6%9D%A1%E8%B4%9F%E9%9D%A2%E6%B8%85%E5%8D%95%E8%AE%A9%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2%E5%9B%9E%E5%BD%92%E6%9C%AC%E7%9C%9F%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时52分]"
+        },
+        {
+          "title": "切割作业火星飞溅真的会“秒燃”",
+          "url": "https://www.toutiao.com/trending/7621878691278848041/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "13时52分"
         },
         {
           "title": "留学生回忆李昌钰半年前露面精神不错",
@@ -125,11 +137,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 13时52分]"
         },
         {
           "title": "教育部明确严禁布置重复性惩罚性作业",
