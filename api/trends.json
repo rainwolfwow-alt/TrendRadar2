@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T18:25:28.267900+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-03-28T19:22:39.649570+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,49 @@
           "time_info": "[00时44分 ~ 04时31分]"
         },
         {
+          "title": "一口气做四国高考英语试题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E5%81%9A%E5%9B%9B%E5%9B%BD%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E8%AF%95%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15,
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 19时22分]"
+        },
+        {
+          "title": "高考志愿填报要做哪些准备",
+          "url": "https://www.toutiao.com/trending/7621883306233954347/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时49分 ~ 19时22分]"
+        },
+        {
+          "title": "河南再添一所本科高校",
+          "url": "https://www.douyin.com/hot/2446334",
+          "source": "抖音",
+          "ranks": [
+            16,
+            11,
+            10,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时49分 ~ 19时22分]"
+        },
+        {
           "title": "留学生回忆李昌钰半年前露面精神不错",
           "url": "https://www.toutiao.com/trending/7622101955284094491/",
           "source": "今日头条",
@@ -137,58 +180,6 @@
           "time_info": "[12时13分 ~ 13时52分]"
         },
         {
-          "title": "高考志愿填报要做哪些准备",
-          "url": "https://www.toutiao.com/trending/7621883306233954347/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 18时25分]"
-        },
-        {
-          "title": "一口气做四国高考英语试题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E5%81%9A%E5%9B%9B%E5%9B%BD%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E8%AF%95%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时40分 ~ 18时25分]"
-        },
-        {
-          "title": "马士基：在码头起重机受损的事件发生后，港口随即被紧急疏散，塞拉莱港全港作业暂时中止。目前预计运营将暂停约48小时。",
-          "url": "https://flash.jin10.com/detail/20260328175039423800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "河南再添一所本科高校",
-          "url": "https://www.douyin.com/hot/2446334",
-          "source": "抖音",
-          "ranks": [
-            16,
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 18时25分]"
-        },
-        {
           "title": "切割作业火星飞溅真的会“秒燃”",
           "url": "https://www.toutiao.com/trending/7621878691278848041/",
           "source": "今日头条",
@@ -198,6 +189,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "马士基：在码头起重机受损的事件发生后，港口随即被紧急疏散，塞拉莱港全港作业暂时中止。目前预计运营将暂停约48小时。",
+          "url": "https://flash.jin10.com/detail/20260328175039423800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时22分]"
         },
         {
           "title": "教育部明确严禁布置重复性惩罚性作业",
