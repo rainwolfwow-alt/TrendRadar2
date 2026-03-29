@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T15:48:31.756829+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-03-29T16:32:37.395427+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,17 @@
           "time_info": "[00时24分 ~ 09时44分]"
         },
         {
+          "title": "高三学生因鸟鸣干扰备考请求学校拆除鸟巢，校长回信「学会与万物共存是成长的必修课」，如何评价此教育方式？",
+          "url": "https://www.zhihu.com/question/2020794934098142439",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 16时32分]"
+        },
+        {
           "title": "2026高考数学冲刺",
           "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%86%B2%E5%88%BA",
           "source": "bilibili 热搜",
@@ -36,17 +47,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时22分 ~ 15时48分]"
-        },
-        {
-          "title": "高三学生因鸟鸣干扰备考请求学校拆除鸟巢，校长回信「学会与万物共存是成长的必修课」，如何评价此教育方式？",
-          "url": "https://www.zhihu.com/question/2020794934098142439",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 15时48分]"
         },
         {
           "title": "高考志愿填报要做哪些准备",
@@ -89,7 +89,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         }
