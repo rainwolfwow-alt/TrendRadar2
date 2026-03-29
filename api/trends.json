@@ -1,57 +1,12 @@
 {
-  "generated_at": "2026-03-29T23:24:47.407252+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-03-30T00:26:52.741661+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "高三学生因鸟鸣干扰备考请求学校拆除鸟巢，校长回信「学会与万物共存是成长的必修课」，如何评价此教育方式？",
-          "url": "https://www.zhihu.com/question/2020794934098142439",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 22时28分]"
-        },
-        {
-          "title": "一口气做四国高考英语试题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E5%81%9A%E5%9B%9B%E5%9B%BD%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E8%AF%95%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            8,
-            4,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 09时44分]"
-        },
-        {
-          "title": "2026高考数学冲刺",
-          "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%86%B2%E5%88%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            8,
-            21,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 15时48分]"
-        },
         {
           "title": "伊朗科技大学遭袭后，伊朗将美以大学列为「合法袭击目标」，如果战争扩大到教育机构，冲突还有回头路吗？",
           "url": "https://www.zhihu.com/question/2021512806751626985",
@@ -60,53 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时25分 ~ 23时24分]"
-        },
-        {
-          "title": "高考志愿填报要做哪些准备",
-          "url": "https://www.toutiao.com/trending/7621883306233954347/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 05时23分]"
-        },
-        {
-          "title": "伊朗威胁要袭击位于中东的美国大学",
-          "url": "https://flash.jin10.com/detail/20260329090629770800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "河南再添一所本科高校",
-          "url": "https://www.douyin.com/hot/2446334",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "伊朗科技大学遭美以空袭，本轮冲突已造成伊朗 252 名师生死亡，对伊朗教育系统打击有多大？",
-          "url": "https://www.zhihu.com/question/2021263346008158508",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "00时26分"
         }
       ]
     }
