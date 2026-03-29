@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:37:07.570841+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-03-29T21:47:32.511314+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 20时37分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 21时47分]"
         },
         {
           "title": "一口气做四国高考英语试题",
@@ -58,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 20时37分]"
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 21时47分]"
         },
         {
           "title": "高考志愿填报要做哪些准备",
