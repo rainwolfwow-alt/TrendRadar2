@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T02:50:30.902924+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-31T03:51:26.515362+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             16,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时51分]"
         },
         {
           "title": "树立和践行正确政绩观学习教育中央指导组派驻地方和单位名单公布",
@@ -29,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时51分]"
         },
         {
           "title": "中学生带泡面入校被拦？教育局回应",
@@ -38,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 03时51分]"
         },
         {
           "title": "市场消息：三名工程师称，在3月17日暂停运营后，他们已接到命令恢复利比亚埃尔菲尔油田的作业。",
