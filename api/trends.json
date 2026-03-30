@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T01:46:34.131248+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-03-31T02:50:30.902924+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时50分]"
         },
         {
           "title": "树立和践行正确政绩观学习教育中央指导组派驻地方和单位名单公布",
@@ -28,8 +29,20 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时50分]"
+        },
+        {
+          "title": "中学生带泡面入校被拦？教育局回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%B8%A6%E6%B3%A1%E9%9D%A2%E5%85%A5%E6%A0%A1%E8%A2%AB%E6%8B%A6%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时46分]"
+          "time_info": "[01时46分 ~ 02时50分]"
         },
         {
           "title": "市场消息：三名工程师称，在3月17日暂停运营后，他们已接到命令恢复利比亚埃尔菲尔油田的作业。",
@@ -38,7 +51,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -52,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "中学生带泡面入校被拦？教育局回应",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%B8%A6%E6%B3%A1%E9%9D%A2%E5%85%A5%E6%A0%A1%E8%A2%AB%E6%8B%A6%EF%BC%9F%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
         }
       ]
     }
