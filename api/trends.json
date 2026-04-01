@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-01T07:28:09.024969+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-04-01T09:50:32.494233+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "河南一高中近半历史老师无学生可教，媒体称若选科完全被就业市场牵引，新高考意义或被弱化，如何理解此观点？",
+          "url": "https://www.zhihu.com/question/2022348639914259478",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "多所高校宣布2026年本科扩招",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%A3%E5%B8%832026%E5%B9%B4%E6%9C%AC%E7%A7%91%E6%89%A9%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
         {
           "title": "美博主称中国小学生胜过美国大学生",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8D%9A%E4%B8%BB%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%83%9C%E8%BF%87%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=27&Refer=top",
@@ -28,6 +50,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "中领馆：发现疑似失联留学生遗体",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%A4%B1%E8%81%94%E7%95%99%E5%AD%A6%E7%94%9F%E9%81%97%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "00后女孩留学回来当职业扫墓人",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E5%BD%93%E8%81%8C%E4%B8%9A%E6%89%AB%E5%A2%93%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     }
