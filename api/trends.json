@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T02:50:34.376270+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-02T03:54:46.491282+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "义务教育摇号“可以操作”系谣言",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时54分]"
         },
         {
           "title": "伊朗称600多处教育设施遭美以蓄意袭击",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时50分]"
+        },
+        {
+          "title": "伊朗教育部：237名伊朗学生死于美以袭击",
+          "url": "https://wallstreetcn.com/livenews/3081081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         }
       ]
     }
