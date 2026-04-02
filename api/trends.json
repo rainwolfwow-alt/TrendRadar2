@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T07:31:26.182014+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-04-02T09:26:52.741248+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "义务教育摇号“可以操作”系谣言",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 09时26分]"
         },
         {
           "title": "伊朗称600多处教育设施遭美以蓄意袭击",
@@ -41,6 +41,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时37分]"
+        },
+        {
+          "title": "多所高校宣布 2026 年本科扩招，出于哪些考量？将对高考及教育格局带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022603340073157041",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "伊朗称600多处教育设施遭美以袭击",
+          "url": "https://www.toutiao.com/trending/7622864464538533931/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     }
