@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T00:31:59.884596+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:27:42.573352+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32891252",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         },
         {
           "title": "教育部启动 2026 年中小学阳光招生专项行动，严禁设立或变相设立重点班，还有那些信息值得关注？",
           "url": "https://www.zhihu.com/question/2023331246357357393",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         }
       ]
     }
