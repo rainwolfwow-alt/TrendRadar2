@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T17:46:42.785234+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-04-03T18:36:48.621996+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             16,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 18时36分]"
         },
         {
           "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
@@ -28,11 +29,12 @@
           "ranks": [
             13,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 18时36分]"
         },
         {
           "title": "教育部：义务教育学校禁设重点班",
@@ -46,6 +48,18 @@
           "time_info": "[12时24分 ~ 12时25分]"
         },
         {
+          "title": "我许可 性教育科普",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%AE%B8%E5%8F%AF%20%E6%80%A7%E6%95%99%E8%82%B2%E7%A7%91%E6%99%AE&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时36分]"
+        },
+        {
           "title": "教育部：义务教育学校严禁设立重点班",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E4%B8%A5%E7%A6%81%E8%AE%BE%E7%AB%8B%E9%87%8D%E7%82%B9%E7%8F%AD",
           "source": "百度热搜",
@@ -55,17 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "我许可 性教育科普",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%AE%B8%E5%8F%AF%20%E6%80%A7%E6%95%99%E8%82%B2%E7%A7%91%E6%99%AE&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
         },
         {
           "title": "阿布扎比：拦截碎片落入哈布山天然气设施。 哈布山天然气设施因起火暂停作业。",
