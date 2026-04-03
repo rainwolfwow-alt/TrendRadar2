@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T18:36:48.621996+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-04-03T19:33:38.732798+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "教育部：义务教育学校严禁设立重点班、实验班、快慢班",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 19时33分]"
         },
         {
           "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
@@ -30,11 +30,12 @@
             13,
             4,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时09分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[14时09分 ~ 19时33分]"
         },
         {
           "title": "教育部：义务教育学校禁设重点班",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "教育部严禁高中跨区域掐尖招生",
+          "url": "https://www.toutiao.com/trending/7624400159079022643/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     }
