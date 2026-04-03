@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T20:44:10.857925+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-04-03T21:58:36.479189+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             16,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 21时58分]"
         },
         {
           "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
