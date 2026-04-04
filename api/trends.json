@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T19:24:14.475949+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-04T20:37:00.273851+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -30,19 +30,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时10分 ~ 20时37分]"
         },
         {
           "title": "挑战一天写完清明作业",
           "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E4%B8%80%E5%A4%A9%E5%86%99%E5%AE%8C%E6%B8%85%E6%98%8E%E4%BD%9C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时24分]"
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 20时37分]"
         },
         {
           "title": "教育部启动 2026 年中小学阳光招生专项行动，严禁设立或变相设立重点班，还有那些信息值得关注？",
