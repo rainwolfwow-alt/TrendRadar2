@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T01:23:56.625276+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-04-06T02:32:37.873269+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "孩子抑郁家长该如何应对",
-          "url": "https://www.toutiao.com/trending/7625038417377656851/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
           "title": "女儿给妈妈讲性教育 文淇新片真敢拍",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E7%BB%99%E5%A6%88%E5%A6%88%E8%AE%B2%E6%80%A7%E6%95%99%E8%82%B2+%E6%96%87%E6%B7%87%E6%96%B0%E7%89%87%E7%9C%9F%E6%95%A2%E6%8B%8D",
           "source": "百度热搜",
           "ranks": [
             27,
-            28
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
+        },
+        {
+          "title": "孩子抑郁家长该如何应对",
+          "url": "https://www.toutiao.com/trending/7625038417377656851/",
+          "source": "今日头条",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
