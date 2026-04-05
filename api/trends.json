@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-05T12:32:43.539627+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-04-05T14:11:31.761647+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "从寻梦环游记谈死亡教育",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%AF%BB%E6%A2%A6%E7%8E%AF%E6%B8%B8%E8%AE%B0%E8%B0%88%E6%AD%BB%E4%BA%A1%E6%95%99%E8%82%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
         {
           "title": "老虎卖萌吐舌头被同事呲牙教育",
           "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E8%99%8E%E5%8D%96%E8%90%8C%E5%90%90%E8%88%8C%E5%A4%B4%E8%A2%AB%E5%90%8C%E4%BA%8B%E5%91%B2%E7%89%99%E6%95%99%E8%82%B2%23&t=31&band_rank=26&Refer=top",
