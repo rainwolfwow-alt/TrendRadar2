@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T06:22:49.761662+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-04-06T07:26:45.275130+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             27,
             28,
             25,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 07时26分]"
         },
         {
           "title": "孩子抑郁家长该如何应对",
@@ -29,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 07时26分]"
         }
       ]
     }
