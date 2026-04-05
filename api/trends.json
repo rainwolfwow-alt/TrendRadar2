@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T19:24:01.517394+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-04-05T20:39:31.849123+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%80%8E%E4%B9%88%E5%AD%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时39分]"
         },
         {
           "title": "老虎卖萌吐舌头被同事呲牙教育",
