@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T05:36:33.301305+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-04-09T06:32:44.682418+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             28,
             26,
             27,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时15分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[02时15分 ~ 06时32分]"
         },
         {
           "title": "教育孩子时你会重复父母的话吗",
@@ -40,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
         }
       ]
     }
