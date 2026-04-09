@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T00:59:32.300308+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-10T01:58:58.775175+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时58分]"
         },
         {
           "title": "幼儿园经历关停潮，幼师称「怕孩子不来上学，工作像在服务」，为啥会这样？教育业变得像服务业，这是好事吗？",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时58分]"
         }
       ]
     }
