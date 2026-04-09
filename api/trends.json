@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T07:32:27.294628+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-04-09T09:23:26.431274+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "孩子写作业太拖拉被亲妈送到派出所",
@@ -24,6 +24,18 @@
           "time_info": "[02时15分 ~ 07时32分]"
         },
         {
+          "title": "云南一医院太平间招聘要求大专能搬尸体，录用需经笔试面试，这种门槛有必要吗？为什么一则招聘令网友吵翻了？",
+          "url": "https://www.zhihu.com/question/2025243216312623351",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 09时23分]"
+        },
+        {
           "title": "教育孩子时你会重复父母的话吗",
           "url": "https://www.toutiao.com/trending/7626031473912512518/",
           "source": "今日头条",
@@ -36,15 +48,15 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
-          "title": "云南一医院太平间招聘要求大专能搬尸体，录用需经笔试面试，这种门槛有必要吗？为什么一则招聘令网友吵翻了？",
-          "url": "https://www.zhihu.com/question/2025243216312623351",
+          "title": "如果知识不再稀缺，那么大学教育的意义是什么？",
+          "url": "https://www.zhihu.com/question/2017644931221582991",
           "source": "知乎",
           "ranks": [
-            15
+            17
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     }
