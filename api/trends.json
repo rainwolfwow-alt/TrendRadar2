@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T12:28:27.930569+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-04-09T14:17:34.252488+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时36分 ~ 12时28分]"
+          "appearance_count": 7,
+          "time_info": "[04时36分 ~ 14时17分]"
         },
         {
           "title": "孩子写作业太拖拉被亲妈送到派出所",
@@ -53,11 +53,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B9%96%E6%95%91%E4%BA%BA+%E6%AF%9B%E5%AE%81%E7%82%B9%E8%B5%9E",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时17分]"
         },
         {
           "title": "如果知识不再稀缺，那么大学教育的意义是什么？",
