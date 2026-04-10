@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:03:43.668993+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2026-04-10T19:41:59.849136+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 19时41分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
