@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T02:41:55.459973+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-11T03:39:15.560938+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时39分]"
         },
         {
           "title": "你认为中考和高考哪个压力更大",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时39分]"
         }
       ]
     }
