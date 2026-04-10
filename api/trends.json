@@ -1,85 +1,22 @@
 {
-  "generated_at": "2026-04-10T23:54:26.524937+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2026-04-11T00:42:38.510022+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "11 岁小孩总喊「上学累」，妈妈便想雇人带他送外卖体验生活，如何看待这种教育方式？能锻炼到孩子吗？",
-          "url": "https://www.zhihu.com/question/2025588992414893548",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 18时03分]"
-        },
         {
           "title": "多所高校强基计划取消“竞赛破格”，仅保留高考成绩入围标准",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939948",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            11,
-            9,
-            8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时28分 ~ 23时54分]"
-        },
-        {
-          "title": "幼儿园经历关停潮，幼师称「怕孩子不来上学，工作像在服务」，为啥会这样？教育业变得像服务业，这是好事吗？",
-          "url": "https://www.zhihu.com/question/2023482680348615320",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 09时47分]"
-        },
-        {
-          "title": "59岁梁实宣布参加第30次高考",
-          "url": "https://www.baidu.com/s?wd=59%E5%B2%81%E6%A2%81%E5%AE%9E%E5%AE%A3%E5%B8%83%E5%8F%82%E5%8A%A0%E7%AC%AC30%E6%AC%A1%E9%AB%98%E8%80%83",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时34分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025880248273618520",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 18时03分]"
-        },
-        {
-          "title": "2025年我国留学回国人数达53.56万。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3085442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "00时42分"
         },
         {
           "title": "你认为中考和高考哪个压力更大",
@@ -88,42 +25,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "200余所高校齐聚国际教育巡回展",
-          "url": "https://www.toutiao.com/trending/7626303499030216754/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "对于父母来说教育子女最重要的是什么？",
-          "url": "https://www.zhihu.com/question/660070601",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "教育部部长怀进鹏会见美桥水投资公司创始人达利欧",
-          "url": "https://wallstreetcn.com/livenews/3085981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时42分"
         }
       ]
     }
