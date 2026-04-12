@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T05:27:08.801107+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-13T06:26:26.014054+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多所高校强基计划取消「竞赛破格」，仅保留高考成绩入围标准，对教育公平有何影响？",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时26分]"
         },
         {
           "title": "妈妈辅导作业太激动引爆脑瘤险丧命",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "妈妈辅导作业被气到引爆脑瘤",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E8%A2%AB%E6%B0%94%E5%88%B0%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     }
