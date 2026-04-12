@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T01:28:59.570254+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-04-13T02:36:30.065945+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2025910963665219640",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "妈妈辅导作业太激动引爆脑瘤险丧命",
