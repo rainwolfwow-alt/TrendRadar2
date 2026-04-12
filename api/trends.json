@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T21:56:21.608236+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2026-04-12T22:36:03.828640+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待部分高校成人教育沦为「文凭批发厂」？学生不上课、中介包教务、学校搞创收的现象，根源何在？",
@@ -22,6 +22,19 @@
           "time_info": "[12时42分 ~ 16时52分]"
         },
         {
+          "title": "妈妈辅导作业被气到引爆脑瘤",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E8%A2%AB%E6%B0%94%E5%88%B0%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时36分]"
+        },
+        {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
           "url": "https://www.zhihu.com/question/2025885699283382999",
           "source": "知乎",
@@ -31,6 +44,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "妈妈辅导作业太激动引爆脑瘤险丧命",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E5%A4%AA%E6%BF%80%E5%8A%A8%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%E9%99%A9%E4%B8%A7%E5%91%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时36分]"
         },
         {
           "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
@@ -45,28 +71,15 @@
           "time_info": "[18时32分 ~ 19时28分]"
         },
         {
-          "title": "妈妈辅导作业被气到引爆脑瘤",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E8%A2%AB%E6%B0%94%E5%88%B0%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "多所高校强基计划取消「竞赛破格」，仅保留高考成绩入围标准，对教育公平有何影响？",
+          "url": "https://www.zhihu.com/question/2025910963665219640",
+          "source": "知乎",
           "ranks": [
-            30,
-            4
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时56分]"
-        },
-        {
-          "title": "妈妈辅导作业太激动引爆脑瘤险丧命",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E5%A4%AA%E6%BF%80%E5%8A%A8%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%E9%99%A9%E4%B8%A7%E5%91%BD",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时56分]"
+          "time_info": "[22时35分 ~ 22时36分]"
         }
       ]
     }
