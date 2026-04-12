@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T00:29:49.657521+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-13T01:28:59.570254+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -8,20 +8,20 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "妈妈辅导作业太激动引爆脑瘤险丧命",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E5%A4%AA%E6%BF%80%E5%8A%A8%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%E9%99%A9%E4%B8%A7%E5%91%BD",
-          "source": "百度热搜",
+          "title": "多所高校强基计划取消「竞赛破格」，仅保留高考成绩入围标准，对教育公平有何影响？",
+          "url": "https://www.zhihu.com/question/2025910963665219640",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
-          "title": "多所高校强基计划取消「竞赛破格」，仅保留高考成绩入围标准，对教育公平有何影响？",
-          "url": "https://www.zhihu.com/question/2025910963665219640",
-          "source": "知乎",
+          "title": "妈妈辅导作业太激动引爆脑瘤险丧命",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E5%A4%AA%E6%BF%80%E5%8A%A8%E5%BC%95%E7%88%86%E8%84%91%E7%98%A4%E9%99%A9%E4%B8%A7%E5%91%BD",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
