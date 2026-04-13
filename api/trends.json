@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T07:27:33.546793+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-04-13T09:55:34.530885+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             8,
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 09时55分]"
         },
         {
           "title": "妈妈辅导作业被气到引爆脑瘤",
