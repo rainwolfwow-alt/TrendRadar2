@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-14T19:54:09.122574+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2026-04-14T21:07:22.152265+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 4,
       "titles": [
+        {
+          "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
+          "url": "https://www.zhihu.com/question/2020902613164537309",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 21时07分]"
+        },
         {
           "title": "女子辅导孩子作业非常火大，胸口剧痛确诊「心碎综合征」，生气真的会「心碎」吗？哪些人最容易中招？",
           "url": "https://www.zhihu.com/question/2026355067670851883",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
-          "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
-          "url": "https://www.zhihu.com/question/2020902613164537309",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "留学生被蛊惑参与反华活动",
