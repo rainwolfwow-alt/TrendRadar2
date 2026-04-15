@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T16:26:38.838261+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-04-15T18:10:46.649021+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 18时10分]"
         },
         {
           "title": "成人教育沦为“文凭批发厂”",
@@ -53,8 +53,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时10分]"
         },
         {
           "title": "师徒4人“取经”被交警拦下教育",
@@ -63,9 +63,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时10分]"
         },
         {
           "title": "匈牙利即将上任的总理毛焦尔表示，他预计即将离任的总理欧尔班会解除对向乌克兰提供900亿欧元（约合1060亿美元）欧盟贷款的否决权，前提是关键输油管道的输油作业能够恢复。",
@@ -74,7 +74,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
