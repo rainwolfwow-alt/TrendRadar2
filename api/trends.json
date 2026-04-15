@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T18:10:46.649021+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-04-15T19:51:38.643549+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,17 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
+          "title": "为什么现在老师老是强调孩子教育是家长和老师的共同责任？",
+          "url": "https://www.zhihu.com/question/621792217",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 19时51分]"
+        },
+        {
           "title": "全民国家安全教育日",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%B0%91%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E6%97%A5%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -34,15 +45,16 @@
           "time_info": "14时29分"
         },
         {
-          "title": "为什么现在老师老是强调孩子教育是家长和老师的共同责任？",
-          "url": "https://www.zhihu.com/question/621792217",
-          "source": "知乎",
+          "title": "师徒4人“取经”被交警拦下教育",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%88%E5%BE%924%E4%BA%BA%E2%80%9C%E5%8F%96%E7%BB%8F%E2%80%9D%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%E6%95%99%E8%82%B2",
+          "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 18时10分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时51分]"
         },
         {
           "title": "成人教育沦为“文凭批发厂”",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时29分 ~ 18时10分]"
-        },
-        {
-          "title": "师徒4人“取经”被交警拦下教育",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%88%E5%BE%924%E4%BA%BA%E2%80%9C%E5%8F%96%E7%BB%8F%E2%80%9D%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%E6%95%99%E8%82%B2",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 18时10分]"
         },
         {
           "title": "匈牙利即将上任的总理毛焦尔表示，他预计即将离任的总理欧尔班会解除对向乌克兰提供900亿欧元（约合1060亿美元）欧盟贷款的否决权，前提是关键输油管道的输油作业能够恢复。",
