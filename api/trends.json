@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:55:15.444032+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-04-17T16:23:55.585156+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "广州官宣小升初实行「随机分班」，分班将由教育部门统一组织，如何看待这一操作？会影响到教学质量吗？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 16时23分]"
         },
         {
           "title": "多地出台中考新方案：“不考不学”怎么破解，是否会造成初高中脱节？",
@@ -39,8 +40,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时23分]"
+        },
+        {
+          "title": "多地调整中考计分方式，降低考试难度，这是否更有利于培养学生的创新精神和实践能力？会造成初高中脱节吗？",
+          "url": "https://www.zhihu.com/question/2028049419249939698",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
+          "time_info": "[12时44分 ~ 16时23分]"
         },
         {
           "title": "中高考家长应不应该焦虑",
@@ -52,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "新增中学学位1万余个 北京市发布2026年义务教育阶段入学政策",
+          "url": "https://wallstreetcn.com/livenews/3089893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
@@ -70,17 +93,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "多地调整中考计分方式，降低考试难度，这是否更有利于培养学生的创新精神和实践能力？会造成初高中脱节吗？",
-          "url": "https://www.zhihu.com/question/2028049419249939698",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
