@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:27:32.235084+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-04-19T06:26:40.070886+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "深圳一小学老师批改作业崩溃大哭",
@@ -30,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 06时26分]"
         },
         {
           "title": "2026高考数学冲刺",
@@ -39,11 +39,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "深圳一小学老师批改作业时崩溃大哭",
@@ -51,11 +52,12 @@
           "source": "微博",
           "ranks": [
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时26分]"
         }
       ]
     }
