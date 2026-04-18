@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T03:36:48.004423+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-04-19T04:28:29.843881+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
+        },
+        {
+          "title": "深圳一小学老师批改作业崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7629723883261476915/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            20,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时36分]"
+          "time_info": "[01时31分 ~ 04时28分]"
         },
         {
           "title": "2026高考数学冲刺",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 02时37分]"
-        },
-        {
-          "title": "深圳一小学老师批改作业崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7629723883261476915/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 03时36分]"
         },
         {
           "title": "深圳一小学老师批改作业时崩溃大哭",
