@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T20:42:22.989573+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-04-18T21:57:55.656362+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             15,
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时09分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[14时09分 ~ 21时57分]"
         },
         {
           "title": "深圳一小学老师批改作业崩溃大哭",
@@ -29,11 +30,12 @@
           "ranks": [
             5,
             9,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 21时57分]"
         },
         {
           "title": "深圳一小学老师批改作业时崩溃大哭",
@@ -52,11 +54,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BA%84%E6%96%B9%E5%AE%9C%E5%85%BB%E6%88%90%E4%BD%9C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时57分]"
         }
       ]
     }
