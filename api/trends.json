@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T19:30:25.454495+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-04-19T20:41:51.503959+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,26 @@
             18,
             16,
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 20时41分]"
+        },
+        {
+          "title": "为什么许士林要高中状元才能接许仙和白素贞回家？法海难道是教育家？这一切都为了教育吗？",
+          "url": "https://www.zhihu.com/question/51619758",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时03分 ~ 20时41分]"
         },
         {
           "title": "深圳一小学老师批改作业崩溃大哭",
@@ -34,19 +49,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时31分 ~ 09时54分]"
-        },
-        {
-          "title": "为什么许士林要高中状元才能接许仙和白素贞回家？法海难道是教育家？这一切都为了教育吗？",
-          "url": "https://www.zhihu.com/question/51619758",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时03分 ~ 19时30分]"
         },
         {
           "title": "2026高考数学冲刺",
