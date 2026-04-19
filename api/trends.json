@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T00:31:53.199793+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-20T01:29:56.707422+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时29分]"
         },
         {
           "title": "终末地庄方宜养成作业",
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BA%84%E6%96%B9%E5%AE%9C%E5%85%BB%E6%88%90%E4%BD%9C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时29分]"
         }
       ]
     }
