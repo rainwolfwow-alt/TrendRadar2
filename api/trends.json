@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T22:37:19.796455+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-04-19T23:32:11.966570+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时03分 ~ 22时37分]"
+          "appearance_count": 11,
+          "time_info": "[16时03分 ~ 23时32分]"
         },
         {
           "title": "终末地庄方宜养成作业",
@@ -36,8 +37,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 22时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 23时32分]"
         },
         {
           "title": "深圳一小学老师批改作业崩溃大哭",
@@ -61,11 +62,12 @@
             27,
             14,
             8,
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 23时32分]"
         },
         {
           "title": "深圳一小学老师批改作业时崩溃大哭",
