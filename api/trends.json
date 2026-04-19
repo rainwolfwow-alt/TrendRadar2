@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T01:29:56.707422+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-04-20T02:37:35.182458+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/51619758",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "终末地庄方宜养成作业",
