@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T14:26:41.574809+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-04-19T16:03:27.107540+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "深圳一小学老师批改作业崩溃大哭",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 06时26分]"
+        },
+        {
+          "title": "为什么许士林要高中状元才能接许仙和白素贞回家？法海难道是教育家？这一切都为了教育吗？",
+          "url": "https://www.zhihu.com/question/51619758",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     }
