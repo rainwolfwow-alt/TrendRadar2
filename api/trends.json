@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T05:40:34.364109+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-04-21T06:36:50.336730+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时36分]"
         },
         {
           "title": "徐良演唱会期中考试太搞笑了",
@@ -27,7 +27,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
