@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T16:36:19.102028+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-04-21T18:14:55.974739+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 16时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时57分 ~ 18时14分]"
         },
         {
           "title": "覆盖253所高等院校 两部门公布首批“专业与标准化教育融合试点”名单",
@@ -61,7 +61,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
