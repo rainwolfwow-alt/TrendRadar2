@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T09:51:30.644016+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-04-21T12:44:10.401836+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 12时44分]"
         },
         {
           "title": "云南一高中生因「操行分」不合格等被劝退，作业空题、卫生不达标等都是扣分项，这种做法对学习有益吗？",
@@ -27,7 +27,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
