@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:37:14.021460+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-04-21T09:51:30.644016+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
@@ -17,8 +17,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 09时51分]"
+        },
+        {
+          "title": "云南一高中生因「操行分」不合格等被劝退，作业空题、卫生不达标等都是扣分项，这种做法对学习有益吗？",
+          "url": "https://www.zhihu.com/question/2029533954026271438",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "徐良演唱会期中考试太搞笑了",
