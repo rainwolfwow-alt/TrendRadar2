@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T06:33:24.924092+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-04-22T07:31:20.683179+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             11,
             14,
             21,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "疑有中国女留学生被ICE当街逮捕",
@@ -29,7 +30,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         }
