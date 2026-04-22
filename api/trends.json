@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T16:27:06.004372+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-04-22T18:14:20.018533+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "url": "https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E6%9C%AC%E7%A7%91%E5%A5%B3%E5%AD%A9%E5%81%9A%E4%BF%9D%E6%B4%81%E7%88%B8%E5%A6%88%E8%AE%A4%E4%B8%BA%E6%89%AB%E5%A4%A7%E8%A1%97%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时14分]"
         },
         {
           "title": "112名在韩中国留学生学历造假被查",
