@@ -1,72 +1,22 @@
 {
-  "generated_at": "2026-04-22T23:07:41.930378+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2026-04-23T00:52:08.948352+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "教育局回应学生暴雨天体测800米",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E6%9A%B4%E9%9B%A8%E5%A4%A9%E4%BD%93%E6%B5%8B800%E7%B1%B3%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "清华博士劝儿子「不用考大学，出类拔萃要走不同的路」，你认同这种教育理念吗？",
+          "url": "https://www.zhihu.com/question/2029745412127434303",
+          "source": "知乎",
           "ranks": [
-            26,
-            11,
-            14,
-            21,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "98年本科女孩做保洁爸妈认为扫大街",
-          "url": "https://s.weibo.com/weibo?q=%2398%E5%B9%B4%E6%9C%AC%E7%A7%91%E5%A5%B3%E5%AD%A9%E5%81%9A%E4%BF%9D%E6%B4%81%E7%88%B8%E5%A6%88%E8%AE%A4%E4%B8%BA%E6%89%AB%E5%A4%A7%E8%A1%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时14分]"
-        },
-        {
-          "title": "112名在韩中国留学生学历造假被查",
-          "url": "https://s.weibo.com/weibo?q=%23112%E5%90%8D%E5%9C%A8%E9%9F%A9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%AD%A6%E5%8E%86%E9%80%A0%E5%81%87%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
-          "title": "昂立教育：一季度净利润2460.48万元，同比增长84.71%",
-          "url": "https://flash.jin10.com/detail/20260422193016825800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "疑有中国女留学生被ICE当街逮捕",
-          "url": "https://s.weibo.com/weibo?q=%E7%96%91%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%95%99%E5%AD%A6%E7%94%9F%E8%A2%ABICE%E5%BD%93%E8%A1%97%E9%80%AE%E6%8D%95&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     }
