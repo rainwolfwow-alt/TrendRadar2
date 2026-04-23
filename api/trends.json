@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T07:40:45.881100+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-04-23T09:54:11.987843+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
@@ -16,22 +16,24 @@
             19,
             15,
             14,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 09时54分]"
         },
         {
           "title": "广州：一年级、七年级将“随机编班”，由区教育局统一组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_33028540",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 09时54分]"
         }
       ]
     }
