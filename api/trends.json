@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T17:24:27.771322+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-04-24T19:02:14.057256+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "河北衡水中考体测遇暴雨，有学生淋雨跑 800 米，教育局回应「临时改时间需层层上报」，这样安排合理吗？",
@@ -31,6 +31,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 06时37分]"
+        },
+        {
+          "title": "高考100分的大专生活什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83100%E5%88%86%E7%9A%84%E5%A4%A7%E4%B8%93%E7%94%9F%E6%B4%BB%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "中国央行等八部门：金融机构及其员工不得委托第三方互联网平台以“投资者教育”“课程培训”等形式变相开展金融产品网络营销",
+          "url": "https://wallstreetcn.com/livenews/3093925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗教育部长：将把本轮美伊战争纳入教材",
+          "url": "https://wallstreetcn.com/livenews/3093921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     }
