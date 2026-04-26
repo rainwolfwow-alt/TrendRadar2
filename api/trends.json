@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-04-26T23:36:28.797811+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-04-27T00:34:36.571964+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "目前新高考为何把历史放在文科方向必修？",
-          "url": "https://www.zhihu.com/question/2024979773345023724",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 19时35分]"
-        },
-        {
-          "title": "多地推进中考改革",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9C%B0%E6%8E%A8%E8%BF%9B%E4%B8%AD%E8%80%83%E6%94%B9%E9%9D%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "留学博士回国做课题顺便踢苏超",
-          "url": "https://www.toutiao.com/trending/7632703693112360966/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
-        },
-        {
-          "title": "UP主锐评高考模拟题",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E9%AB%98%E8%80%83%E6%A8%A1%E6%8B%9F%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
