@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-28T23:20:14.319788+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-04-29T01:41:46.039601+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "奶龙高考落榜",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B6%E9%BE%99%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 20时22分]"
-        },
         {
           "title": "两年前无意中对孩子说了句「你是我最讨厌的人」，他现在还经常提起，我该如何修复亲子关系？",
           "url": "https://www.zhihu.com/question/2027139611667833652",
@@ -27,63 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
-        },
-        {
-          "title": "人一旦去留学这辈子就定型了",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E5%8E%BB%E7%95%99%E5%AD%A6%E8%BF%99%E8%BE%88%E5%AD%90%E5%B0%B1%E5%AE%9A%E5%9E%8B%E4%BA%86&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "本科新增38种专业",
-          "url": "https://www.toutiao.com/trending/7632884316678144009/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "本科新增38种专业",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%A7%91%E6%96%B0%E5%A2%9E38%E7%A7%8D%E4%B8%93%E4%B8%9A%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "美以袭击致伊朗医疗教育设施严重受损",
-          "url": "https://www.toutiao.com/trending/7633415236166565931/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "普通本科高校上新38种专业",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E9%80%9A%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1%E4%B8%8A%E6%96%B038%E7%A7%8D%E4%B8%93%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "01时41分"
         }
       ]
     }
