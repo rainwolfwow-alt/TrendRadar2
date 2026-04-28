@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T13:52:30.343043+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-04-28T16:10:57.236241+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人一旦去留学这辈子就定型了",
@@ -20,12 +20,23 @@
         },
         {
           "title": "本科新增38种专业",
+          "url": "https://www.toutiao.com/trending/7632884316678144009/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "本科新增38种专业",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%A7%91%E6%96%B0%E5%A2%9E38%E7%A7%8D%E4%B8%93%E4%B8%9A%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
