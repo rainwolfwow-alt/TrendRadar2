@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T18:49:09.938526+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-04-29T20:13:12.324305+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[16时03分 ~ 20时13分]"
         },
         {
           "title": "央行一季度逆势购金，普通投资者能抄作业吗？丨Hi，今天怎么看？",
@@ -39,7 +39,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
