@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T16:03:53.505375+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-04-29T18:49:09.938526+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "两年前无意中对孩子说了句「你是我最讨厌的人」，他现在还经常提起，我该如何修复亲子关系？",
@@ -25,11 +25,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33072380",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 18时49分]"
+        },
+        {
+          "title": "央行一季度逆势购金，普通投资者能抄作业吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260429183518794800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "18时49分"
         }
       ]
     }
