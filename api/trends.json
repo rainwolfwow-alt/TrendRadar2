@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T06:42:55.002373+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-05-02T07:44:25.661098+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时44分]"
         },
         {
           "title": "教育局辟谣初中生为保送捐日军罪证",
@@ -26,19 +26,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时44分]"
         },
         {
           "title": "学生看成绩需付费使用专属软件？湖南辰溪县教育局：已叫停推送行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_33083737",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时44分]"
         }
       ]
     }
