@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T22:18:39.160649+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-05-01T23:49:49.348572+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "教育局辟谣初中生为保送捐日军罪证",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 22时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时55分 ~ 23时49分]"
         },
         {
           "title": "教育局辟谣初中生为保送捐日军罪证",
@@ -26,8 +26,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时49分]"
+        },
+        {
+          "title": "学生看成绩需付费使用专属软件？湖南辰溪县教育局：已叫停推送行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083737",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "老师批注「你的字和你一样丑」引争议，当地通报批评，这是激励还是人身攻击？教育中「开玩笑」的边界在哪里？",
