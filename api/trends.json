@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T15:50:59.215741+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-05-03T17:16:04.922166+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
@@ -30,22 +30,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 15时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 17时16分]"
         },
         {
           "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
           "url": "https://flash.jin10.com/detail/20260503130748181800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 17时16分]"
         },
         {
           "title": "在德留学男子多次下药迷奸女友被判刑",
