@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T17:16:04.922166+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-05-03T18:47:11.364813+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             16,
             19,
             15,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 13时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 18时47分]"
         },
         {
           "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
