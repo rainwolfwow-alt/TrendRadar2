@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-05-04T23:06:20.111896+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-05-05T01:24:34.378030+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "五四青年节与作业决战",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E8%8A%82%E4%B8%8E%E4%BD%9C%E4%B8%9A%E5%86%B3%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "夫妻多在孩子面前秀恩爱，让他们看见爱的样子，这是给孩子最好的教育和礼物吗？",
-          "url": "https://www.zhihu.com/question/2032415154680415034",
-          "source": "知乎",
-          "ranks": [
-            17,
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 23时06分]"
-        },
-        {
-          "title": "如何看待福建四名儿童溺水后，各学校想出致电家长、写学习心得、防溺水小组等溺水教育方式？有更好的方法吗？",
-          "url": "https://www.zhihu.com/question/2032870758171369496",
-          "source": "知乎",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
