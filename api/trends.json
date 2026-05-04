@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T18:58:56.568481+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-05-04T20:21:18.460124+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 20时21分]"
         },
         {
           "title": "如何看待福建四名儿童溺水后，各学校想出致电家长、写学习心得、防溺水小组等溺水教育方式？有更好的方法吗？",
