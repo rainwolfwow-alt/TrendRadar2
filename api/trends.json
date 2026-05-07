@@ -1,68 +1,22 @@
 {
-  "generated_at": "2026-05-07T21:46:20.053191+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-05-08T00:02:50.984242+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "王濛在线交舞蹈作业",
-          "url": "https://www.douyin.com/hot/2490691",
-          "source": "抖音",
-          "ranks": [
-            26,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 16时20分]"
-        },
-        {
-          "title": "学校打扫卫生让家长「代劳」或直接「外包」保洁公司，原本的劳动教育为何变了味？",
-          "url": "https://www.zhihu.com/question/2035317300383971298",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "为什么大家普遍认可《龙珠》里的琪琪，但我依然很反感她对悟饭的教育方式？",
-          "url": "https://www.zhihu.com/question/2025381261527524146",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "原来高考一开始没选择题只有主观题",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E9%AB%98%E8%80%83%E4%B8%80%E5%BC%80%E5%A7%8B%E6%B2%A1%E9%80%89%E6%8B%A9%E9%A2%98%E5%8F%AA%E6%9C%89%E4%B8%BB%E8%A7%82%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
         {
           "title": "高考因为他才开始有了选择题",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%9B%A0%E4%B8%BA%E4%BB%96%E6%89%8D%E5%BC%80%E5%A7%8B%E6%9C%89%E4%BA%86%E9%80%89%E6%8B%A9%E9%A2%98",
           "source": "百度热搜",
           "ranks": [
-            19
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时46分"
+          "time_info": "00时02分"
         }
       ]
     }
