@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T05:53:16.985888+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-05-09T06:48:31.413205+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时48分]"
         },
         {
           "title": "如何看待「反向接话」视频的爆火？这是否意味着受打压式教育的一代人，正通过养育下一代完成自我疗愈？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时48分]"
         }
       ]
     }
