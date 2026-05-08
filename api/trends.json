@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T01:05:11.466101+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-09T03:06:59.678535+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2491400",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时06分]"
         },
         {
           "title": "如何看待「反向接话」视频的爆火？这是否意味着受打压式教育的一代人，正通过养育下一代完成自我疗愈？",
@@ -26,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时06分]"
         }
       ]
     }
