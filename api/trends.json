@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T15:18:48.270759+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-05-08T17:08:31.539029+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.douyin.com/hot/2491400",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 17时08分]"
         },
         {
           "title": "财政部下达支持学前教育发展资金458亿元 推进学前教育普及普惠安全优质发展",
