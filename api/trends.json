@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T21:13:58.330602+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-05-08T23:17:11.742728+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
@@ -24,22 +24,24 @@
           "source": "抖音",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 23时17分]"
         },
         {
           "title": "如何看待「反向接话」视频的爆火？这是否意味着受打压式教育的一代人，正通过养育下一代完成自我疗愈？",
           "url": "https://www.zhihu.com/question/2036022798288687611",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 23时17分]"
         },
         {
           "title": "财政部下达支持学前教育发展资金458亿元 推进学前教育普及普惠安全优质发展",
