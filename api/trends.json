@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T18:50:58.752765+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-05-09T19:43:45.521830+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://flash.jin10.com/detail/20260509183004562800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时43分]"
         },
         {
           "title": "网络教育平台Canvas遭黑客攻击 服务已恢复",
