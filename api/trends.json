@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T18:07:28.358344+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-05-10T19:44:05.345242+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2036770507610182128",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 19时44分]"
         },
         {
           "title": "在北大留学的卢卡申科儿子出席俄阅兵",
@@ -60,7 +61,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
