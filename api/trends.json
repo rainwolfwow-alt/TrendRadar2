@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T05:19:49.455141+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-14T06:59:19.863276+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 06时59分]"
         },
         {
           "title": "对话｜腰伤后跪着改作业的58岁教师：感动于大家关心，这是我的本职工作",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 06时59分]"
         }
       ]
     }
