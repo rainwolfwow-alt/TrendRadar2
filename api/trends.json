@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-13T22:19:53.876115+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-05-14T01:14:31.405982+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "曾留学中国的越南总理，有了新身份",
-          "url": "https://news.ifeng.com/c/8t5LRtnr9fz",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 17时37分]"
-        },
         {
           "title": "这块“试验田”，产业和教育一起“种”",
           "url": "https://www.toutiao.com/trending/7639177674859216937/",
@@ -26,66 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "如何评价海淀鸡娃家庭？有人给孩子一周报 12 个辅导班，每月上课花一万，他们在焦虑什么？好的养育是什么？",
-          "url": "https://www.zhihu.com/question/2037571365599798005",
-          "source": "知乎",
-          "ranks": [
-            6,
-            19
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 10时34分]"
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
           "title": "对话｜腰伤后跪着改作业的58岁教师：感动于大家关心，这是我的本职工作",
           "url": "https://m.thepaper.cn/newsDetail_forward_33166125",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 22时19分]"
-        },
-        {
-          "title": "曾留学中国的越南总理有了新身份",
-          "url": "https://www.toutiao.com/trending/7639164122122178094/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "道达尔能源服务：全球不确定性及大宗商品价格波动持续拖累北美地区第一季度钻井与完井作业活动。2026年1月，公司停止在美国的油井服务业务，绝大部分运营设备已于2月完成出售。",
-          "url": "https://flash.jin10.com/detail/20260513060925599800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "留学生在悉尼麦当劳被流浪汉掰断手",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%82%89%E5%B0%BC%E9%BA%A6%E5%BD%93%E5%8A%B3%E8%A2%AB%E6%B5%81%E6%B5%AA%E6%B1%89%E6%8E%B0%E6%96%AD%E6%89%8B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "01时14分"
         }
       ]
     }
