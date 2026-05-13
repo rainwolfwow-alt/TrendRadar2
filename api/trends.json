@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-13T10:34:05.252794+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-05-13T14:32:12.454546+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "曾留学中国的越南总理，有了新身份",
           "url": "https://news.ifeng.com/c/8t5LRtnr9fz",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时32分]"
         },
         {
           "title": "如何评价海淀鸡娃家庭？有人给孩子一周报 12 个辅导班，每月上课花一万，他们在焦虑什么？好的养育是什么？",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 10时34分]"
+        },
+        {
+          "title": "曾留学中国的越南总理有了新身份",
+          "url": "https://www.toutiao.com/trending/7639164122122178094/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "道达尔能源服务：全球不确定性及大宗商品价格波动持续拖累北美地区第一季度钻井与完井作业活动。2026年1月，公司停止在美国的油井服务业务，绝大部分运营设备已于2月完成出售。",
