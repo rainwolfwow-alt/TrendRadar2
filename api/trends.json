@@ -1,48 +1,12 @@
 {
-  "generated_at": "2026-05-14T21:50:13.913766+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-05-15T00:07:18.978161+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "这块“试验田”，产业和教育一起“种”",
-          "url": "https://www.toutiao.com/trending/7639177674859216937/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时58分]"
-        },
-        {
-          "title": "对话｜腰伤后跪着改作业的58岁教师：感动于大家关心，这是我的本职工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33166125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时58分]"
-        },
-        {
-          "title": "两名工人高空作业起争执 一人被推下",
-          "url": "https://www.toutiao.com/trending/7638547639416586303/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 14时18分]"
-        },
         {
           "title": "中考倒计时奔跑吧少年",
           "url": "https://www.douyin.com/hot/2498924",
@@ -51,30 +15,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 21时50分]"
+          "appearance_count": 1,
+          "time_info": "00时07分"
         },
         {
           "title": "如何看待 16 岁打上无畏契约「赋能」段位被俱乐部看中，家长反对称「我宁愿他高考后去卖淀粉肠」？",
           "url": "https://www.zhihu.com/question/2037136514321052411",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 21时50分]"
-        },
-        {
-          "title": "男子钓40斤大鱼挂车窗炫耀被交警教育",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%92%9340%E6%96%A4%E5%A4%A7%E9%B1%BC%E6%8C%82%E8%BD%A6%E7%AA%97%E7%82%AB%E8%80%80%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%95%99%E8%82%B2",
-          "source": "百度热搜",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "00时07分"
         }
       ]
     }
