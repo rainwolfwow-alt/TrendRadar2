@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T07:48:32.860511+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-05-15T10:27:02.208931+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -8,25 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "如何看待 16 岁打上无畏契约「赋能」段位被俱乐部看中，家长反对称「我宁愿他高考后去卖淀粉肠」？",
-          "url": "https://www.zhihu.com/question/2037136514321052411",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时48分]"
-        },
-        {
           "title": "中考倒计时奔跑吧少年",
           "url": "https://www.douyin.com/hot/2498924",
           "source": "抖音",
           "ranks": [
             8,
             6,
+            7,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时27分]"
+        },
+        {
+          "title": "如何看待 16 岁打上无畏契约「赋能」段位被俱乐部看中，家长反对称「我宁愿他高考后去卖淀粉肠」？",
+          "url": "https://www.zhihu.com/question/2037136514321052411",
+          "source": "知乎",
+          "ranks": [
+            10,
             7,
             5
           ],
