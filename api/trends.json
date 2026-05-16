@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-17T00:49:31.464666+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-17T01:49:58.614554+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "墨西哥国家石油公司：报告称奥尔梅卡炼油厂在维护作业期间运行正常。",
+          "url": "https://flash.jin10.com/detail/20260517014046082800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
         {
           "title": "高考前各科老师教的焚决",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E5%90%84%E7%A7%91%E8%80%81%E5%B8%88%E6%95%99%E7%9A%84%E7%84%9A%E5%86%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时49分]"
         }
       ]
     }
