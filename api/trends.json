@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T22:49:15.819178+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-05-16T23:51:23.068908+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             15,
             21,
             24,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时47分 ~ 22时49分]"
+          "appearance_count": 10,
+          "time_info": "[13时47分 ~ 23时51分]"
         },
         {
           "title": "逐字逐句教写高考作文",
