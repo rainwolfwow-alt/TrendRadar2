@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T04:45:31.789911+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-05-17T05:41:48.314745+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             18,
             20,
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 05时41分]"
         },
         {
           "title": "墨西哥国家石油公司：报告称奥尔梅卡炼油厂在维护作业期间运行正常。",
@@ -30,11 +31,12 @@
             1,
             9,
             12,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 05时41分]"
         },
         {
           "title": "留学生跨国迷奸案",
@@ -42,11 +44,12 @@
           "source": "微博",
           "ranks": [
             28,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时58分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[03时58分 ~ 05时41分]"
         }
       ]
     }
