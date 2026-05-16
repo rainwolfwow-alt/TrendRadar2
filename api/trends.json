@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-05-16T21:02:48.590929+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-05-16T22:49:15.819178+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 5,
       "titles": [
+        {
+          "title": "高考前各科老师教的焚决",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E5%90%84%E7%A7%91%E8%80%81%E5%B8%88%E6%95%99%E7%9A%84%E7%84%9A%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            19,
+            15,
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时47分 ~ 22时49分]"
+        },
         {
           "title": "逐字逐句教写高考作文",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%AD%97%E9%80%90%E5%8F%A5%E6%95%99%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
@@ -17,21 +33,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "高考前各科老师教的焚决",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E5%90%84%E7%A7%91%E8%80%81%E5%B8%88%E6%95%99%E7%9A%84%E7%84%9A%E5%86%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            19,
-            15,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时47分 ~ 21时02分]"
         },
         {
           "title": "雨哥传授高考秘籍",
