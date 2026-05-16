@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T18:56:55.589295+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-05-16T19:45:24.275241+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "逐字逐句教写高考作文",
@@ -29,8 +29,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 19时45分]"
+        },
+        {
+          "title": "雨哥传授高考秘籍",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "委内瑞拉国家石油公司：确认马拉开波湖天然气处理设施发生爆炸，一个技术委员会将对相关原因进行调查，这些原因不影响委内瑞拉西部地区油气作业的连续性。",
