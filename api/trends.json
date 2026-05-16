@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T13:47:37.822293+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-05-16T15:52:37.350649+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E5%90%84%E7%A7%91%E8%80%81%E5%B8%88%E6%95%99%E7%9A%84%E7%84%9A%E5%86%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 15时52分]"
         },
         {
           "title": "终末地武陵1.2下半基建作业",
