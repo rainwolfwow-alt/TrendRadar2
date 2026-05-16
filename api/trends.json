@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:41:48.314745+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-05-17T06:38:10.357392+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             20,
             22,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时38分]"
         },
         {
           "title": "墨西哥国家石油公司：报告称奥尔梅卡炼油厂在维护作业期间运行正常。",
