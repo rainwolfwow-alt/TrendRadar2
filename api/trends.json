@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:45:24.275241+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-05-16T21:02:48.590929+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -26,22 +26,24 @@
             14,
             19,
             15,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时47分 ~ 19时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 21时02分]"
         },
         {
           "title": "雨哥传授高考秘籍",
           "url": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E5%93%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时02分]"
         },
         {
           "title": "委内瑞拉国家石油公司：确认马拉开波湖天然气处理设施发生爆炸，一个技术委员会将对相关原因进行调查，这些原因不影响委内瑞拉西部地区油气作业的连续性。",
