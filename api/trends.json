@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T17:24:09.293442+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-05-16T18:56:55.589295+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             14,
             19,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时56分]"
         },
         {
           "title": "委内瑞拉国家石油公司：确认马拉开波湖天然气处理设施发生爆炸，一个技术委员会将对相关原因进行调查，这些原因不影响委内瑞拉西部地区油气作业的连续性。",
