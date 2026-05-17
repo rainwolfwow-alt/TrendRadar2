@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T01:52:18.333714+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-05-18T02:56:43.268041+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时56分]"
         },
         {
           "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时56分]"
         },
         {
           "title": "23岁中国留学生在德国失联超48小时",
@@ -37,9 +37,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时56分]"
         }
       ]
     }
