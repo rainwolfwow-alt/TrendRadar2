@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T16:59:45.419773+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-05-17T18:23:56.728438+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "高考前各科老师教的焚决",
@@ -23,8 +23,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 14时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 18时23分]"
         },
         {
           "title": "墨西哥国家石油公司：报告称奥尔梅卡炼油厂在维护作业期间运行正常。",
@@ -79,26 +79,38 @@
           "time_info": "[10时14分 ~ 14时15分]"
         },
         {
+          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
+          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 18时23分]"
+        },
+        {
           "title": "你认为教育孩子什么最重要",
           "url": "https://www.toutiao.com/trending/7640493333990965294/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
         {
-          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
-          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
+          "url": "https://www.zhihu.com/question/2039299720174986465",
           "source": "知乎",
           "ranks": [
-            10
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时59分"
+          "time_info": "18时23分"
         },
         {
           "title": "高考倒计时21天",
@@ -107,7 +119,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
