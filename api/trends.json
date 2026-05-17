@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T14:15:53.541005+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-05-17T16:59:45.419773+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "高考前各科老师教的焚决",
@@ -46,11 +46,12 @@
           "url": "https://flash.jin10.com/detail/20260517140549849800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 16时59分]"
         },
         {
           "title": "留学生跨国迷奸案",
@@ -76,6 +77,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 14时15分]"
+        },
+        {
+          "title": "你认为教育孩子什么最重要",
+          "url": "https://www.toutiao.com/trending/7640493333990965294/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
+          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "高考倒计时21天",
+          "url": "https://www.toutiao.com/trending/7639520124412477486/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     }
