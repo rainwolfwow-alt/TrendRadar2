@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T00:48:44.891778+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-18T01:52:18.333714+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -15,19 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时52分]"
         },
         {
           "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
           "url": "https://www.zhihu.com/question/2039299720174986465",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时52分]"
+        },
+        {
+          "title": "23岁中国留学生在德国失联超48小时",
+          "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%BE%B7%E5%9B%BD%E5%A4%B1%E8%81%94%E8%B6%8548%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "01时52分"
         }
       ]
     }
