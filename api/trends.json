@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T18:23:56.728438+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-05-17T19:56:06.586204+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,19 @@
           "time_info": "[14时15分 ~ 16时59分]"
         },
         {
+          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
+          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 19时56分]"
+        },
+        {
           "title": "留学生跨国迷奸案",
           "url": "https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E7%94%9F%E8%B7%A8%E5%9B%BD%E8%BF%B7%E5%A5%B8%E6%A1%88&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -65,6 +78,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时58分 ~ 05时41分]"
+        },
+        {
+          "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
+          "url": "https://www.zhihu.com/question/2039299720174986465",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时56分]"
         },
         {
           "title": "女孩考倒数第一 爸爸淡定逆向教育",
@@ -79,18 +104,6 @@
           "time_info": "[10时14分 ~ 14时15分]"
         },
         {
-          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
-          "url": "https://www.zhihu.com/question/2038901266051502596",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 18时23分]"
-        },
-        {
           "title": "你认为教育孩子什么最重要",
           "url": "https://www.toutiao.com/trending/7640493333990965294/",
           "source": "今日头条",
@@ -100,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
-        },
-        {
-          "title": "女儿考试倒数第一，爸爸逆向教育称「你考越好对我越没用」，这会对孩子产生哪些影响？适合被其他家长效仿吗？",
-          "url": "https://www.zhihu.com/question/2039299720174986465",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "高考倒计时21天",
