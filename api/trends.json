@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T19:02:04.731244+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-05-18T22:32:34.672724+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,19 @@
           "time_info": "[00时48分 ~ 07时52分]"
         },
         {
+          "title": "如何看待复旦教授沈奕斐硬刚小学生家长举报，称「零成本的举报正在逼疯一线教育者」？有哪些好的应对方式？",
+          "url": "https://www.zhihu.com/question/2039674845734985800",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 22时32分]"
+        },
+        {
           "title": "2026高考倒计时20天",
           "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B620%E5%A4%A9",
           "source": "bilibili 热搜",
@@ -47,18 +60,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 14时48分]"
-        },
-        {
-          "title": "如何看待复旦教授沈奕斐硬刚小学生家长举报，称「零成本的举报正在逼疯一线教育者」？有哪些好的应对方式？",
-          "url": "https://www.zhihu.com/question/2039674845734985800",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时48分 ~ 19时02分]"
         },
         {
           "title": "23岁中国留学生在德国失联超48小时",
