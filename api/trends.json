@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T14:43:49.498722+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-05-19T18:34:40.588929+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 18时34分]"
         },
         {
           "title": "教育局回应中学女生跑操后死亡",
@@ -52,7 +52,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
