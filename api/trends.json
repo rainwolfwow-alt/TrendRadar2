@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T18:22:12.926859+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-05-20T21:39:47.862630+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 21时39分]"
         },
         {
           "title": "孩子写作业坐不住 踩缝纫机后安生了",
