@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T02:55:12.013045+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-05-22T04:47:42.993028+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,30 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "36岁高三老师高考前倒在讲台去世",
-          "url": "https://www.baidu.com/s?wd=36%E5%B2%81%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E9%AB%98%E8%80%83%E5%89%8D%E5%80%92%E5%9C%A8%E8%AE%B2%E5%8F%B0%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时55分]"
-        },
-        {
           "title": "高三老师高考前倒在讲台去世年仅36岁",
           "url": "https://www.toutiao.com/trending/7642219105928151076/",
           "source": "今日头条",
           "ranks": [
             27,
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时47分]"
+        },
+        {
+          "title": "36岁高三老师高考前倒在讲台去世",
+          "url": "https://www.baidu.com/s?wd=36%E5%B2%81%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E9%AB%98%E8%80%83%E5%89%8D%E5%80%92%E5%9C%A8%E8%AE%B2%E5%8F%B0%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时47分]"
         },
         {
           "title": "中考“体测神药”热销 新华社调查",
