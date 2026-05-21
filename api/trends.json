@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T10:34:24.608215+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-05-21T14:45:24.139518+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "模仿MrBeast做高考加油视频",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 10时34分]"
+        },
+        {
+          "title": "武汉一学校要求老师参与验菜、收菜等工作引发不满，教育局已叫停，学校为啥这么做？会影响老师正常教学吗？",
+          "url": "https://www.zhihu.com/question/2040481330199269508",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     }
