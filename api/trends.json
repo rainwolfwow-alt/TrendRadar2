@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T04:29:40.147951+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-05-23T06:01:39.268126+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "孩子想做蚕丝被，家里养 1.2 万条蚕，全家齐助力剥茧、喂食和搭房，你觉得值吗？这种教育会怎样影响孩子？",
@@ -26,11 +27,12 @@
           "ranks": [
             5,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "教育部：拟设34所本科高等学校",
@@ -39,11 +41,12 @@
           "ranks": [
             15,
             6,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 06时01分]"
         },
         {
           "title": "本科毕设疑抄袭,粥友秀大度",
@@ -53,8 +56,21 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 06时01分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时29分]"
+          "time_info": "[02时29分 ~ 06时01分]"
         },
         {
           "title": "36 岁高三老师高考前倒在讲台去世，能算工伤吗？高三老师的工作节奏有多紧张？校方能怎样做出更好的安排？",
@@ -80,18 +96,6 @@
           "time_info": "[00时17分 ~ 02时30分]"
         },
         {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
-          "ranks": [
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 04时29分]"
-        },
-        {
           "title": "大专毕业 5 年，换了 5 份工作，28 岁被边缘化，我是不是已经废了？",
           "url": "https://www.zhihu.com/question/2040705764327679998",
           "source": "知乎",
@@ -99,8 +103,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 06时01分]"
         }
       ]
     }
