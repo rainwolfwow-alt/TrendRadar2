@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T18:23:40.875126+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-05-23T19:56:07.004624+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 18时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 19时56分]"
         },
         {
           "title": "孩子想做蚕丝被，家里养 1.2 万条蚕，全家齐助力剥茧、喂食和搭房，你觉得值吗？这种教育会怎样影响孩子？",
