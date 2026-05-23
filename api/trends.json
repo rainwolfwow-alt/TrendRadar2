@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T00:55:33.085298+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T01:56:38.540049+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时56分]"
         },
         {
           "title": "留神峪煤矿企业对作业人数统计不清",
           "url": "https://s.weibo.com/weibo?q=%23%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BC%81%E4%B8%9A%E5%AF%B9%E4%BD%9C%E4%B8%9A%E4%BA%BA%E6%95%B0%E7%BB%9F%E8%AE%A1%E4%B8%8D%E6%B8%85%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时56分]"
+        },
+        {
+          "title": "您高考必上榜 先生",
+          "url": "https://search.bilibili.com/all?keyword=%E6%82%A8%E9%AB%98%E8%80%83%E5%BF%85%E4%B8%8A%E6%A6%9C%20%E5%85%88%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时56分]"
         },
         {
           "title": "本科毕设疑抄袭,粥友秀大度",
@@ -37,19 +50,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "您高考必上榜 先生",
-          "url": "https://search.bilibili.com/all?keyword=%E6%82%A8%E9%AB%98%E8%80%83%E5%BF%85%E4%B8%8A%E6%A6%9C%20%E5%85%88%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时56分]"
         },
         {
           "title": "留神峪煤矿企业对作业人数统计不清",
