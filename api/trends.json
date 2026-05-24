@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T19:09:15.576454+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-05-24T21:05:05.192053+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             22,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 19时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 21时05分]"
         },
         {
           "title": "留神峪煤矿企业对作业人数统计不清 导致一开始通报的人数不准确",
@@ -53,6 +54,20 @@
           "time_info": "[00时55分 ~ 07时51分]"
         },
         {
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：企业对作业人数统计不清，一开始通报的人数不准确",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221209",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 21时05分]"
+        },
+        {
           "title": "您高考必上榜 先生",
           "url": "https://search.bilibili.com/all?keyword=%E6%82%A8%E9%AB%98%E8%80%83%E5%BF%85%E4%B8%8A%E6%A6%9C%20%E5%85%88%E7%94%9F",
           "source": "bilibili 热搜",
@@ -78,19 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：企业对作业人数统计不清，一开始通报的人数不准确",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221209",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 19时09分]"
         },
         {
           "title": "高考前回想犯过的低级错误belike",
