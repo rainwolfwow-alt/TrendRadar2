@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T01:57:48.437583+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-05-25T03:11:15.059518+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时11分]"
         },
         {
           "title": "本科毕设疑抄袭,粥友秀大度",
@@ -26,8 +26,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时11分]"
         }
       ]
     }
