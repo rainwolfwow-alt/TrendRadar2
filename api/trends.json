@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-24T10:31:37.176382+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-05-24T14:32:00.884287+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "本科毕设疑抄袭,粥友秀大度",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354508&amp;topic_name=%E6%9C%AC%E7%A7%91%E6%AF%95%E8%AE%BE%E7%96%91%E6%8A%84%E8%A2%AD%2C%E7%B2%A5%E5%8F%8B%E7%A7%80%E5%A4%A7%E5%BA%A6",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 10时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 14时32分]"
         },
         {
           "title": "留神峪煤矿企业对作业人数统计不清 导致一开始通报的人数不准确",
@@ -66,6 +67,17 @@
           "time_info": "[00时55分 ~ 07时51分]"
         },
         {
+          "title": "山西事故煤矿企业对作业人数统计不清",
+          "url": "https://www.toutiao.com/trending/7642964223328337947/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
           "title": "被全网催更的檀健次同学交作业了",
           "url": "https://www.toutiao.com/trending/7642834583676223542/",
           "source": "今日头条",
@@ -79,6 +91,17 @@
           "time_info": "[02时59分 ~ 06时44分]"
         },
         {
+          "title": "高考前回想犯过的低级错误belike",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E5%9B%9E%E6%83%B3%E7%8A%AF%E8%BF%87%E7%9A%84%E4%BD%8E%E7%BA%A7%E9%94%99%E8%AF%AFbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
           "title": "山西事故煤矿企业对作业人数统计不清",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%BA%8B%E6%95%85%E7%85%A4%E7%9F%BF%E4%BC%81%E4%B8%9A%E5%AF%B9%E4%BD%9C%E4%B8%9A%E4%BA%BA%E6%95%B0%E7%BB%9F%E8%AE%A1%E4%B8%8D%E6%B8%85",
           "source": "百度热搜",
@@ -89,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时31分]"
+        },
+        {
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：企业对作业人数统计不清，一开始通报的人数不准确",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221209",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "留神峪煤矿企业对作业人数统计不清",
