@@ -1,38 +1,22 @@
 {
-  "generated_at": "2026-05-25T22:37:50.107536+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-05-26T01:02:23.583233+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "四川省教育厅回应高校开放建议：对校外无差别开放易引发问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33223290",
-          "source": "澎湃新闻",
+          "title": "送全体考生高考最后100题",
+          "url": "https://www.douyin.com/hot/2511923",
+          "source": "抖音",
           "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 15时06分]"
-        },
-        {
-          "title": "本科毕设疑抄袭,粥友秀大度",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354508&amp;topic_name=%E6%9C%AC%E7%A7%91%E6%AF%95%E8%AE%BE%E7%96%91%E6%8A%84%E8%A2%AD%2C%E7%B2%A5%E5%8F%8B%E7%A7%80%E5%A4%A7%E5%BA%A6",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时39分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "暖民心惠民生 推动学习教育走深走实",
@@ -41,45 +25,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时37分"
+          "time_info": "01时02分"
         },
         {
           "title": "如何看待「天才少年」熊羽诺去大专任教？",
           "url": "https://www.zhihu.com/question/568765601",
           "source": "知乎",
           "ranks": [
-            16,
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 22时37分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "孩子明明 1 小时能写完作业，为何总要拖延到晚上九点？",
-          "url": "https://www.zhihu.com/question/2036785350140487357",
-          "source": "知乎",
+          "title": "在德失联中国留学生确认身亡",
+          "url": "https://www.toutiao.com/trending/7643816986119520282/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 15时06分]"
-        },
-        {
-          "title": "高考AMA皆可问",
-          "url": "https://www.douyin.com/hot/2509542",
-          "source": "抖音",
-          "ranks": [
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "01时02分"
         }
       ]
     }
