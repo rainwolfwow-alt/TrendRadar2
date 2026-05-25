@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T04:21:28.938614+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-26T06:04:15.327729+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 06时04分]"
         },
         {
           "title": "暖民心惠民生 推动学习教育走深走实",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 06时04分]"
         },
         {
           "title": "如何看待「天才少年」熊羽诺去大专任教？",
           "url": "https://www.zhihu.com/question/568765601",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 06时04分]"
         },
         {
           "title": "在德失联中国留学生确认身亡",
@@ -47,11 +48,12 @@
           "ranks": [
             21,
             29,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 06时04分]"
         },
         {
           "title": "在德失联23岁中国留学生遗体已找到",
@@ -59,11 +61,12 @@
           "source": "微博",
           "ranks": [
             18,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时04分]"
         }
       ]
     }
