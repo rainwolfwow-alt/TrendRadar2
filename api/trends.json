@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T15:06:11.970433+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-05-25T19:45:50.743872+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[00时57分 ~ 10时39分]"
         },
         {
+          "title": "如何看待「天才少年」熊羽诺去大专任教？",
+          "url": "https://www.zhihu.com/question/568765601",
+          "source": "知乎",
+          "ranks": [
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 19时45分]"
+        },
+        {
           "title": "孩子明明 1 小时能写完作业，为何总要拖延到晚上九点？",
           "url": "https://www.zhihu.com/question/2036785350140487357",
           "source": "知乎",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时39分 ~ 15时06分]"
-        },
-        {
-          "title": "如何看待「天才少年」熊羽诺去大专任教？",
-          "url": "https://www.zhihu.com/question/568765601",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
         },
         {
           "title": "高考AMA皆可问",
