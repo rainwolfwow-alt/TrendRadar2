@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T10:59:27.367323+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-05-26T14:47:19.634891+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2511923",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 10时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 14时47分]"
         },
         {
           "title": "暖民心惠民生 推动学习教育走深走实",
@@ -73,11 +74,23 @@
           "url": "https://news.ifeng.com/c/8tQQymaYbVp",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 14时47分]"
+        },
+        {
+          "title": "高考生就这样期待大学",
+          "url": "https://www.douyin.com/hot/2511756",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 14时47分]"
         },
         {
           "title": "四川省教育厅回应高校开放建议，称对校外无差别开放易引发问题，你支持高校开放吗？积极与消极影响有哪些？",
@@ -86,7 +99,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -100,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
-        },
-        {
-          "title": "高考生就这样期待大学",
-          "url": "https://www.douyin.com/hot/2511756",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         }
       ]
     }
