@@ -1,47 +1,77 @@
 {
-  "generated_at": "2026-05-27T22:22:00.463718+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-05-28T01:53:48.493533+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 12,
+      "match_count": 7,
       "titles": [
         {
-          "title": "教育部：这类学历不予认证",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E8%BF%99%E7%B1%BB%E5%AD%A6%E5%8E%86%E4%B8%8D%E4%BA%88%E8%AE%A4%E8%AF%81",
-          "source": "百度热搜",
+          "title": "用自己的故事给高考学子们加油",
+          "url": "https://www.douyin.com/hot/2514554",
+          "source": "抖音",
           "ranks": [
-            2,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 22时22分]"
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "高考最后10天该怎么学",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E10%E5%A4%A9%E8%AF%A5%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "教育部拟同意设置 34 所新大学，河南新增 4 所本科高校，这会对教育格局产生哪些影响？",
           "url": "https://www.zhihu.com/question/2041187512429852426",
           "source": "知乎",
           "ranks": [
-            11,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 22时22分]"
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
-          "title": "新学年高三开学时间由往年8月1日调为9月1日，广东省教育厅介绍缘由",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33239043",
-          "source": "澎湃新闻",
+          "title": "两儿子非亲生案大儿子拒绝亲子鉴定",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A4%A7%E5%84%BF%E5%AD%90%E6%8B%92%E7%BB%9D%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 22时22分]"
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "教育部：这类学历不予认证",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E8%BF%99%E7%B1%BB%E5%AD%A6%E5%8E%86%E4%B8%8D%E4%BA%88%E8%AE%A4%E8%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "印度高考作弊太抽象了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%A4%AA%E6%8A%BD%E8%B1%A1%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "高考536分“捡漏”上北大考生已毕业",
@@ -51,97 +81,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 22时22分]"
-        },
-        {
-          "title": "每年高考固定NPC",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%8F%E5%B9%B4%E9%AB%98%E8%80%83%E5%9B%BA%E5%AE%9ANPC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "两儿子非亲生案大儿子拒绝亲子鉴定",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A4%A7%E5%84%BF%E5%AD%90%E6%8B%92%E7%BB%9D%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "英国留学生拿过诺奖，而日本留学生没有，为什么日本硕士很少被称为「水硕」？",
-          "url": "https://www.zhihu.com/question/2036349429955948911",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 14时57分]"
-        },
-        {
-          "title": "高考忘复习如何考全国第一",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%BF%98%E5%A4%8D%E4%B9%A0%E5%A6%82%E4%BD%95%E8%80%83%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "59岁男子将第30次高考：乱考都有550",
-          "url": "https://www.baidu.com/s?wd=59%E5%B2%81%E7%94%B7%E5%AD%90%E5%B0%86%E7%AC%AC30%E6%AC%A1%E9%AB%98%E8%80%83%EF%BC%9A%E4%B9%B1%E8%80%83%E9%83%BD%E6%9C%89550",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "如何看待兰州大学一硕士论文致谢学校「放行」拾荒老人，这背后传递怎样的教育理念？",
-          "url": "https://www.zhihu.com/question/2042523305127710730",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "多家AI回应高考期间是否禁用解题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6AI%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%98%AF%E5%90%A6%E7%A6%81%E7%94%A8%E8%A7%A3%E9%A2%98%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "印度高考作弊太抽象了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%A4%AA%E6%8A%BD%E8%B1%A1%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "01时53分"
         }
       ]
     }
