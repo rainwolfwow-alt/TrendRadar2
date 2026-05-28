@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T04:16:11.480274+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-29T06:28:44.526669+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时28分]"
         },
         {
           "title": "操场上二人撑伞视频被传为「女教师讨好男领导」，校方称两人是父女关系，教育局否认，如何评价此事？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 06时28分]"
         }
       ]
     }
