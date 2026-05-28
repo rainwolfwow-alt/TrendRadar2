@@ -1,199 +1,33 @@
 {
-  "generated_at": "2026-05-28T22:32:21.503092+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-05-29T01:58:50.812359+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
         {
           "title": "用自己的故事给高考学子们加油",
           "url": "https://www.douyin.com/hot/2514554",
           "source": "抖音",
           "ranks": [
-            4,
-            6,
-            5,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 22时32分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
-          "title": "高考10天倒计时",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%8310%E5%A4%A9%E5%80%92%E8%AE%A1%E6%97%B6",
-          "source": "bilibili 热搜",
+          "title": "操场上二人撑伞视频被传为「女教师讨好男领导」，校方称两人是父女关系，教育局否认，如何评价此事？",
+          "url": "https://www.zhihu.com/question/2042685981472584608",
+          "source": "知乎",
           "ranks": [
-            5,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 22时32分]"
-        },
-        {
-          "title": "快乐减压 迎接高考",
-          "url": "https://www.baidu.com/s?wd=%E5%BF%AB%E4%B9%90%E5%87%8F%E5%8E%8B+%E8%BF%8E%E6%8E%A5%E9%AB%98%E8%80%83",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "高考版枪火也来了",
-          "url": "https://www.douyin.com/hot/2514445",
-          "source": "抖音",
-          "ranks": [
-            24,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时15分 ~ 22时32分]"
-        },
-        {
-          "title": "印度留学生称感觉内脏在沸腾",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%95%99%E5%AD%A6%E7%94%9F%E7%A7%B0%E6%84%9F%E8%A7%89%E5%86%85%E8%84%8F%E5%9C%A8%E6%B2%B8%E8%85%BE&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 18时47分]"
-        },
-        {
-          "title": "高考最后10天该怎么学",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E10%E5%A4%A9%E8%AF%A5%E6%80%8E%E4%B9%88%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 07时56分]"
-        },
-        {
-          "title": "两儿子非亲生案大儿子拒绝亲子鉴定",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A4%A7%E5%84%BF%E5%AD%90%E6%8B%92%E7%BB%9D%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 07时56分]"
-        },
-        {
-          "title": "高考536分“捡漏”上北大考生已毕业",
-          "url": "https://www.toutiao.com/trending/7644000083658752036/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 07时56分]"
-        },
-        {
-          "title": "教育部：这类学历不予认证",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E8%BF%99%E7%B1%BB%E5%AD%A6%E5%8E%86%E4%B8%8D%E4%BA%88%E8%AE%A4%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 07时56分]"
-        },
-        {
-          "title": "两儿子非亲生案大儿子拒绝亲子鉴定",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%84%BF%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A4%A7%E5%84%BF%E5%AD%90%E6%8B%92%E7%BB%9D%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时56分]"
-        },
-        {
-          "title": "高考押题是智商税吗?",
-          "url": "https://www.zhihu.com/question/533875462",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 14时46分]"
-        },
-        {
-          "title": "虽然我玩手机玩的都恶心了，但我就是不想写作业，怎么办？",
-          "url": "https://www.zhihu.com/question/368308943",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "教育部拟同意设置 34 所新大学，河南新增 4 所本科高校，这会对教育格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2041187512429852426",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "印度高考作弊太抽象了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%A4%AA%E6%8A%BD%E8%B1%A1%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "每年高考最忙的人",
-          "url": "https://www.douyin.com/hot/2513511",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "高考生家长：你尽力 我尽责",
-          "url": "https://www.toutiao.com/trending/7643554407665254427/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "01时58分"
         }
       ]
     }
