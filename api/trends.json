@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T18:47:07.870930+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-05-28T22:32:21.503092+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 18时47分]"
+          "appearance_count": 9,
+          "time_info": "[01时53分 ~ 22时32分]"
         },
         {
           "title": "高考10天倒计时",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%8310%E5%A4%A9%E5%80%92%E8%AE%A1%E6%97%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 22时32分]"
         },
         {
           "title": "快乐减压 迎接高考",
@@ -42,6 +43,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "高考版枪火也来了",
+          "url": "https://www.douyin.com/hot/2514445",
+          "source": "抖音",
+          "ranks": [
+            24,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 22时32分]"
         },
         {
           "title": "印度留学生称感觉内脏在沸腾",
@@ -121,18 +135,6 @@
           "source": "知乎",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 14时46分]"
-        },
-        {
-          "title": "高考版枪火也来了",
-          "url": "https://www.douyin.com/hot/2514445",
-          "source": "抖音",
-          "ranks": [
-            24,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
