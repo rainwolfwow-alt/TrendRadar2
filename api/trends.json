@@ -1,110 +1,33 @@
 {
-  "generated_at": "2026-05-29T20:43:09.275332+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-05-30T00:38:24.504293+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 13,
+      "match_count": 8,
       "titles": [
         {
-          "title": "用自己的故事给高考学子们加油",
-          "url": "https://www.douyin.com/hot/2514554",
-          "source": "抖音",
+          "title": "高考前身体调参指南",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E8%BA%AB%E4%BD%93%E8%B0%83%E5%8F%82%E6%8C%87%E5%8D%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 06时28分]"
-        },
-        {
-          "title": "操场上二人撑伞视频被传为「女教师讨好男领导」，校方称两人是父女关系，教育局否认，如何评价此事？",
-          "url": "https://www.zhihu.com/question/2042685981472584608",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 08时05分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
           "title": "高考前的最后一课",
           "url": "https://www.douyin.com/hot/2515078",
           "source": "抖音",
           "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 20时43分]"
-        },
-        {
-          "title": "家长晒孩子写作业坐不住，踩上缝纫机后连续写了一个多小时，这是咋回事？这种做法真能提高专注力吗？",
-          "url": "https://www.zhihu.com/question/2040831772246684456",
-          "source": "知乎",
-          "ranks": [
-            16,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 17时38分]"
-        },
-        {
-          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
-          "url": "https://www.zhihu.com/question/2043349186469418798",
-          "source": "知乎",
-          "ranks": [
-            19,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 20时43分]"
-        },
-        {
-          "title": "高考将至,吧友争相送祝福",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354683&amp;topic_name=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3%2C%E5%90%A7%E5%8F%8B%E4%BA%89%E7%9B%B8%E9%80%81%E7%A5%9D%E7%A6%8F",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 20时43分]"
-        },
-        {
-          "title": "高考套模板belike",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%A5%97%E6%A8%A1%E6%9D%BFbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 20时43分]"
-        },
-        {
-          "title": "高考和漫展时间冲突怎么办",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%92%8C%E6%BC%AB%E5%B1%95%E6%97%B6%E9%97%B4%E5%86%B2%E7%AA%81%E6%80%8E%E4%B9%88%E5%8A%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -114,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
           "title": "“广东高考将用AI批卷”不实",
@@ -125,41 +48,52 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
-          "title": "高考前身体调参指南",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E8%BA%AB%E4%BD%93%E8%B0%83%E5%8F%82%E6%8C%87%E5%8D%97",
+          "title": "高考套模板belike",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%A5%97%E6%A8%A1%E6%9D%BFbelike",
           "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "“广东夏季高考将用AI批卷”不实",
+          "url": "https://www.douyin.com/hot/2516863",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "高考将至,吧友争相送祝福",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354683&amp;topic_name=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3%2C%E5%90%A7%E5%8F%8B%E4%BA%89%E7%9B%B8%E9%80%81%E7%A5%9D%E7%A6%8F",
+          "source": "贴吧",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
-          "title": "广东清远市教育局原局长张玉兰被查",
-          "url": "https://www.toutiao.com/trending/7645131291389739062/",
-          "source": "今日头条",
+          "title": "高考和漫展时间冲突怎么办",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%92%8C%E6%BC%AB%E5%B1%95%E6%97%B6%E9%97%B4%E5%86%B2%E7%AA%81%E6%80%8E%E4%B9%88%E5%8A%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "“没有下周了 下周高考了”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B2%A1%E6%9C%89%E4%B8%8B%E5%91%A8%E4%BA%86+%E4%B8%8B%E5%91%A8%E9%AB%98%E8%80%83%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "time_info": "00时38分"
         }
       ]
     }
