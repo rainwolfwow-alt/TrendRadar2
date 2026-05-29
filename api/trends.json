@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T08:05:18.729331+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-29T13:07:59.428308+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "用自己的故事给高考学子们加油",
@@ -32,6 +32,50 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 08时05分]"
+        },
+        {
+          "title": "高考将至,吧友争相送祝福",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354683&amp;topic_name=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3%2C%E5%90%A7%E5%8F%8B%E4%BA%89%E7%9B%B8%E9%80%81%E7%A5%9D%E7%A6%8F",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "广东清远市教育局原局长张玉兰被查",
+          "url": "https://www.toutiao.com/trending/7645131291389739062/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "家长晒孩子写作业坐不住，踩上缝纫机后连续写了一个多小时，这是咋回事？这种做法真能提高专注力吗？",
+          "url": "https://www.zhihu.com/question/2040831772246684456",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
+          "url": "https://www.zhihu.com/question/2043349186469418798",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     }
