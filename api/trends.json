@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T07:06:14.246424+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-05-30T10:14:32.867084+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "高考前身体调参指南",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             7,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 10时14分]"
         },
         {
           "title": "高考前的最后一课",
@@ -27,11 +28,12 @@
           "ranks": [
             4,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 10时14分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -41,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 10时14分]"
         },
         {
           "title": "“广东高考将用AI批卷”不实",
@@ -52,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 10时14分]"
         },
         {
           "title": "高考套模板belike",
@@ -63,11 +65,12 @@
             12,
             14,
             17,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 10时14分]"
         },
         {
           "title": "“广东夏季高考将用AI批卷”不实",
@@ -77,19 +80,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 10时14分]"
         },
         {
           "title": "高考将至,吧友争相送祝福",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354683&amp;topic_name=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3%2C%E5%90%A7%E5%8F%8B%E4%BA%89%E7%9B%B8%E9%80%81%E7%A5%9D%E7%A6%8F",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 10时14分]"
+        },
+        {
+          "title": "高考时的幸运瞬间",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%97%B6%E7%9A%84%E5%B9%B8%E8%BF%90%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "高考和漫展时间冲突怎么办",
@@ -98,11 +113,23 @@
           "ranks": [
             30,
             23,
-            25
+            25,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 05时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 10时14分]"
+        },
+        {
+          "title": "下周天考数学 可下周天是高考",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E5%91%A8%E5%A4%A9%E8%80%83%E6%95%B0%E5%AD%A6%20%E5%8F%AF%E4%B8%8B%E5%91%A8%E5%A4%A9%E6%98%AF%E9%AB%98%E8%80%83&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     }
