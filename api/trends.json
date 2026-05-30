@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T21:07:44.700122+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-05-30T23:02:16.731299+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "高考前身体调参指南",
@@ -47,11 +47,12 @@
             20,
             21,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 21时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 23时02分]"
         },
         {
           "title": "高考前的最后一课",
@@ -74,11 +75,26 @@
           "ranks": [
             18,
             3,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 23时02分]"
+        },
+        {
+          "title": "高考时的幸运瞬间",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%97%B6%E7%9A%84%E5%B9%B8%E8%BF%90%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 23时02分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -130,6 +146,17 @@
           "time_info": "[00时38分 ~ 10时14分]"
         },
         {
+          "title": "中国留学生称在印度热到内脏沸腾",
+          "url": "https://www.toutiao.com/trending/7644752004334272566/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "一数高考数学考前安心课",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
           "source": "bilibili 热搜",
@@ -143,31 +170,6 @@
           "time_info": "[17时11分 ~ 21时07分]"
         },
         {
-          "title": "高考语文划重点",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E5%88%92%E9%87%8D%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "高考时的幸运瞬间",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%97%B6%E7%9A%84%E5%B9%B8%E8%BF%90%E7%9E%AC%E9%97%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 21时07分]"
-        },
-        {
           "title": "高考最后一个出考场啥体验",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E5%95%A5%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -175,11 +177,12 @@
             17,
             26,
             19,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 23时02分]"
         },
         {
           "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
@@ -191,8 +194,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 21时07分]"
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 23时02分]"
+        },
+        {
+          "title": "高考语文划重点",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E5%88%92%E9%87%8D%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "用一首歌为高考加油",
@@ -203,8 +217,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 23时02分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
+          "url": "https://flash.jin10.com/detail/20260530200112317800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 23时02分]"
         },
         {
           "title": "下周天考数学 可下周天是高考",
@@ -219,6 +245,17 @@
           "time_info": "[10时14分 ~ 14时17分]"
         },
         {
+          "title": "女大学生因恋爱被家人骗进戒网瘾学校，还被限制人身自由，当地称该机构未经教育局审批，暴露出了哪些问题？",
+          "url": "https://www.zhihu.com/question/2044015061333534704",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "如果回到高考前一晚",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E6%9E%9C%E5%9B%9E%E5%88%B0%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%80%E6%99%9A",
           "source": "bilibili 热搜",
@@ -228,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
-          "url": "https://flash.jin10.com/detail/20260530200112317800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
         },
         {
           "title": "辅导高考但老师是史蒂夫",
@@ -269,7 +295,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
