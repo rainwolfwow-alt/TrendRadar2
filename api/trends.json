@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T04:46:51.215647+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-05-31T05:54:29.182125+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7644752004334272566/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时54分]"
         },
         {
           "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时54分]"
         },
         {
           "title": "花式应援高考生",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时54分]"
         },
         {
           "title": "高考和漫展时间冲突怎么办",
@@ -51,11 +52,12 @@
             22,
             15,
             16,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时54分]"
         },
         {
           "title": "高考时的幸运瞬间",
@@ -64,11 +66,12 @@
           "ranks": [
             16,
             17,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时54分]"
         },
         {
           "title": "高考最后一个出考场啥体验",
@@ -81,8 +84,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时54分]"
         },
         {
           "title": "高考将至,吧友争相送祝福",
@@ -92,8 +95,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时54分]"
         },
         {
           "title": "一数高考数学考前安心课",
@@ -101,11 +104,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 05时54分]"
         },
         {
           "title": "高考套模板belike",
