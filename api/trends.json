@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T19:14:44.891779+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-30T21:07:44.700122+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "高考前身体调参指南",
@@ -36,8 +36,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 21时07分]"
         },
         {
           "title": "高考将至,吧友争相送祝福",
@@ -50,8 +50,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 21时07分]"
         },
         {
           "title": "高考前的最后一课",
@@ -66,6 +66,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 10时14分]"
+        },
+        {
+          "title": "如何看待 59 岁「高考钉子户」梁实将第 30 次参加高考？",
+          "url": "https://www.zhihu.com/question/2043761895782536236",
+          "source": "知乎",
+          "ranks": [
+            18,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 21时07分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -122,23 +135,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时14分]"
-        },
-        {
-          "title": "如何看待 59 岁「高考钉子户」梁实将第 30 次参加高考？",
-          "url": "https://www.zhihu.com/question/2043761895782536236",
-          "source": "知乎",
-          "ranks": [
-            18,
-            3
+            5,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时17分 ~ 19时14分]"
+          "time_info": "[17时11分 ~ 21时07分]"
+        },
+        {
+          "title": "高考语文划重点",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E5%88%92%E9%87%8D%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "高考时的幸运瞬间",
@@ -147,11 +160,12 @@
           "ranks": [
             5,
             9,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 21时07分]"
         },
         {
           "title": "高考最后一个出考场啥体验",
@@ -160,11 +174,25 @@
           "ranks": [
             17,
             26,
-            19
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 21时07分]"
+        },
+        {
+          "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
+          "url": "https://www.zhihu.com/question/2043863395032626559",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时17分 ~ 19时14分]"
+          "time_info": "[17时11分 ~ 21时07分]"
         },
         {
           "title": "用一首歌为高考加油",
@@ -177,18 +205,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时17分 ~ 19时14分]"
-        },
-        {
-          "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
-          "url": "https://www.zhihu.com/question/2043863395032626559",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时14分]"
         },
         {
           "title": "下周天考数学 可下周天是高考",
@@ -214,6 +230,17 @@
           "time_info": "14时17分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
+          "url": "https://flash.jin10.com/detail/20260530200112317800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "辅导高考但老师是史蒂夫",
           "url": "https://search.bilibili.com/all?keyword=%E8%BE%85%E5%AF%BC%E9%AB%98%E8%80%83%E4%BD%86%E8%80%81%E5%B8%88%E6%98%AF%E5%8F%B2%E8%92%82%E5%A4%AB",
           "source": "bilibili 热搜",
@@ -234,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "高考生物考前安心课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%94%9F%E7%89%A9%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "在清华接受四年教育但无文凭，和有清华文凭但一天课都没上过，你会怎么选？",
