@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:54:29.182125+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-31T06:51:55.858755+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时54分]"
-        },
-        {
-          "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
-          "url": "https://www.zhihu.com/question/2043863395032626559",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时51分]"
         },
         {
           "title": "花式应援高考生",
@@ -41,8 +29,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时51分]"
+        },
+        {
+          "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
+          "url": "https://www.zhihu.com/question/2043863395032626559",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时51分]"
         },
         {
           "title": "高考和漫展时间冲突怎么办",
@@ -53,11 +54,12 @@
             15,
             16,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时51分]"
         },
         {
           "title": "高考时的幸运瞬间",
@@ -67,11 +69,37 @@
             16,
             17,
             25,
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时51分]"
+        },
+        {
+          "title": "高考将至,吧友争相送祝福",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354683&amp;topic_name=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3%2C%E5%90%A7%E5%8F%8B%E4%BA%89%E7%9B%B8%E9%80%81%E7%A5%9D%E7%A6%8F",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时51分]"
+        },
+        {
+          "title": "一数高考数学考前安心课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            24,
+            14,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时54分]"
+          "time_info": "[01时58分 ~ 06时51分]"
         },
         {
           "title": "高考最后一个出考场啥体验",
@@ -86,30 +114,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 05时54分]"
-        },
-        {
-          "title": "高考将至,吧友争相送祝福",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354683&amp;topic_name=%E9%AB%98%E8%80%83%E5%B0%86%E8%87%B3%2C%E5%90%A7%E5%8F%8B%E4%BA%89%E7%9B%B8%E9%80%81%E7%A5%9D%E7%A6%8F",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时54分]"
-        },
-        {
-          "title": "一数高考数学考前安心课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            24,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时54分]"
         },
         {
           "title": "高考套模板belike",
