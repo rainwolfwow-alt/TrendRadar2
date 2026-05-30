@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T03:13:49.761678+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-31T04:46:51.215647+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时46分]"
         },
         {
           "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时46分]"
         },
         {
           "title": "花式应援高考生",
@@ -36,11 +36,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时46分]"
         },
         {
           "title": "高考和漫展时间冲突怎么办",
@@ -49,11 +50,12 @@
           "ranks": [
             22,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时46分]"
         },
         {
           "title": "高考时的幸运瞬间",
@@ -61,11 +63,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时46分]"
         },
         {
           "title": "高考最后一个出考场啥体验",
@@ -74,11 +77,12 @@
           "ranks": [
             23,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时46分]"
         },
         {
           "title": "高考将至,吧友争相送祝福",
@@ -88,8 +92,20 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时46分]"
+        },
+        {
+          "title": "一数高考数学考前安心课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时13分]"
+          "time_info": "[01时58分 ~ 04时46分]"
         },
         {
           "title": "高考套模板belike",
@@ -102,18 +118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 01时59分]"
-        },
-        {
-          "title": "一数高考数学考前安心课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 03时13分]"
         },
         {
           "title": "女大学生因恋爱被家人骗进戒网瘾学校，还被限制人身自由，当地称该机构未经教育局审批，暴露出了哪些问题？",
