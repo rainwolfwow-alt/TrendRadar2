@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T05:52:57.034238+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-06-01T06:53:02.353633+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时53分]"
         },
         {
           "title": "在印中国留学生热到提前回国：“感觉内脏在沸腾”，当地人为纳凉睡恒河边",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时53分]"
         },
         {
           "title": "高考开考在即，多位省级领导实地检查考前准备工作",
@@ -39,8 +40,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时53分]"
         },
         {
           "title": "法国高温致7死 留学生吐槽不装空调",
@@ -53,8 +54,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时53分]"
         },
         {
           "title": "花式应援高考生",
@@ -65,8 +66,32 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 06时53分]"
+        },
+        {
+          "title": "一数高考数学考前安心课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 06时53分]"
+        },
+        {
+          "title": "高考语文紧急提分指南",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E7%B4%A7%E6%80%A5%E6%8F%90%E5%88%86%E6%8C%87%E5%8D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 06时53分]"
         },
         {
           "title": "高考考前禁忌",
@@ -86,28 +111,6 @@
           "source": "抖音",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "一数高考数学考前安心课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
-        },
-        {
-          "title": "高考语文紧急提分指南",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E7%B4%A7%E6%80%A5%E6%8F%90%E5%88%86%E6%8C%87%E5%8D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
