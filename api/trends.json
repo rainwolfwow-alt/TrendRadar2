@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T10:40:25.848212+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-05-31T14:53:02.093442+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国留学生称在印度热到内脏沸腾",
@@ -28,11 +28,45 @@
             9,
             6,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 10时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 14时53分]"
+        },
+        {
+          "title": "一数高考数学考前安心课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            24,
+            14,
+            16,
+            25,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时58分 ~ 14时53分]"
+        },
+        {
+          "title": "高考和漫展时间冲突怎么办",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%92%8C%E6%BC%AB%E5%B1%95%E6%97%B6%E9%97%B4%E5%86%B2%E7%AA%81%E6%80%8E%E4%B9%88%E5%8A%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            15,
+            16,
+            21,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 14时53分]"
         },
         {
           "title": "演员林沐然被爆从中戏转入大专，学校称「需照料家人」，真的是这个原因吗？",
@@ -62,38 +96,6 @@
           "time_info": "[00时07分 ~ 10时40分]"
         },
         {
-          "title": "一数高考数学考前安心课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E5%89%8D%E5%AE%89%E5%BF%83%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            24,
-            14,
-            16,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 10时40分]"
-        },
-        {
-          "title": "高考和漫展时间冲突怎么办",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%92%8C%E6%BC%AB%E5%B1%95%E6%97%B6%E9%97%B4%E5%86%B2%E7%AA%81%E6%80%8E%E4%B9%88%E5%8A%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            15,
-            16,
-            21,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时55分]"
-        },
-        {
           "title": "高考时的幸运瞬间",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%97%B6%E7%9A%84%E5%B9%B8%E8%BF%90%E7%9E%AC%E9%97%B4",
           "source": "bilibili 热搜",
@@ -110,6 +112,18 @@
           "time_info": "[00时07分 ~ 07时55分]"
         },
         {
+          "title": "小学六一晚会效果堪比演唱会，超 10 万网友在线观看，学校称得益于日常美育，怎样看待学校的教育方式？",
+          "url": "https://www.zhihu.com/question/2043990135130125315",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时53分]"
+        },
+        {
           "title": "高考最后一个出考场啥体验",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E5%95%A5%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -124,38 +138,29 @@
           "time_info": "[00时07分 ~ 05时54分]"
         },
         {
-          "title": "白岩松谈没有下周了下周高考了",
-          "url": "https://www.douyin.com/hot/2518249",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "小学六一晚会效果堪比演唱会，超 10 万网友在线观看，学校称得益于日常美育，怎样看待学校的教育方式？",
-          "url": "https://www.zhihu.com/question/2043990135130125315",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "中国留学生称在印度热到内脏沸腾",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%83%AD%E5%88%B0%E5%86%85%E8%84%8F%E6%B2%B8%E8%85%BE",
           "source": "百度热搜",
           "ranks": [
             2,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时53分]"
+        },
+        {
+          "title": "白岩松谈没有下周了下周高考了",
+          "url": "https://www.douyin.com/hot/2518249",
+          "source": "抖音",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时53分]"
         },
         {
           "title": "用一首歌为高考加油",
@@ -164,11 +169,36 @@
           "ranks": [
             27,
             18,
-            15
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 14时53分]"
+        },
+        {
+          "title": "中国留学生因印度高温提前回国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9B%A0%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%8F%90%E5%89%8D%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时07分 ~ 10时40分]"
+          "time_info": "[10时40分 ~ 14时53分]"
+        },
+        {
+          "title": "白岩松谈“没有下周了下周高考了”",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E2%80%9C%E6%B2%A1%E6%9C%89%E4%B8%8B%E5%91%A8%E4%BA%86%E4%B8%8B%E5%91%A8%E9%AB%98%E8%80%83%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时53分]"
         },
         {
           "title": "高考套模板belike",
@@ -183,6 +213,17 @@
           "time_info": "[00时07分 ~ 01时59分]"
         },
         {
+          "title": "法国高温致7人死亡中国留学生发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%AB%98%E6%B8%A9%E8%87%B47%E4%BA%BA%E6%AD%BB%E4%BA%A1%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
           "title": "女大学生因恋爱被家人骗进戒网瘾学校，还被限制人身自由，当地称该机构未经教育局审批，暴露出了哪些问题？",
           "url": "https://www.zhihu.com/question/2044015061333534704",
           "source": "知乎",
@@ -192,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "白岩松谈“没有下周了下周高考了”",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%B0%88%E2%80%9C%E6%B2%A1%E6%9C%89%E4%B8%8B%E5%91%A8%E4%BA%86%E4%B8%8B%E5%91%A8%E9%AB%98%E8%80%83%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "如何看待 59 岁「高考钉子户」梁实将第 30 次参加高考？",
@@ -225,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "中国留学生因印度高温提前回国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9B%A0%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%8F%90%E5%89%8D%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         }
       ]
     }
