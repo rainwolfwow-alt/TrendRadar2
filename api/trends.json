@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T00:33:04.589697+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-02T04:51:57.907973+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%94%9F%E5%8D%95%E6%8C%91%E5%AD%94%E5%AD%90",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时51分]"
         },
         {
           "title": "群星为高考生送祝福",
           "url": "https://www.douyin.com/hot/2519196",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时51分]"
         },
         {
           "title": "高考语文紧急提分指南",
