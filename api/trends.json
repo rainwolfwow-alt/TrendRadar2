@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T02:34:25.333077+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T05:43:48.812711+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "教育部发布2026年高考预警信息",
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 05时43分]"
+        },
+        {
+          "title": "南方多省准备迎接高考暴雨",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%AB%98%E8%80%83%E6%9A%B4%E9%9B%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 05时43分]"
         },
         {
           "title": "高考别忘了到考场",
@@ -26,30 +38,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "南方多省准备迎接高考暴雨",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E9%AB%98%E8%80%83%E6%9A%B4%E9%9B%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 05时43分]"
         },
         {
           "title": "高考生单挑孔子",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%94%9F%E5%8D%95%E6%8C%91%E5%AD%94%E5%AD%90",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 05时43分]"
         },
         {
           "title": "接住来自考神的高考祝福",
@@ -59,30 +61,54 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 05时43分]"
         },
         {
           "title": "UP主集体跳舞应援高考",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%86%E4%BD%93%E8%B7%B3%E8%88%9E%E5%BA%94%E6%8F%B4%E9%AB%98%E8%80%83",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 05时43分]"
         },
         {
           "title": "这是一条中二吃饭转场视频",
           "url": "https://www.douyin.com/hot/2520792",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 05时43分]"
+        },
+        {
+          "title": "男子偶遇高考试卷押运车队",
+          "url": "https://www.toutiao.com/trending/7646262876386689087/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "05时43分"
+        },
+        {
+          "title": "高考前的“最后一课”泪点满满",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E7%9A%84%E2%80%9C%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E2%80%9D%E6%B3%AA%E7%82%B9%E6%BB%A1%E6%BB%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     }
