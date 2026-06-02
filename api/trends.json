@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T06:58:05.363319+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-06-02T08:11:37.398421+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 08时11分]"
         },
         {
           "title": "群星为高考生送祝福",
@@ -27,11 +27,12 @@
           "ranks": [
             18,
             26,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 08时11分]"
         },
         {
           "title": "高考语文紧急提分指南",
