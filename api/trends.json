@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T16:09:53.910861+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-06-03T21:09:34.322647+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "高考别忘了到考场",
@@ -22,15 +22,37 @@
           "time_info": "[02时34分 ~ 16时09分]"
         },
         {
-          "title": "2026年高考报名人数为1290万人",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0%E4%B8%BA1290%E4%B8%87%E4%BA%BA",
+          "title": "教育部：坚决纠治高校奢华录取通知书",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E7%BA%A0%E6%B2%BB%E9%AB%98%E6%A0%A1%E5%A5%A2%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6",
           "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时09分"
+          "time_info": "21时09分"
+        },
+        {
+          "title": "教育部严禁炒作高考状元",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E4%B8%A5%E7%A6%81%E7%82%92%E4%BD%9C%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "2026高考安检新变化",
+          "url": "https://s.weibo.com/weibo?q=%232026%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "教育部发布2026年高考预警信息",
@@ -58,28 +80,42 @@
           "time_info": "[02时34分 ~ 07时29分]"
         },
         {
-          "title": "高考要允许自己有不会做的题",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%A6%81%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E6%9C%89%E4%B8%8D%E4%BC%9A%E5%81%9A%E7%9A%84%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 16时09分]"
-        },
-        {
           "title": "高考生我们为你护航",
           "url": "https://www.douyin.com/hot/2521753",
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 21时09分]"
+        },
+        {
+          "title": "高考要允许自己有不会做的题",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%A6%81%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E6%9C%89%E4%B8%8D%E4%BC%9A%E5%81%9A%E7%9A%84%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 21时09分]"
+        },
+        {
+          "title": "2026年高考报名人数为1290万人",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0%E4%B8%BA1290%E4%B8%87%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时55分 ~ 16时09分]"
+          "time_info": "[16时09分 ~ 21时09分]"
         },
         {
           "title": "接住来自考神的高考祝福",
@@ -121,6 +157,19 @@
           "time_info": "[02时34分 ~ 07时29分]"
         },
         {
+          "title": "多地提醒高考戴眼镜须接受查验",
+          "url": "https://www.toutiao.com/trending/7646952294848712243/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 21时09分]"
+        },
+        {
           "title": "高考前千万不要吃榴莲",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%90%83%E6%A6%B4%E8%8E%B2",
           "source": "百度热搜",
@@ -157,16 +206,16 @@
           "time_info": "[05时43分 ~ 07时29分]"
         },
         {
-          "title": "多地提醒高考戴眼镜须接受查验",
-          "url": "https://www.toutiao.com/trending/7646952294848712243/",
+          "title": "在印中国留学生讲述亲历高温遭遇",
+          "url": "https://www.toutiao.com/trending/7646838831991947306/",
           "source": "今日头条",
           "ranks": [
-            24,
-            30
+            21,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时55分 ~ 16时09分]"
+          "time_info": "[16时09分 ~ 21时09分]"
         },
         {
           "title": "这是一条中二吃饭转场视频",
@@ -187,7 +236,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -203,6 +252,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "馒头从空气炸锅留学回来了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A6%92%E5%A4%B4%E4%BB%8E%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "如何看待网上不管聊什么，只要检测到高三就会自动触发「高考加油」回复？这是中国人的底层代码吗？",
           "url": "https://www.zhihu.com/question/2045166104444499420",
           "source": "知乎",
@@ -214,13 +274,24 @@
           "time_info": "10时55分"
         },
         {
+          "title": "2026年全国高考报名人数1290万",
+          "url": "https://www.douyin.com/hot/2522244",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "高压氧舱成考生「脑力充电宝」，专家称非所有人适用，高压氧舱真的有用吗？中高考临近，有哪些科学减压方式？",
           "url": "https://www.zhihu.com/question/2045087477292062358",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -242,20 +313,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
         {
-          "title": "在印中国留学生讲述亲历高温遭遇",
-          "url": "https://www.toutiao.com/trending/7646838831991947306/",
-          "source": "今日头条",
+          "title": "教育部：纠治奢华录取通知书",
+          "url": "https://www.douyin.com/hot/2522326",
+          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时09分"
+          "time_info": "21时09分"
         },
         {
           "title": "教育部：严禁炒作高考状元、升学率",
@@ -264,7 +335,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -286,7 +357,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -297,7 +368,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -319,7 +390,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         }
