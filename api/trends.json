@@ -1,35 +1,37 @@
 {
-  "generated_at": "2026-06-04T05:44:11.934884+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-04T07:28:14.840657+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "教育部严禁炒作高考状元",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E4%B8%A5%E7%A6%81%E7%82%92%E4%BD%9C%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时44分]"
-        },
         {
           "title": "馒头从空气炸锅留学回来了",
           "url": "https://s.weibo.com/weibo?q=%E9%A6%92%E5%A4%B4%E4%BB%8E%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "教育部严禁炒作高考状元",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E4%B8%A5%E7%A6%81%E7%82%92%E4%BD%9C%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "高考生我们为你护航",
@@ -37,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "教育部：2026年全国高考报名人数为1290万人",
@@ -49,11 +52,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "高考要允许自己有不会做的题",
@@ -61,11 +65,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "多地提醒高考戴眼镜须接受查验",
@@ -75,30 +80,55 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时44分]"
-        },
-        {
-          "title": "教育部：坚决纠治高校奢华录取通知书",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E7%BA%A0%E6%B2%BB%E9%AB%98%E6%A0%A1%E5%A5%A2%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "2026 年全国高考报名人数为 1290 万人，如何看待这一报考情况？哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/2045512100232131109",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时43分 ~ 07时28分]"
+        },
+        {
+          "title": "今年全国高考报名人数为1290万人",
+          "url": "https://www.toutiao.com/trending/7646118632455503898/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时43分 ~ 07时28分]"
+        },
+        {
+          "title": "教育部：坚决纠治高校奢华录取通知书",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E7%BA%A0%E6%B2%BB%E9%AB%98%E6%A0%A1%E5%A5%A2%E5%8D%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
+        },
+        {
+          "title": "2026年全国高考报名人数1290万",
+          "url": "https://www.douyin.com/hot/2522244",
+          "source": "抖音",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时43分 ~ 05时44分]"
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "古今高考都对作弊零容忍",
@@ -112,15 +142,15 @@
           "time_info": "[05时43分 ~ 05时44分]"
         },
         {
-          "title": "今年全国高考报名人数为1290万人",
-          "url": "https://www.toutiao.com/trending/7646118632455503898/",
-          "source": "今日头条",
+          "title": "高考别忘了到考场",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%88%AB%E5%BF%98%E4%BA%86%E5%88%B0%E8%80%83%E5%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时43分 ~ 05时44分]"
+          "time_info": "[07时27分 ~ 07时28分]"
         }
       ]
     }
