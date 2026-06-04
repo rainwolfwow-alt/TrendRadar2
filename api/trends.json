@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T03:15:20.248219+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-06-05T05:26:17.180807+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "“海风之心”将开展海上安装作业",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 05时26分]"
         },
         {
           "title": "多地要求高考期间KTV暂停K歌经营业务",
@@ -27,19 +27,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 05时26分]"
         },
         {
           "title": "青年大学习之高考注意事项",
           "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 05时26分]"
+        },
+        {
+          "title": "高考前这些事要再捋一遍",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "高考智驾",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%99%BA%E9%A9%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 05时26分]"
         },
         {
           "title": "高考从不是终点",
@@ -47,11 +72,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 05时26分]"
         },
         {
           "title": "高考要允许自己有不会做的题",
@@ -59,11 +85,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 05时26分]"
+        },
+        {
+          "title": "高考前突击吃鱼油是“智商税”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E7%AA%81%E5%87%BB%E5%90%83%E9%B1%BC%E6%B2%B9%E6%98%AF%E2%80%9C%E6%99%BA%E5%95%86%E7%A8%8E%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 05时26分]"
         },
         {
           "title": "高考出题人什么时候才能被“放”出来",
@@ -78,27 +116,15 @@
           "time_info": "[00时47分 ~ 03时15分]"
         },
         {
-          "title": "高考智驾",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%99%BA%E9%A9%BE",
-          "source": "bilibili 热搜",
+          "title": "触发了高考祝福的底层代码",
+          "url": "https://s.weibo.com/weibo?q=%E8%A7%A6%E5%8F%91%E4%BA%86%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%9A%84%E5%BA%95%E5%B1%82%E4%BB%A3%E7%A0%81&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            24,
-            16
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时15分]"
-        },
-        {
-          "title": "高考前突击吃鱼油是“智商税”吗",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E7%AA%81%E5%87%BB%E5%90%83%E9%B1%BC%E6%B2%B9%E6%98%AF%E2%80%9C%E6%99%BA%E5%95%86%E7%A8%8E%E2%80%9D%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 03时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "一人一句接唱为高考加油",
