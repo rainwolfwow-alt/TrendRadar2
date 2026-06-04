@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T05:26:17.180807+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-06-05T07:03:06.977954+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时03分]"
         },
         {
           "title": "多地要求高考期间KTV暂停K歌经营业务",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时03分]"
         },
         {
           "title": "青年大学习之高考注意事项",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时03分]"
         },
         {
           "title": "高考前这些事要再捋一遍",
@@ -49,9 +50,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时03分]"
         },
         {
           "title": "高考智驾",
@@ -60,11 +61,12 @@
           "ranks": [
             24,
             16,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时03分]"
         },
         {
           "title": "高考从不是终点",
@@ -76,8 +78,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时03分]"
         },
         {
           "title": "高考要允许自己有不会做的题",
@@ -86,11 +88,12 @@
           "ranks": [
             13,
             24,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时03分]"
         },
         {
           "title": "高考前突击吃鱼油是“智商税”吗",
@@ -100,8 +103,19 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时03分]"
+        },
+        {
+          "title": "一人一句接唱为高考加油",
+          "url": "https://www.douyin.com/hot/2522889",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时47分 ~ 05时26分]"
+          "time_info": "[00时47分 ~ 07时03分]"
         },
         {
           "title": "高考出题人什么时候才能被“放”出来",
@@ -122,20 +136,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "一人一句接唱为高考加油",
-          "url": "https://www.douyin.com/hot/2522889",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "05时26分"
         },
         {
           "title": "莫言回忆陪女儿高考：凌晨4点起床",
