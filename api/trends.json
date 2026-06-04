@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T18:56:57.943701+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-06-04T21:55:01.886374+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "教育部严禁炒作高考状元",
@@ -20,6 +20,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时18分 ~ 10时51分]"
+        },
+        {
+          "title": "高考要允许自己有不会做的题",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%A6%81%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E6%9C%89%E4%B8%8D%E4%BC%9A%E5%81%9A%E7%9A%84%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            20,
+            29,
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时18分 ~ 21时55分]"
         },
         {
           "title": "高考生我们为你护航",
@@ -51,6 +66,20 @@
           "time_info": "[05时43分 ~ 15时18分]"
         },
         {
+          "title": "教育部发文推动高校录取通知书回归「一页纸」，纠治奢华通知书等，有哪些考量？仪式感和去奢华如何平衡？",
+          "url": "https://www.zhihu.com/question/2045553277593458433",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 21时55分]"
+        },
+        {
           "title": "馒头从空气炸锅留学回来了",
           "url": "https://s.weibo.com/weibo?q=%E9%A6%92%E5%A4%B4%E4%BB%8E%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -62,33 +91,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时18分 ~ 07时28分]"
-        },
-        {
-          "title": "高考要允许自己有不会做的题",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%A6%81%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E6%9C%89%E4%B8%8D%E4%BC%9A%E5%81%9A%E7%9A%84%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            20,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时18分 ~ 18时56分]"
-        },
-        {
-          "title": "教育部发文推动高校录取通知书回归「一页纸」，纠治奢华通知书等，有哪些考量？仪式感和去奢华如何平衡？",
-          "url": "https://www.zhihu.com/question/2045553277593458433",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 18时56分]"
         },
         {
           "title": "教育部：2026年全国高考报名人数为1290万人",
@@ -105,6 +107,97 @@
           "time_info": "[02时18分 ~ 10时51分]"
         },
         {
+          "title": "青年大学习之高考注意事项",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时55分]"
+        },
+        {
+          "title": "“带入考场即构成作弊”高考安检新变化",
+          "url": "https://www.toutiao.com/trending/7646810280585297926/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 21时55分]"
+        },
+        {
+          "title": "高考安检新变化",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 21时55分]"
+        },
+        {
+          "title": "高考安检新变化",
+          "url": "https://www.douyin.com/hot/2522913",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 21时55分]"
+        },
+        {
+          "title": "“海风之心”将开展海上安装作业",
+          "url": "https://www.douyin.com/hot/2523060",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "莫言回忆陪女儿高考：凌晨4点起床",
+          "url": "https://www.baidu.com/s?wd=%E8%8E%AB%E8%A8%80%E5%9B%9E%E5%BF%86%E9%99%AA%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%EF%BC%9A%E5%87%8C%E6%99%A84%E7%82%B9%E8%B5%B7%E5%BA%8A",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "用一篇长文记录我的高考",
+          "url": "https://www.douyin.com/hot/2521993",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 21时55分]"
+        },
+        {
+          "title": "一人一句接唱为高考加油",
+          "url": "https://www.douyin.com/hot/2522889",
+          "source": "抖音",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 21时55分]"
+        },
+        {
           "title": "多地提醒高考戴眼镜须接受查验",
           "url": "https://www.toutiao.com/trending/7646952294848712243/",
           "source": "今日头条",
@@ -116,60 +209,16 @@
           "time_info": "[02时18分 ~ 07时28分]"
         },
         {
-          "title": "青年大学习之高考注意事项",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9",
-          "source": "bilibili 热搜",
+          "title": "教育局回应戴牙套是否影响高考入场",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%88%B4%E7%89%99%E5%A5%97%E6%98%AF%E5%90%A6%E5%BD%B1%E5%93%8D%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "“带入考场即构成作弊”高考安检新变化",
-          "url": "https://www.toutiao.com/trending/7646810280585297926/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            24,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 18时56分]"
-        },
-        {
-          "title": "高考安检新变化",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 18时56分]"
-        },
-        {
-          "title": "高考安检新变化",
-          "url": "https://www.douyin.com/hot/2522913",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 18时56分]"
-        },
-        {
-          "title": "用一篇长文记录我的高考",
-          "url": "https://www.douyin.com/hot/2521993",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时55分]"
         },
         {
           "title": "2026年全国高考报名人数1290万",
@@ -184,16 +233,16 @@
           "time_info": "[07时27分 ~ 10时51分]"
         },
         {
-          "title": "一人一句接唱为高考加油",
-          "url": "https://www.douyin.com/hot/2522889",
+          "title": "高考从不是终点",
+          "url": "https://www.douyin.com/hot/2523137",
           "source": "抖音",
           "ranks": [
-            12,
-            14
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时50分 ~ 18时56分]"
+          "time_info": "[15时18分 ~ 21时55分]"
         },
         {
           "title": "今年全国高考报名人数为1290万人",
@@ -220,6 +269,18 @@
           "time_info": "[02时18分 ~ 07时28分]"
         },
         {
+          "title": "高考前突击吃鱼油是“智商税”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E7%AA%81%E5%87%BB%E5%90%83%E9%B1%BC%E6%B2%B9%E6%98%AF%E2%80%9C%E6%99%BA%E5%95%86%E7%A8%8E%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 21时55分]"
+        },
+        {
           "title": "医生辟谣“高考前不吃主食不犯困”",
           "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F%E4%B8%8D%E7%8A%AF%E5%9B%B0%E2%80%9D",
           "source": "百度热搜",
@@ -241,6 +302,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 15时18分]"
+        },
+        {
+          "title": "多地要求高考期间KTV暂停K歌经营业务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308098",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "医生辟谣“高考前不吃主食不犯困”",
@@ -266,18 +338,6 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
-          "title": "高考从不是终点",
-          "url": "https://www.douyin.com/hot/2523137",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 18时56分]"
-        },
-        {
           "title": "2026高考举报电话开通",
           "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83%E4%B8%BE%E6%8A%A5%E7%94%B5%E8%AF%9D%E5%BC%80%E9%80%9A",
           "source": "百度热搜",
@@ -287,18 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时50分 ~ 10时51分]"
-        },
-        {
-          "title": "高考前突击吃鱼油是“智商税”吗",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E7%AA%81%E5%87%BB%E5%90%83%E9%B1%BC%E6%B2%B9%E6%98%AF%E2%80%9C%E6%99%BA%E5%95%86%E7%A8%8E%E2%80%9D%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 18时56分]"
         },
         {
           "title": "古今高考都对作弊零容忍",
@@ -362,18 +410,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "教育局回应戴牙套是否影响高考入场",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%88%B4%E7%89%99%E5%A5%97%E6%98%AF%E5%90%A6%E5%BD%B1%E5%93%8D%E9%AB%98%E8%80%83%E5%85%A5%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -384,7 +421,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
