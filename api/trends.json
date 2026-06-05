@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-06-05T07:03:06.977954+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-05T10:38:10.633343+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "“海风之心”将开展海上安装作业",
-          "url": "https://www.douyin.com/hot/2523060",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 07时03分]"
-        },
         {
           "title": "多地要求高考期间KTV暂停K歌经营业务",
           "url": "https://m.thepaper.cn/newsDetail_forward_33308098",
           "source": "澎湃新闻",
           "ranks": [
             5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 10时38分]"
+        },
+        {
+          "title": "“海风之心”将开展海上安装作业",
+          "url": "https://www.douyin.com/hot/2523060",
+          "source": "抖音",
+          "ranks": [
             3
           ],
           "is_new": false,
@@ -37,11 +38,27 @@
           "ranks": [
             5,
             4,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 10时38分]"
+        },
+        {
+          "title": "高考智驾",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%99%BA%E9%A9%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            16,
+            9,
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "高考前这些事要再捋一遍",
@@ -55,20 +72,6 @@
           "time_info": "[05时26分 ~ 07时03分]"
         },
         {
-          "title": "高考智驾",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%99%BA%E9%A9%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            16,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 07时03分]"
-        },
-        {
           "title": "高考从不是终点",
           "url": "https://www.douyin.com/hot/2523137",
           "source": "抖音",
@@ -78,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "高考要允许自己有不会做的题",
@@ -96,6 +99,17 @@
           "time_info": "[00时47分 ~ 07时03分]"
         },
         {
+          "title": "一人一句接唱为高考加油",
+          "url": "https://www.douyin.com/hot/2522889",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 10时38分]"
+        },
+        {
           "title": "高考前突击吃鱼油是“智商税”吗",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%89%8D%E7%AA%81%E5%87%BB%E5%90%83%E9%B1%BC%E6%B2%B9%E6%98%AF%E2%80%9C%E6%99%BA%E5%95%86%E7%A8%8E%E2%80%9D%E5%90%97",
           "source": "百度热搜",
@@ -107,15 +121,37 @@
           "time_info": "[00时47分 ~ 07时03分]"
         },
         {
-          "title": "一人一句接唱为高考加油",
-          "url": "https://www.douyin.com/hot/2522889",
-          "source": "抖音",
+          "title": "多地高考安检要求戴眼镜考生摘镜查验，以防智能眼镜作弊，如何看待这一措施？为啥今年会加强眼镜检查？",
+          "url": "https://www.zhihu.com/question/2045449711071580892",
+          "source": "知乎",
           "ranks": [
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 07时03分]"
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 10时38分]"
+        },
+        {
+          "title": "高考将至沾沾明朝状元殿试卷的喜气",
+          "url": "https://www.toutiao.com/trending/7647467137019281450/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 10时38分]"
+        },
+        {
+          "title": "高考前这些事要再捋一遍",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 10时38分]"
         },
         {
           "title": "高考出题人什么时候才能被“放”出来",
@@ -128,6 +164,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 03时15分]"
+        },
+        {
+          "title": "直击各地高考送考现场",
+          "url": "https://www.toutiao.com/trending/7646622464425066532/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 10时38分]"
         },
         {
           "title": "触发了高考祝福的底层代码",
