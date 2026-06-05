@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T18:51:31.988946+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-06-05T21:50:36.703087+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "多地要求高考期间KTV暂停K歌经营业务",
@@ -30,11 +30,12 @@
             8,
             11,
             21,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 21时50分]"
         },
         {
           "title": "高考智驾",
@@ -45,11 +46,12 @@
             16,
             9,
             4,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 21时50分]"
         },
         {
           "title": "高考从不是终点",
@@ -59,11 +61,12 @@
             12,
             14,
             13,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 21时50分]"
         },
         {
           "title": "“海风之心”将开展海上安装作业",
@@ -97,6 +100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "高考本周日开始，全国多地向送考车辆推出免费专用泊位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314194",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 21时50分]"
         },
         {
           "title": "高考安检新变化 多地提醒",
@@ -133,26 +147,37 @@
           "time_info": "[10时37分 ~ 15时02分]"
         },
         {
-          "title": "高考本周日开始，全国多地向送考车辆推出免费专用泊位",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33314194",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "用“平常心”为高考“助攻”",
           "url": "https://www.baidu.com/s?wd=%E7%94%A8%E2%80%9C%E5%B9%B3%E5%B8%B8%E5%BF%83%E2%80%9D%E4%B8%BA%E9%AB%98%E8%80%83%E2%80%9C%E5%8A%A9%E6%94%BB%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "公安机关、教育部门提醒考生诚信赴考",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E3%80%81%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E6%8F%90%E9%86%92%E8%80%83%E7%94%9F%E8%AF%9A%E4%BF%A1%E8%B5%B4%E8%80%83",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "高考期间有必要禁豆包吗",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E7%A6%81%E8%B1%86%E5%8C%85%E5%90%97&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "教育部发布2026年高考十问十答",
@@ -160,11 +185,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 21时50分]"
         },
         {
           "title": "高考要允许自己有不会做的题",
@@ -203,6 +229,52 @@
           "time_info": "[00时47分 ~ 07时03分]"
         },
         {
+          "title": "网警护航高考 | 况某谎称售卖“2026高考题”实施诈骗被查",
+          "url": "https://www.toutiao.com/trending/7646951952911237166/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 21时50分]"
+        },
+        {
+          "title": "网民谎称售卖2026高考题诈骗被查",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%B0%8E%E7%A7%B0%E5%94%AE%E5%8D%962026%E9%AB%98%E8%80%83%E9%A2%98%E8%AF%88%E9%AA%97%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 21时50分]"
+        },
+        {
+          "title": "网警侦破涉高考试题诈骗案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E6%B6%89%E9%AB%98%E8%80%83%E8%AF%95%E9%A2%98%E8%AF%88%E9%AA%97%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 21时50分]"
+        },
+        {
+          "title": "高考就是高高兴兴去考试",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%B0%B1%E6%98%AF%E9%AB%98%E9%AB%98%E5%85%B4%E5%85%B4%E5%8E%BB%E8%80%83%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 21时50分]"
+        },
+        {
           "title": "直击各地高考送考现场",
           "url": "https://www.toutiao.com/trending/7646622464425066532/",
           "source": "今日头条",
@@ -215,56 +287,11 @@
           "time_info": "[10时37分 ~ 15时02分]"
         },
         {
-          "title": "网警护航高考 | 况某谎称售卖“2026高考题”实施诈骗被查",
-          "url": "https://www.toutiao.com/trending/7646951952911237166/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时51分]"
-        },
-        {
-          "title": "网民谎称售卖2026高考题诈骗被查",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%B0%8E%E7%A7%B0%E5%94%AE%E5%8D%962026%E9%AB%98%E8%80%83%E9%A2%98%E8%AF%88%E9%AA%97%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时51分]"
-        },
-        {
-          "title": "网警侦破涉高考试题诈骗案",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E6%B6%89%E9%AB%98%E8%80%83%E8%AF%95%E9%A2%98%E8%AF%88%E9%AA%97%E6%A1%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时51分]"
-        },
-        {
           "title": "网警护航高考",
           "url": "https://www.douyin.com/hot/2524104",
           "source": "抖音",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时51分]"
-        },
-        {
-          "title": "高考就是高高兴兴去考试",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%B0%B1%E6%98%AF%E9%AB%98%E9%AB%98%E5%85%B4%E5%85%B4%E5%8E%BB%E8%80%83%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            22
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -306,6 +333,41 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 21时50分]"
+        },
+        {
+          "title": "重启我的高考回忆",
+          "url": "https://www.douyin.com/hot/2524086",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 21时50分]"
+        },
+        {
+          "title": "高考化学最后一课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 21时50分]"
+        },
+        {
           "title": "高考将至沾沾明朝状元殿试卷的喜气",
           "url": "https://www.toutiao.com/trending/7647467137019281450/",
           "source": "今日头条",
@@ -326,6 +388,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 10时38分]"
+        },
+        {
+          "title": "多地提醒高考安检新变化",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8F%90%E9%86%92%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 21时50分]"
         },
         {
           "title": "高考出题人什么时候才能被“放”出来",
@@ -351,37 +424,26 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "老挝留学生：把在华学到的技术带回家",
+          "url": "https://www.toutiao.com/trending/7647832786493128747/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "21时50分"
         },
         {
-          "title": "重启我的高考回忆",
-          "url": "https://www.douyin.com/hot/2524086",
+          "title": "被非遗绝活应援高考燃到了",
+          "url": "https://www.douyin.com/hot/2524389",
           "source": "抖音",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "多地提醒高考安检新变化",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8F%90%E9%86%92%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "21时50分"
         },
         {
           "title": "高考氛围 淡淡的",
@@ -390,18 +452,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "高考化学最后一课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -417,13 +468,24 @@
           "time_info": "05时26分"
         },
         {
+          "title": "河南人高考竞争激烈为什么不把户口迁到东三省？",
+          "url": "https://www.zhihu.com/question/2045292537762551139",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "高考作文考前急救课",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E8%80%83%E5%89%8D%E6%80%A5%E6%95%91%E8%AF%BE",
           "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -434,7 +496,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -445,7 +507,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -461,13 +523,24 @@
           "time_info": "00时47分"
         },
         {
+          "title": "高考假",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%81%87&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "高考倒计时",
           "url": "https://www.toutiao.com/trending/7647427205803065407/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
