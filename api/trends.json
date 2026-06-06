@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T03:07:54.725704+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-06-07T04:56:14.706974+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "1290万高考生加油",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "临门一脚,高考前一天该干啥?",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "一起为高考静音 ​",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "一起为高考静音",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "这名考生高考每科可增加30%作答时间",
@@ -59,19 +59,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "高考前最后一晚",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "高考期间全国天气地图请收好",
@@ -81,19 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
-        },
-        {
-          "title": "1290万人今天高考",
-          "url": "https://search.bilibili.com/all?keyword=1290%E4%B8%87%E4%BA%BA%E4%BB%8A%E5%A4%A9%E9%AB%98%E8%80%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "不吉利!不登校乐队祝福高考",
@@ -103,8 +93,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "1290万人今天高考",
+          "url": "https://search.bilibili.com/all?keyword=1290%E4%B8%87%E4%BA%BA%E4%BB%8A%E5%A4%A9%E9%AB%98%E8%80%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "高考语文考前急救",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E8%80%83%E5%89%8D%E6%80%A5%E6%95%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "多位网友偶遇中国邮政押运高考试卷车队，警车开道护航，这种「核弹级」保密措施背后有哪些考量？",
@@ -112,11 +126,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "全抖音为2026高考加油",
@@ -124,22 +139,23 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
-          "title": "高考语文考前急救",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E8%80%83%E5%89%8D%E6%80%A5%E6%95%91",
-          "source": "bilibili 热搜",
+          "title": "高考一定带好身份证准考证",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%B8%80%E5%AE%9A%E5%B8%A6%E5%A5%BD%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%87%86%E8%80%83%E8%AF%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 04时56分]"
         },
         {
           "title": "高考期间这些地区雨势较大",
@@ -153,17 +169,6 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
-          "title": "高考一定带好身份证准考证",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%B8%80%E5%AE%9A%E5%B8%A6%E5%A5%BD%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%87%86%E8%80%83%E8%AF%81%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
           "title": "2026高考加油",
           "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9",
           "source": "百度热搜",
@@ -171,8 +176,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "我的高考｜15岁考入中科大少年班19岁直博复旦，他坚信适配自身发展最重要",
@@ -182,8 +187,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
+          "url": "https://wallstreetcn.com/livenews/3115496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "一数 高考数学",
@@ -194,8 +210,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -203,11 +219,12 @@
           "source": "微博",
           "ranks": [
             8,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "高考前为高中三年打个板",
@@ -215,11 +232,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "高考是怎么运行的",
@@ -230,20 +248,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
-        },
-        {
-          "title": "大学生给高考生的建议",
-          "url": "https://www.douyin.com/hot/2524710",
-          "source": "抖音",
-          "ranks": [
-            23,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "2026全国各省市高考时间安排",
@@ -251,11 +257,96 @@
           "source": "抖音",
           "ranks": [
             12,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "大学生给高考生的建议",
+          "url": "https://www.douyin.com/hot/2524710",
+          "source": "抖音",
+          "ranks": [
+            23,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "有哪些当年只道寻常，现在却再也回不去的全民高考记忆？",
+          "url": "https://www.zhihu.com/question/2043009167305307105",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "请赋予我高考的勇气",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%B7%E8%B5%8B%E4%BA%88%E6%88%91%E9%AB%98%E8%80%83%E7%9A%84%E5%8B%87%E6%B0%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "祝我的孩子高考金榜题名",
+          "url": "https://www.douyin.com/hot/2525244",
+          "source": "抖音",
+          "ranks": [
+            20,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "高考前一夜你会紧张得睡不着吗？",
+          "url": "https://www.zhihu.com/question/2042566078593749050",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "TES送高考祝福",
+          "url": "https://search.bilibili.com/all?keyword=TES%E9%80%81%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时56分]"
         },
         {
           "title": "石油哥 高考语文抱佛脚",
@@ -270,73 +361,26 @@
           "time_info": "[01时02分 ~ 03时07分]"
         },
         {
-          "title": "有哪些当年只道寻常，现在却再也回不去的全民高考记忆？",
-          "url": "https://www.zhihu.com/question/2043009167305307105",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
-        },
-        {
-          "title": "请赋予我高考的勇气",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%B7%E8%B5%8B%E4%BA%88%E6%88%91%E9%AB%98%E8%80%83%E7%9A%84%E5%8B%87%E6%B0%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
-        },
-        {
-          "title": "祝我的孩子高考金榜题名",
-          "url": "https://www.douyin.com/hot/2525244",
-          "source": "抖音",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
-        },
-        {
-          "title": "高考前一夜你会紧张得睡不着吗？",
-          "url": "https://www.zhihu.com/question/2042566078593749050",
-          "source": "知乎",
+          "title": "高考明天开考，教育部发布四点特别提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33323554",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 04时56分]"
         },
         {
-          "title": "TES送高考祝福",
-          "url": "https://search.bilibili.com/all?keyword=TES%E9%80%81%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F",
-          "source": "bilibili 热搜",
+          "title": "致2026高考学子：这一仗你一定赢",
+          "url": "https://www.baidu.com/s?wd=%E8%87%B42026%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%EF%BC%9A%E8%BF%99%E4%B8%80%E4%BB%97%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%B5%A2",
+          "source": "百度热搜",
           "ranks": [
-            25,
-            26
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
-        },
-        {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时07分]"
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 04时56分]"
         },
         {
           "title": "重启我的高考回忆",
@@ -350,15 +394,15 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
-          "title": "高考明天开考，教育部发布四点特别提醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33323554",
-          "source": "澎湃新闻",
+          "title": "今年高考又又又又要下雨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E5%A4%A9%E6%B0%94%E6%83%85%E5%86%B5%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 04时56分]"
         }
       ]
     }
