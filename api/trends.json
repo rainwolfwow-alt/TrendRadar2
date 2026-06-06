@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T06:11:26.084369+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-06-06T08:02:03.311774+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "一数团队为全国高考生加油",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
         },
         {
           "title": "高考本周日开始，全国多地向送考车辆推出免费专用泊位",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
         },
         {
           "title": "公安机关、教育部门提醒考生诚信赴考",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
         },
         {
           "title": "2026高考倒计时1天",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 08时02分]"
         },
         {
           "title": "高考数学别忘了最后一道大题写个解",
@@ -63,8 +63,140 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "重启我的高考回忆",
+          "url": "https://www.douyin.com/hot/2524086",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "被非遗绝活应援高考燃到了",
+          "url": "https://www.douyin.com/hot/2524389",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "高考是怎么运行的",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%90%E8%A1%8C%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "多地提醒高考安检新变化",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8F%90%E9%86%92%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "青年大学习之高考注意事项",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "高考智驾",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%99%BA%E9%A9%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            12,
+            11,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "河南人高考竞争激烈为什么不把户口迁到东三省？",
+          "url": "https://www.zhihu.com/question/2045292537762551139",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "高考就是高高兴兴去考试",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%B0%B1%E6%98%AF%E9%AB%98%E9%AB%98%E5%85%B4%E5%85%B4%E5%8E%BB%E8%80%83%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
+        },
+        {
+          "title": "高考从不是终点",
+          "url": "https://www.douyin.com/hot/2523137",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            22,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 08时02分]"
         },
         {
           "title": "教育部发布2026年高考十问十答",
@@ -81,143 +213,17 @@
           "time_info": "[00时27分 ~ 06时11分]"
         },
         {
-          "title": "重启我的高考回忆",
-          "url": "https://www.douyin.com/hot/2524086",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "被非遗绝活应援高考燃到了",
-          "url": "https://www.douyin.com/hot/2524389",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "高考是怎么运行的",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%90%E8%A1%8C%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "多地提醒高考安检新变化",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%8F%90%E9%86%92%E9%AB%98%E8%80%83%E5%AE%89%E6%A3%80%E6%96%B0%E5%8F%98%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "青年大学习之高考注意事项",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "高考智驾",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%99%BA%E9%A9%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            12,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "河南人高考竞争激烈为什么不把户口迁到东三省？",
-          "url": "https://www.zhihu.com/question/2045292537762551139",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "高考就是高高兴兴去考试",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%B0%B1%E6%98%AF%E9%AB%98%E9%AB%98%E5%85%B4%E5%85%B4%E5%8E%BB%E8%80%83%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
-          "title": "高考从不是终点",
-          "url": "https://www.douyin.com/hot/2523137",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时11分]"
-        },
-        {
           "title": "高考固定NPC返场",
           "url": "https://www.douyin.com/hot/2524815",
           "source": "抖音",
           "ranks": [
             21,
-            28
+            28,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 08时02分]"
         },
         {
           "title": "36岁女子辞去财务工作参加高考",
@@ -225,11 +231,34 @@
           "source": "微博",
           "ranks": [
             20,
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 08时02分]"
+        },
+        {
+          "title": "高考前这些事要再捋一遍",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "高考考生考前温馨提示",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E8%80%83%E5%89%8D%E6%B8%A9%E9%A6%A8%E6%8F%90%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时47分]"
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "高考期间有必要禁豆包吗",
