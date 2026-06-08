@@ -1,27 +1,110 @@
 {
-  "generated_at": "2026-06-08T06:56:49.973702+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-06-08T08:02:08.782364+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
-        {
-          "title": "2026年全国高考今日开考，这些新变化值得关注",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33326061",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
         {
           "title": "心态崩了!高考数学难哭吧友",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354945&amp;topic_name=%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%21%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E5%93%AD%E5%90%A7%E5%8F%8B",
           "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "高考数学难不难",
+          "url": "https://www.douyin.com/hot/2526381",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "如何评价 2026 高考数学试卷？今年题目难度如何？有哪些变化？",
+          "url": "https://www.zhihu.com/question/2046992885703348796",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "各地高考作文,哪个最难写?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354937&amp;topic_name=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%2C%E5%93%AA%E4%B8%AA%E6%9C%80%E9%9A%BE%E5%86%99%3F",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "高考数学",
+          "url": "https://www.douyin.com/hot/2526219",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "致敬奋斗时光 2026高考场外图鉴",
+          "url": "https://www.toutiao.com/trending/7647819562624323114/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "高考首日这些瞬间让人印象深刻",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "考生评高考数学：前面1+1后面造飞机",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AF%84%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%EF%BC%9A%E5%89%8D%E9%9D%A21%2B1%E5%90%8E%E9%9D%A2%E9%80%A0%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "2026年全国高考今日开考，这些新变化值得关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33326061",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
@@ -54,85 +137,16 @@
           "time_info": "[00时08分 ~ 06时56分]"
         },
         {
-          "title": "高考数学难不难",
-          "url": "https://www.douyin.com/hot/2526381",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "如何评价 2026 高考数学试卷？今年题目难度如何？有哪些变化？",
-          "url": "https://www.zhihu.com/question/2046992885703348796",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "各地高考作文,哪个最难写?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354937&amp;topic_name=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%2C%E5%93%AA%E4%B8%AA%E6%9C%80%E9%9A%BE%E5%86%99%3F",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "考生评高考数学：前面1+1后面造飞机",
-          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F%E8%AF%84%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%EF%BC%9A%E5%89%8D%E9%9D%A21%2B1%E5%90%8E%E9%9D%A2%E9%80%A0%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "如何评价2026高考数学",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72026%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
             4,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "高考数学",
-          "url": "https://www.douyin.com/hot/2526219",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "致敬奋斗时光 2026高考场外图鉴",
-          "url": "https://www.toutiao.com/trending/7647819562624323114/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "高考首日这些瞬间让人印象深刻",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E9%A6%96%E6%97%A5%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "高考数学难不难",
@@ -147,6 +161,32 @@
           "time_info": "[00时08分 ~ 06时56分]"
         },
         {
+          "title": "高考语文",
+          "url": "https://www.douyin.com/hot/2525819",
+          "source": "抖音",
+          "ranks": [
+            6,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "高考作文",
+          "url": "https://www.douyin.com/hot/2525918",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
           "title": "我的高考｜两次高考两度考研，三甲医院科室主任坚信“人生处处可翻盘”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33314464",
           "source": "澎湃新闻",
@@ -159,17 +199,73 @@
           "time_info": "[00时08分 ~ 06时56分]"
         },
         {
-          "title": "高考语文",
-          "url": "https://www.douyin.com/hot/2525819",
-          "source": "抖音",
+          "title": "直播丨刚出炉！2026高考作文难不难？名校教授在线破译高分密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33299522",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            4,
-            5
+            2,
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "数学老师连续4年参加高考",
+          "url": "https://www.toutiao.com/trending/7648582055038713899/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "高考数学",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            25,
+            27,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "为救人遭截肢的18岁女孩迎来高考",
+          "url": "https://www.toutiao.com/trending/7647822725989728292/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            5,
+            27,
+            28,
+            25,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "湖北一女孩高考因脑瘫增加 30% 作答时间，如何看待其对公平性的影响？",
+          "url": "https://www.zhihu.com/question/2046752018975417744",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "葛军称“不会再出高考题了”",
@@ -184,40 +280,185 @@
           "time_info": "[00时08分 ~ 06时56分]"
         },
         {
-          "title": "如何评价2026高考数学",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72026%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
-          "source": "bilibili 热搜",
+          "title": "2026高考",
+          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            6
+            25,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
-          "title": "高考作文",
-          "url": "https://www.douyin.com/hot/2525918",
+          "title": "男生高考认考场发现教室就自己1人",
+          "url": "https://www.toutiao.com/trending/7648023670270918698/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            13,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "脑瘫女孩高考每科多给30%作答时间",
+          "url": "https://www.toutiao.com/trending/7647481469887335979/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            5,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 08时02分]"
+        },
+        {
+          "title": "今年高考作文题难不难写",
+          "url": "https://www.douyin.com/hot/2526038",
           "source": "抖音",
           "ranks": [
-            5,
-            6
+            8,
+            19,
+            14,
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
-          "title": "直播丨刚出炉！2026高考作文难不难？名校教授在线破译高分密码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33299522",
-          "source": "澎湃新闻",
+          "title": "如何评价2026高考语文",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72026%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            19
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "用向日葵见证高考瞬间",
+          "url": "https://www.douyin.com/hot/2525919",
+          "source": "抖音",
+          "ranks": [
+            11,
+            18,
+            22,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "高考作文为何每年刷屏",
+          "url": "https://www.douyin.com/hot/2526376",
+          "source": "抖音",
+          "ranks": [
+            20,
+            16,
+            11,
+            18,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "高考作文我来作答",
+          "url": "https://www.douyin.com/hot/2526320",
+          "source": "抖音",
+          "ranks": [
+            21,
+            11,
+            13,
+            15,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "网飞新剧铁拳教育讲了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E9%A3%9E%E6%96%B0%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            12,
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "名师学霸解高考数学压轴题",
+          "url": "https://www.douyin.com/hot/2526487",
+          "source": "抖音",
+          "ranks": [
+            16,
+            14,
+            25,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33328819",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "金榜题名高考顺利",
+          "url": "https://www.douyin.com/hot/2525686",
+          "source": "抖音",
+          "ranks": [
+            28,
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "不吉利!不登校乐队祝福高考",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354923&amp;topic_name=%E4%B8%8D%E5%90%89%E5%88%A9%21%E4%B8%8D%E7%99%BB%E6%A0%A1%E4%B9%90%E9%98%9F%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "如何评价 2026 年高考作文题？难度如何？你会怎么写？",
@@ -232,85 +473,54 @@
           "time_info": "[00时08分 ~ 02时00分]"
         },
         {
-          "title": "数学老师连续4年参加高考",
-          "url": "https://www.toutiao.com/trending/7648582055038713899/",
-          "source": "今日头条",
+          "title": "上海部分考生的高考已提前结束",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%83%A8%E5%88%86%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E8%80%83%E5%B7%B2%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            8,
-            13
+            26,
+            16,
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "time_info": "[01时59分 ~ 08时02分]"
         },
         {
-          "title": "高考数学",
-          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            25,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "为救人遭截肢的18岁女孩迎来高考",
-          "url": "https://www.toutiao.com/trending/7647822725989728292/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            5,
-            27,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "湖北一女孩高考因脑瘫增加 30% 作答时间，如何看待其对公平性的影响？",
-          "url": "https://www.zhihu.com/question/2046752018975417744",
+          "title": "高考为啥不设成 678 这三天，偏要设成 789 这三天？",
+          "url": "https://www.zhihu.com/question/2044214326303642125",
           "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "脑瘫女孩高考每科多给30%作答时间",
-          "url": "https://www.toutiao.com/trending/7647481469887335979/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 06时56分]"
-        },
-        {
-          "title": "男生高考认考场发现教室就自己1人",
-          "url": "https://www.toutiao.com/trending/7648023670270918698/",
-          "source": "今日头条",
-          "ranks": [
-            25,
+            19,
+            18,
+            15,
             13,
-            12,
-            8,
-            7
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 08时02分]"
+        },
+        {
+          "title": "高考",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "直击高考次日",
+          "url": "https://www.douyin.com/hot/2526713",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "直击高考首日",
@@ -322,104 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "今年高考作文题难不难写",
-          "url": "https://www.douyin.com/hot/2526038",
-          "source": "抖音",
-          "ranks": [
-            8,
-            19,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "如何评价2026高考语文",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72026%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "用向日葵见证高考瞬间",
-          "url": "https://www.douyin.com/hot/2525919",
-          "source": "抖音",
-          "ranks": [
-            11,
-            18,
-            22,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "高考作文为何每年刷屏",
-          "url": "https://www.douyin.com/hot/2526376",
-          "source": "抖音",
-          "ranks": [
-            20,
-            16,
-            11,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "高考作文我来作答",
-          "url": "https://www.douyin.com/hot/2526320",
-          "source": "抖音",
-          "ranks": [
-            21,
-            11,
-            13,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "网飞新剧铁拳教育讲了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E9%A3%9E%E6%96%B0%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            12,
-            27,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "名师学霸解高考数学压轴题",
-          "url": "https://www.douyin.com/hot/2526487",
-          "source": "抖音",
-          "ranks": [
-            16,
-            14,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
         },
         {
           "title": "上海部分考生的高考已提前结束",
@@ -458,54 +570,6 @@
             19,
             27,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33328819",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "金榜题名高考顺利",
-          "url": "https://www.douyin.com/hot/2525686",
-          "source": "抖音",
-          "ranks": [
-            28,
-            19,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "不吉利!不登校乐队祝福高考",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354923&amp;topic_name=%E4%B8%8D%E5%90%89%E5%88%A9%21%E4%B8%8D%E7%99%BB%E6%A0%A1%E4%B9%90%E9%98%9F%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
-          "title": "2026高考",
-          "url": "https://www.baidu.com/s?wd=2026%E9%AB%98%E8%80%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -573,18 +637,16 @@
           "time_info": "[00时08分 ~ 05时02分]"
         },
         {
-          "title": "高考为啥不设成 678 这三天，偏要设成 789 这三天？",
-          "url": "https://www.zhihu.com/question/2044214326303642125",
-          "source": "知乎",
+          "title": "高考物理最后一课",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            18,
-            15,
-            13
+            22,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "葛军谈出高考题：比出艺术品还痛苦",
@@ -599,16 +661,75 @@
           "time_info": "[00时08分 ~ 03时24分]"
         },
         {
-          "title": "上海部分考生的高考已提前结束",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%83%A8%E5%88%86%E8%80%83%E7%94%9F%E7%9A%84%E9%AB%98%E8%80%83%E5%B7%B2%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F",
-          "source": "百度热搜",
+          "title": "高考历史焚诀",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E7%84%9A%E8%AF%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            26,
-            16
+            15,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时59分 ~ 06时56分]"
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "你能理解高考家长穿旗袍，带向日葵这种操作吗？",
+          "url": "https://www.zhihu.com/question/2045541315581146326",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时02分 ~ 08时02分]"
+        },
+        {
+          "title": "高中生参加高考的一天",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E7%9A%84%E4%B8%80%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "张远演唱会主题押中高考作文",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E9%A2%98%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 08时02分]"
+        },
+        {
+          "title": "汇总：2026年全国高考语文作文试题来了！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327529",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 08时02分]"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 08时02分]"
         },
         {
           "title": "名家点评高考作文题",
@@ -623,18 +744,6 @@
           "time_info": "[01时59分 ~ 05时02分]"
         },
         {
-          "title": "高考物理最后一课",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 06时56分]"
-        },
-        {
           "title": "著名豫剧教育家陈小香辞世",
           "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E8%B1%AB%E5%89%A7%E6%95%99%E8%82%B2%E5%AE%B6%E9%99%88%E5%B0%8F%E9%A6%99%E8%BE%9E%E4%B8%96",
           "source": "百度热搜",
@@ -647,27 +756,26 @@
           "time_info": "[05时02分 ~ 06时56分]"
         },
         {
-          "title": "高考历史焚诀",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E7%84%9A%E8%AF%80",
-          "source": "bilibili 热搜",
+          "title": "高考考点108天宝宝为舅舅送考",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%80%83%E7%82%B9108%E5%A4%A9%E5%AE%9D%E5%AE%9D%E4%B8%BA%E8%88%85%E8%88%85%E9%80%81%E8%80%83",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            21
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时08分 ~ 06时56分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "你能理解高考家长穿旗袍，带向日葵这种操作吗？",
-          "url": "https://www.zhihu.com/question/2045541315581146326",
-          "source": "知乎",
+          "title": "直击高考第二天",
+          "url": "https://www.toutiao.com/trending/7647893809128476223/",
+          "source": "今日头条",
           "ranks": [
-            18
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时56分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "40年前落榜生哽咽：每年都看他们高考",
@@ -736,17 +844,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "高中生参加高考的一天",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E7%9A%84%E4%B8%80%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
           "title": "2名拘役罪犯获批回家陪孩子高考",
           "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E6%8B%98%E5%BD%B9%E7%BD%AA%E7%8A%AF%E8%8E%B7%E6%89%B9%E5%9B%9E%E5%AE%B6%E9%99%AA%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -780,28 +877,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "汇总：2026年全国高考语文作文试题来了！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327529",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "张远演唱会主题押中高考作文",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E9%A2%98%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "高考数学结束 有学生直呼“考爽了”",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E7%BB%93%E6%9D%9F+%E6%9C%89%E5%AD%A6%E7%94%9F%E7%9B%B4%E5%91%BC%E2%80%9C%E8%80%83%E7%88%BD%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
@@ -819,20 +894,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "06时56分"
         },
         {
           "title": "高考646分学姐建议家长考后少问考试",
