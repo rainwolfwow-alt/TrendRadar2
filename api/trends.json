@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T04:04:11.237326+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-09T06:20:14.125287+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "吓到脚软!高考生被架进考场",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "我的高考｜从高考失利到成为中文系教授，一个“理科生”的转向与抵达",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "数学估满分,高考自信姐来袭",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "高考英语",
@@ -48,8 +48,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
+        },
+        {
+          "title": "一化儿 高考化学",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8C%96%E5%84%BF%20%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时20分]"
         },
         {
           "title": "高考数学题让宁夏青铜峡108塔出名了",
@@ -57,11 +68,24 @@
           "source": "今日头条",
           "ranks": [
             2,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
+        },
+        {
+          "title": "高考语文试题评析",
+          "url": "https://www.douyin.com/hot/2525984",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时03分 ~ 06时20分]"
         },
         {
           "title": "高考作文 给阿嬷的情书",
@@ -69,11 +93,12 @@
           "source": "微博",
           "ranks": [
             2,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "如何评价2026高考物理",
@@ -81,11 +106,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "韩剧铁拳教育剧情有多爽",
@@ -95,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "如何评价 2026 各地高考英语试卷？难度怎么样？",
@@ -106,8 +132,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "脑洞剧本:没过本科线就回溯",
@@ -117,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "18年前被捡的弃婴高考后跪谢养母",
@@ -129,20 +155,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
-        },
-        {
-          "title": "当我把今年高考语文作文题喂给AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "如何评价2026高考英语",
@@ -150,11 +164,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
+        },
+        {
+          "title": "当我把今年高考语文作文题喂给AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "如何评价2026高考历史",
@@ -162,11 +190,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "数学老师4战高考最高137分",
@@ -176,8 +205,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "网飞新剧铁拳教育讲了什么",
@@ -187,8 +216,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "为什么感觉今年高考氛围淡淡的，往年提前半个月互联网就预热了，今年似乎大家都不太关注了，这是怎么回事？",
@@ -198,8 +227,54 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
+        },
+        {
+          "title": "高考结束后的出题老师",
+          "url": "https://www.douyin.com/hot/2527181",
+          "source": "抖音",
+          "ranks": [
+            21,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
+        },
+        {
+          "title": "后劲大:吧友回味16年高考作文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354985&amp;topic_name=%E5%90%8E%E5%8A%B2%E5%A4%A7%3A%E5%90%A7%E5%8F%8B%E5%9B%9E%E5%91%B316%E5%B9%B4%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
+        },
+        {
+          "title": "心态崩了!高考数学难哭吧友",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354945&amp;topic_name=%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%21%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E5%93%AD%E5%90%A7%E5%8F%8B",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
+        },
+        {
+          "title": "各地高考作文,哪个最难写?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354937&amp;topic_name=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%2C%E5%93%AA%E4%B8%AA%E6%9C%80%E9%9A%BE%E5%86%99%3F",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时20分]"
         },
         {
           "title": "锐评2026高考数学",
@@ -213,60 +288,26 @@
           "time_info": "[01时45分 ~ 04时04分]"
         },
         {
-          "title": "高考结束后的出题老师",
-          "url": "https://www.douyin.com/hot/2527181",
-          "source": "抖音",
+          "title": "2026高考",
+          "url": "https://s.weibo.com/weibo?q=2026%E9%AB%98%E8%80%83&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
-        },
-        {
-          "title": "后劲大:吧友回味16年高考作文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354985&amp;topic_name=%E5%90%8E%E5%8A%B2%E5%A4%A7%3A%E5%90%A7%E5%8F%8B%E5%9B%9E%E5%91%B316%E5%B9%B4%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
-        },
-        {
-          "title": "心态崩了!高考数学难哭吧友",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354945&amp;topic_name=%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%21%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E5%93%AD%E5%90%A7%E5%8F%8B",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
-        },
-        {
-          "title": "各地高考作文,哪个最难写?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354937&amp;topic_name=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%2C%E5%93%AA%E4%B8%AA%E6%9C%80%E9%9A%BE%E5%86%99%3F",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 04时04分]"
-        },
-        {
-          "title": "高考语文试题评析",
-          "url": "https://www.douyin.com/hot/2525984",
-          "source": "抖音",
-          "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时03分 ~ 04时04分]"
+          "time_info": "[06时19分 ~ 06时20分]"
+        },
+        {
+          "title": "高考首日“一张证都没办”意外火了",
+          "url": "https://www.toutiao.com/trending/7648543887539945510/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时20分]"
         },
         {
           "title": "高考英语",
@@ -278,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 04时04分]"
+        },
+        {
+          "title": "高考特别有宿命感",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%B9%E5%88%AB%E6%9C%89%E5%AE%BF%E5%91%BD%E6%84%9F&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时20分]"
         },
         {
           "title": "考生谈高考英语：出题人很“温柔”",
