@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T07:14:11.235420+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-10T10:38:22.453325+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "纯玄学?高考数学规律大改",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
         },
         {
           "title": "高考政治变生物,孟德尔快显灵",
@@ -26,8 +26,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "嫌三手难?天津高考作文更磨人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355000&amp;topic_name=%E5%AB%8C%E4%B8%89%E6%89%8B%E9%9A%BE%3F%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%9B%B4%E7%A3%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "咒术回战梗图和高考太适配了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355002&amp;topic_name=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E6%A2%97%E5%9B%BE%E5%92%8C%E9%AB%98%E8%80%83%E5%A4%AA%E9%80%82%E9%85%8D%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
         },
         {
           "title": "高考政治",
@@ -37,17 +60,6 @@
             1,
             5,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "嫌三手难?天津高考作文更磨人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355000&amp;topic_name=%E5%AB%8C%E4%B8%89%E6%89%8B%E9%9A%BE%3F%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%9B%B4%E7%A3%A8%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -68,17 +80,6 @@
           "title": "高考结束考生哭了：自己尽到了全力",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E8%80%83%E7%94%9F%E5%93%AD%E4%BA%86%EF%BC%9A%E8%87%AA%E5%B7%B1%E5%B0%BD%E5%88%B0%E4%BA%86%E5%85%A8%E5%8A%9B",
           "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "咒术回战梗图和高考太适配了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355002&amp;topic_name=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E6%A2%97%E5%9B%BE%E5%92%8C%E9%AB%98%E8%80%83%E5%A4%AA%E9%80%82%E9%85%8D%E4%BA%86",
-          "source": "贴吧",
           "ranks": [
             5
           ],
@@ -119,11 +120,12 @@
           "ranks": [
             6,
             5,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时14分]"
+          "appearance_count": 6,
+          "time_info": "[03时09分 ~ 10时38分]"
         },
         {
           "title": "如何评价网飞韩剧《铁拳教育》?",
@@ -133,22 +135,144 @@
             13,
             12,
             9,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "高考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2528465",
+          "source": "抖音",
+          "ranks": [
+            9,
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
         },
         {
           "title": "男子凌晨在高考考点故意驾车漂移、制造噪音，并录视频博流量，被拘 10 日，这个处罚力度你认为合理吗？",
           "url": "https://www.zhihu.com/question/2047324525931532969",
           "source": "知乎",
           "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "高考结束后的那个下午",
+          "url": "https://www.douyin.com/hot/2528666",
+          "source": "抖音",
+          "ranks": [
+            11,
+            16,
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "高考可给大学生们忙坏了",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%8F%AF%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%BF%99%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            19,
+            20,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
+          "time_info": "[03时09分 ~ 10时38分]"
+        },
+        {
+          "title": "我来写高考作文",
+          "url": "https://www.douyin.com/hot/2528216",
+          "source": "抖音",
+          "ranks": [
+            13,
+            18,
+            9,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "韩剧铁拳教育剧情有多爽",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E5%89%A7%E6%83%85%E6%9C%89%E5%A4%9A%E7%88%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            16,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "当名人参加高考会发生什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%90%8D%E4%BA%BA%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            24,
+            21,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "数学估满分,高考自信姐来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354988&amp;topic_name=%E6%95%B0%E5%AD%A6%E4%BC%B0%E6%BB%A1%E5%88%86%2C%E9%AB%98%E8%80%83%E8%87%AA%E4%BF%A1%E5%A7%90%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "脑洞剧本:没过本科线就回溯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354978&amp;topic_name=%E8%84%91%E6%B4%9E%E5%89%A7%E6%9C%AC%3A%E6%B2%A1%E8%BF%87%E6%9C%AC%E7%A7%91%E7%BA%BF%E5%B0%B1%E5%9B%9E%E6%BA%AF",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
+          "title": "数学老师4战高考最高137分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354953&amp;topic_name=%E6%95%B0%E5%AD%A6%E8%80%81%E5%B8%884%E6%88%98%E9%AB%98%E8%80%83%E6%9C%80%E9%AB%98137%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 10时38分]"
         },
         {
           "title": "葛军解析高考数学",
@@ -173,83 +297,6 @@
             24,
             23,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "高考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2528465",
-          "source": "抖音",
-          "ranks": [
-            9,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "我来写高考作文",
-          "url": "https://www.douyin.com/hot/2528216",
-          "source": "抖音",
-          "ranks": [
-            13,
-            18,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "高考结束后的那个下午",
-          "url": "https://www.douyin.com/hot/2528666",
-          "source": "抖音",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "韩剧铁拳教育剧情有多爽",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E5%89%A7%E6%83%85%E6%9C%89%E5%A4%9A%E7%88%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "当名人参加高考会发生什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%90%8D%E4%BA%BA%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            24,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "数学估满分,高考自信姐来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354988&amp;topic_name=%E6%95%B0%E5%AD%A6%E4%BC%B0%E6%BB%A1%E5%88%86%2C%E9%AB%98%E8%80%83%E8%87%AA%E4%BF%A1%E5%A7%90%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -293,39 +340,15 @@
           "time_info": "[00时27分 ~ 07时14分]"
         },
         {
-          "title": "脑洞剧本:没过本科线就回溯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354978&amp;topic_name=%E8%84%91%E6%B4%9E%E5%89%A7%E6%9C%AC%3A%E6%B2%A1%E8%BF%87%E6%9C%AC%E7%A7%91%E7%BA%BF%E5%B0%B1%E5%9B%9E%E6%BA%AF",
-          "source": "贴吧",
+          "title": "高考真是一场巨大的后知后觉",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%9C%9F%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            24
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "数学老师4战高考最高137分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354953&amp;topic_name=%E6%95%B0%E5%AD%A6%E8%80%81%E5%B8%884%E6%88%98%E9%AB%98%E8%80%83%E6%9C%80%E9%AB%98137%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "高考可给大学生们忙坏了",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%8F%AF%E7%BB%99%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%BF%99%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时09分 ~ 07时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "锐评2026高考数学",
@@ -354,6 +377,19 @@
           "time_info": "[03时09分 ~ 07时14分]"
         },
         {
+          "title": "家长自嘲孩子高考后地位直线下降",
+          "url": "https://www.toutiao.com/trending/7649320084250443795/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
           "title": "高考完的第一个晚上真的会很幸福",
           "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%AE%8C%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%99%9A%E4%B8%8A%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BE%88%E5%B9%B8%E7%A6%8F&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -379,6 +415,19 @@
           "time_info": "[00时27分 ~ 03时09分]"
         },
         {
+          "title": "高考语文卷上的“猫文”作者找到了",
+          "url": "https://www.toutiao.com/trending/7648942144656428587/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 10时38分]"
+        },
+        {
           "title": "博士UP主挑战高考数学",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E5%A3%ABUP%E4%B8%BB%E6%8C%91%E6%88%98%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
           "source": "bilibili 热搜",
@@ -386,18 +435,6 @@
             21,
             22,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
-          "title": "家长自嘲孩子高考后地位直线下降",
-          "url": "https://www.toutiao.com/trending/7649320084250443795/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            22
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -451,18 +488,6 @@
           "time_info": "[00时27分 ~ 07时14分]"
         },
         {
-          "title": "高考语文卷上的“猫文”作者找到了",
-          "url": "https://www.toutiao.com/trending/7648942144656428587/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 07时14分]"
-        },
-        {
           "title": "高考结束厨师爸妈集体“罢工”",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%8E%A8%E5%B8%88%E7%88%B8%E5%A6%88%E9%9B%86%E4%BD%93%E2%80%9C%E7%BD%A2%E5%B7%A5%E2%80%9D",
           "source": "百度热搜",
@@ -508,6 +533,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 03时09分]"
+        },
+        {
+          "title": "博主造谣孤女遭舅舅阻止高考被行拘",
+          "url": "https://www.toutiao.com/trending/7648751467272224811/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "2026 年高考志愿填报，孩子应该选择电气、能动、机械、医学、计算机、还是火爆的人工智能？",
+          "url": "https://www.zhihu.com/question/2045653689407477325",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "一次看完爽剧铁拳教育",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%AE%8C%E7%88%BD%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "双胞胎姐妹高考后“坦白局”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E9%AB%98%E8%80%83%E5%90%8E%E2%80%9C%E5%9D%A6%E7%99%BD%E5%B1%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "如果成年人来写高考作文",
+          "url": "https://www.douyin.com/hot/2529063",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "如何评价 2026 高考新课标Ⅱ卷语文题，难度怎么样？",
