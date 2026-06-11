@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-11T06:49:19.160497+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-11T08:11:04.579102+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "2026高考收官",
+          "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
+        },
         {
           "title": "高考结束的第一批受害者出现了",
           "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=1&Refer=top",
@@ -20,29 +32,18 @@
           "time_info": "[01时53分 ~ 06时49分]"
         },
         {
-          "title": "2026高考收官",
-          "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
-        },
-        {
           "title": "浙江女考生说想读640多分的大专",
           "url": "https://www.toutiao.com/trending/7649738130156699675/",
           "source": "今日头条",
           "ranks": [
             5,
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "为什么每年我们都会讨论高考后的作文题目而不是讨论数学或者物理的压轴题？不是要更重视理工科吗？",
@@ -52,21 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
-        },
-        {
-          "title": "高考结束女孩被采访 爸爸冲上前送花",
-          "url": "https://www.toutiao.com/trending/7648769828995530802/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "高考结束后你最想干什么",
@@ -74,11 +62,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "高考结束 女生感慨再也没高中上了",
@@ -90,8 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "高考结束后回校的高二生",
@@ -100,11 +89,12 @@
           "ranks": [
             24,
             15,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "高考政治变生物,孟德尔快显灵",
@@ -114,8 +104,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "嫌三手难?天津高考作文更磨人",
@@ -125,8 +115,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "咒术回战梗图和高考太适配了",
@@ -136,8 +126,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
         },
         {
           "title": "纯玄学?高考数学规律大改",
@@ -145,6 +135,43 @@
           "source": "贴吧",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 08时11分]"
+        },
+        {
+          "title": "男生高考后获电脑称要创立工作室",
+          "url": "https://www.toutiao.com/trending/7648910358041264171/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        },
+        {
+          "title": "为什么韩剧《铁拳教育》引起那么多老师的共鸣？",
+          "url": "https://www.zhihu.com/question/2047455567661347233",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时14分 ~ 08时11分]"
+        },
+        {
+          "title": "高考结束女孩被采访 爸爸冲上前送花",
+          "url": "https://www.toutiao.com/trending/7648769828995530802/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            27,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -174,18 +201,6 @@
           "time_info": "[01时53分 ~ 04时15分]"
         },
         {
-          "title": "为什么韩剧《铁拳教育》引起那么多老师的共鸣？",
-          "url": "https://www.zhihu.com/question/2047455567661347233",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时14分 ~ 06时49分]"
-        },
-        {
           "title": "日月不失其体，故蔽而复明；江汉不失其源，故穷而复通。如何看待 2026 年高考全国卷语文作文？",
           "url": "https://www.zhihu.com/question/2047069976641672433",
           "source": "知乎",
@@ -209,13 +224,24 @@
           "time_info": "[01时53分 ~ 06时49分]"
         },
         {
+          "title": "高考外语考试规定 14:45 就算迟到（即开考前 15 分钟），有必要吗？",
+          "url": "https://www.zhihu.com/question/2047379244393689990",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        },
+        {
           "title": "孩子高考结束了，计划假期骑行 318，并给了 15000 的费用清单（含自行车和装备），请问该支持吗？",
           "url": "https://www.zhihu.com/question/2047428345973961106",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         }
