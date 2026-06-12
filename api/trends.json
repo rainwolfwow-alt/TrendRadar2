@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T03:56:28.660179+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-13T05:26:49.164216+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "马上评｜父亲背8个土鸡蛋接考感动全网，也照见高考的意义",
@@ -26,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "高考后去办变美落地签",
@@ -38,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "28 岁硕士女为规律作息重考大专，这反映了当下年轻人怎样的心态？",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "女友失联最终发现被送素质教育基地",
@@ -58,11 +59,12 @@
           "source": "微博",
           "ranks": [
             9,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -72,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -83,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -94,19 +96,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "冲!高考考生许愿LPL夺冠",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355074&amp;topic_name=%E5%86%B2%21%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E8%AE%B8%E6%84%BFLPL%E5%A4%BA%E5%86%A0",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "明明是为了孩子好，千叮咛万嘱咐，可孩子就是不信，非得磕的头破血流吃了亏才明白，怎么教育孩子？",
