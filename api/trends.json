@@ -1,207 +1,66 @@
 {
-  "generated_at": "2026-06-12T22:38:58.584365+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-06-13T01:33:31.967410+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 26,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "高考报志愿 考生最关心的都在这里",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%8A%A5%E5%BF%97%E6%84%BF+%E8%80%83%E7%94%9F%E6%9C%80%E5%85%B3%E5%BF%83%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 10时44分]"
-        },
-        {
-          "title": "冲!高考考生许愿LPL夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355074&amp;topic_name=%E5%86%B2%21%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E8%AE%B8%E6%84%BFLPL%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            15,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时08分 ~ 22时38分]"
-        },
         {
           "title": "精明家长,高考分数=手机价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 22时38分]"
-        },
-        {
-          "title": "日本政府正准备挑选船舶部署到霍尔木兹海峡，以响应美国和伊朗达成停火协议。 日本政府正在权衡多种方案，包括参与多边行动和提供扫雷作业设备。 部署的前提是该区域的安全得到全面保障。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3118529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "28 岁硕士女为规律作息重考大专，这反映了当下年轻人怎样的心态？",
-          "url": "https://www.zhihu.com/question/2047763831703745071",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "如何看待高考考生忘带准考证，母亲提前 10 分钟送证到考场，考生不知情仍在校门口等，迟到 1 分钟被禁入考场？",
-          "url": "https://www.zhihu.com/question/2048113348726580919",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 10时44分]"
-        },
-        {
-          "title": "高考政治变生物,孟德尔快显灵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355009&amp;topic_name=%E9%AB%98%E8%80%83%E6%94%BF%E6%B2%BB%E5%8F%98%E7%94%9F%E7%89%A9%2C%E5%AD%9F%E5%BE%B7%E5%B0%94%E5%BF%AB%E6%98%BE%E7%81%B5",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时08分 ~ 10时44分]"
-        },
-        {
-          "title": "毕业旅行迎首波高峰：多地景区对中高考生免票，机票酒店均价较暑期便宜一半",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33354244",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 07时16分]"
-        },
-        {
-          "title": "高考后固定刷新的NPC",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E5%9B%BA%E5%AE%9A%E5%88%B7%E6%96%B0%E7%9A%84NPC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 10时44分]"
-        },
-        {
-          "title": "女生高考仅剩25分钟大喊要换答题卡",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E4%BB%85%E5%89%A925%E5%88%86%E9%92%9F%E5%A4%A7%E5%96%8A%E8%A6%81%E6%8D%A2%E7%AD%94%E9%A2%98%E5%8D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 07时16分]"
+          "time_info": "01时33分"
         },
         {
           "title": "马上评｜父亲背8个土鸡蛋接考感动全网，也照见高考的意义",
           "url": "https://m.thepaper.cn/newsDetail_forward_33364813",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "28 岁硕士女为规律作息重考大专，这反映了当下年轻人怎样的心态？",
+          "url": "https://www.zhihu.com/question/2047763831703745071",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "女友失联最终发现被送素质教育基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E6%9C%80%E7%BB%88%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%80%81%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 22时38分]"
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
-          "title": "实地探访高考奶奶",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E9%AB%98%E8%80%83%E5%A5%B6%E5%A5%B6",
-          "source": "bilibili 热搜",
+          "title": "高考后去办变美落地签",
+          "url": "https://www.douyin.com/hot/2531940",
+          "source": "抖音",
           "ranks": [
-            9,
-            15,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 22时38分]"
-        },
-        {
-          "title": "孤女遭亲舅烧书阻止高考系谣言",
-          "url": "https://www.toutiao.com/trending/7649393379532980267/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 07时16分]"
-        },
-        {
-          "title": "高考结束后回校的高二生",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E5%9B%9E%E6%A0%A1%E7%9A%84%E9%AB%98%E4%BA%8C%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 07时16分]"
-        },
-        {
-          "title": "一口气速通网飞爽剧铁拳教育",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%9F%E9%80%9A%E7%BD%91%E9%A3%9E%E7%88%BD%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 07时16分]"
-        },
-        {
-          "title": "高中语文特级教师的高考同题作文",
-          "url": "https://www.toutiao.com/trending/7649697343655591990/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 07时16分]"
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -211,31 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 22时38分]"
-        },
-        {
-          "title": "男生高考后拿出6年零花钱当大学用度",
-          "url": "https://www.toutiao.com/trending/7649783679237586963/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 07时16分]"
-        },
-        {
-          "title": "念一辈子本科",
-          "url": "https://s.weibo.com/weibo?q=%E5%BF%B5%E4%B8%80%E8%BE%88%E5%AD%90%E6%9C%AC%E7%A7%91&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "01时33分"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -244,9 +80,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "01时33分"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -255,64 +91,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "高考生卡1.5厘米鱼刺硬撑3天考完试",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E7%94%9F%E5%8D%A11.5%E5%8E%98%E7%B1%B3%E9%B1%BC%E5%88%BA%E7%A1%AC%E6%92%913%E5%A4%A9%E8%80%83%E5%AE%8C%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "01时33分"
         },
         {
-          "title": "女友失联最终发现被送素质教育基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E6%9C%80%E7%BB%88%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%80%81%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "明明是为了孩子好，千叮咛万嘱咐，可孩子就是不信，非得磕的头破血流吃了亏才明白，怎么教育孩子？",
+          "url": "https://www.zhihu.com/question/13536709656",
+          "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "01时33分"
         },
         {
-          "title": "广东“最孤单高考生”回应",
-          "url": "https://www.toutiao.com/trending/7648875466301784114/",
-          "source": "今日头条",
+          "title": "冲!高考考生许愿LPL夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355074&amp;topic_name=%E5%86%B2%21%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E8%AE%B8%E6%84%BFLPL%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
           "ranks": [
-            26
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时08分"
+          "time_info": "01时33分"
         },
         {
-          "title": "日本恢复核污染水排海作业",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%81%A2%E5%A4%8D%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%E4%BD%9C%E4%B8%9A",
+          "title": "高考后眼科门诊成“热门打卡地”",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%8E%E7%9C%BC%E7%A7%91%E9%97%A8%E8%AF%8A%E6%88%90%E2%80%9C%E7%83%AD%E9%97%A8%E6%89%93%E5%8D%A1%E5%9C%B0%E2%80%9D",
           "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "亲子乐园设超宽减速带致多车被刮",
-          "url": "https://www.toutiao.com/trending/7650429309031202852/",
-          "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "01时33分"
         }
       ]
     }
