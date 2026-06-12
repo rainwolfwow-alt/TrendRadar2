@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T01:33:31.967410+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T03:56:28.660179+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "马上评｜父亲背8个土鸡蛋接考感动全网，也照见高考的意义",
@@ -26,8 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
+        },
+        {
+          "title": "高考后去办变美落地签",
+          "url": "https://www.douyin.com/hot/2531940",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "28 岁硕士女为规律作息重考大专，这反映了当下年轻人怎样的心态？",
@@ -37,30 +49,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "女友失联最终发现被送素质教育基地",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E6%9C%80%E7%BB%88%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%80%81%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "高考后去办变美落地签",
-          "url": "https://www.douyin.com/hot/2531940",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -70,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -81,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "网传“2026高考答案”系谣言",
@@ -92,19 +94,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "明明是为了孩子好，千叮咛万嘱咐，可孩子就是不信，非得磕的头破血流吃了亏才明白，怎么教育孩子？",
-          "url": "https://www.zhihu.com/question/13536709656",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
         },
         {
           "title": "冲!高考考生许愿LPL夺冠",
@@ -112,6 +103,17 @@
           "source": "贴吧",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时56分]"
+        },
+        {
+          "title": "明明是为了孩子好，千叮咛万嘱咐，可孩子就是不信，非得磕的头破血流吃了亏才明白，怎么教育孩子？",
+          "url": "https://www.zhihu.com/question/13536709656",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
