@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T12:24:36.702610+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-06-14T16:38:17.132030+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "留学生回国之后就这样大吃特吃",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 12时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 16时38分]"
         },
         {
           "title": "精明家长,高考分数=手机价格",
@@ -27,11 +27,12 @@
             15,
             16,
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 12时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 16时38分]"
         },
         {
           "title": "西湖大学本科生学费内地生每年 6000 元，外籍生 35 万元，相差近 58 倍，如何看待这种定价？是国际惯例吗？",
@@ -39,11 +40,56 @@
           "source": "知乎",
           "ranks": [
             14,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时38分]"
+        },
+        {
+          "title": "小县城取消中考选拔全员直升高中",
+          "url": "https://www.toutiao.com/trending/7650390487204249609/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "小县城取消中考选拔全员直升高中",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E9%80%89%E6%8B%94%E5%85%A8%E5%91%98%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "小县城取消中考选拔全员直升高中",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83%E9%80%89%E6%8B%94%E5%85%A8%E5%91%98%E7%9B%B4%E5%8D%87%E9%AB%98%E4%B8%AD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "如何看待 CVPR 最佳学生论文提名之一来自广东工业大学本科生团队?",
+          "url": "https://www.zhihu.com/question/2046941369411883617",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时38分]"
         },
         {
           "title": "冲!高考考生许愿LPL夺冠",
@@ -69,17 +115,6 @@
           "time_info": "[03时11分 ~ 05时05分]"
         },
         {
-          "title": "如何看待 CVPR 最佳学生论文提名之一来自广东工业大学本科生团队?",
-          "url": "https://www.zhihu.com/question/2046941369411883617",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时24分]"
-        },
-        {
           "title": "高考后男生带一桶一行囊独自回家",
           "url": "https://www.toutiao.com/trending/7649728185214926894/",
           "source": "今日头条",
@@ -103,13 +138,35 @@
           "time_info": "[05时04分 ~ 05时05分]"
         },
         {
+          "title": "高考后最难受的人",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E6%9C%80%E9%9A%BE%E5%8F%97%E7%9A%84%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "网友喊国足抄摩洛哥作业",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E5%96%8A%E5%9B%BD%E8%B6%B3%E6%8A%84%E6%91%A9%E6%B4%9B%E5%93%A5%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？",
           "url": "https://www.zhihu.com/question/2037135692707390495",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -120,7 +177,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
