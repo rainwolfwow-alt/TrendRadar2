@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T06:56:44.417165+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-06-14T08:02:03.496728+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "留学生回国之后就这样大吃特吃",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 08时02分]"
         },
         {
           "title": "精明家长,高考分数=手机价格",
@@ -29,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 08时02分]"
         },
         {
           "title": "冲!高考考生许愿LPL夺冠",
@@ -56,6 +56,40 @@
           "time_info": "[03时11分 ~ 05时05分]"
         },
         {
+          "title": "高考后男生带一桶一行囊独自回家",
+          "url": "https://www.toutiao.com/trending/7649728185214926894/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 08时02分]"
+        },
+        {
+          "title": "西湖大学本科生学费内地生每年 6000 元，外籍生 35 万元，相差近 58 倍，如何看待这种定价？是国际惯例吗？",
+          "url": "https://www.zhihu.com/question/2047264542703597437",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "如何看待 CVPR 最佳学生论文提名之一来自广东工业大学本科生团队?",
+          "url": "https://www.zhihu.com/question/2046941369411883617",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
           "title": "校书记给毕业生布置最后三道作业",
           "url": "https://www.baidu.com/s?wd=%E6%A0%A1%E4%B9%A6%E8%AE%B0%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B8%83%E7%BD%AE%E6%9C%80%E5%90%8E%E4%B8%89%E9%81%93%E4%BD%9C%E4%B8%9A",
           "source": "百度热搜",
@@ -73,18 +107,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "高考后男生带一桶一行囊独自回家",
-          "url": "https://www.toutiao.com/trending/7649728185214926894/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
