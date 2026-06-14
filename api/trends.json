@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T21:42:58.013193+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-06-14T23:44:40.710933+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             16,
             17,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时14分 ~ 21时42分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 23时44分]"
         },
         {
           "title": "留学生回国之后就这样大吃特吃",
@@ -42,11 +43,12 @@
             14,
             4,
             3,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 21时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 23时44分]"
         },
         {
           "title": "小县城取消中考选拔全员直升高中",
@@ -54,11 +56,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 21时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 23时44分]"
         },
         {
           "title": "小县城取消中考选拔全员直升高中",
