@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T04:48:08.054214+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-06-16T06:59:08.745045+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "习近平：一体推进教育科技人才发展",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "深度解读韩剧铁拳教育",
@@ -36,22 +37,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "男子参加幼儿园亲子迷你马拉松猝死",
           "url": "https://www.toutiao.com/trending/7651602287001305107/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时59分]"
+        },
+        {
+          "title": "美国顶尖大学新生不会解「7x–2=5」，这反映了哪些教育问题？",
+          "url": "https://www.zhihu.com/question/2048465671999197707",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时47分 ~ 04时48分]"
+          "time_info": "[06时58分 ~ 06时59分]"
         },
         {
           "title": "农机作业鸟妈妈张开翅膀“护巢”",
