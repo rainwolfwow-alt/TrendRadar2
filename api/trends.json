@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:17:52.044983+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-06-15T14:17:05.373447+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "小县城取消中考选拔全员直升高中",
@@ -15,11 +15,27 @@
             5,
             10,
             4,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 08时17分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 14时17分]"
+        },
+        {
+          "title": "高考后最难受的人",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E6%9C%80%E9%9A%BE%E5%8F%97%E7%9A%84%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            21,
+            22,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 14时17分]"
         },
         {
           "title": "西湖大学本科生学费内地生每年 6000 元，外籍生 35 万元，相差近 58 倍，如何看待这种定价？是国际惯例吗？",
@@ -49,18 +65,26 @@
           "time_info": "[01时11分 ~ 08时17分]"
         },
         {
-          "title": "高考后最难受的人",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E6%9C%80%E9%9A%BE%E5%8F%97%E7%9A%84%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "浙江一海岛小县取消中考选拔功能，实现全员直升，新政落地以来发生了哪些改变？对学生而言是好是坏？",
+          "url": "https://www.zhihu.com/question/2049512084568630140",
+          "source": "知乎",
           "ranks": [
-            20,
-            21,
-            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "高考结束应让孩子看到生活的本来面貌",
+          "url": "https://www.toutiao.com/trending/7650353865721217050/",
+          "source": "今日头条",
+          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 08时17分]"
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         }
       ]
     }
