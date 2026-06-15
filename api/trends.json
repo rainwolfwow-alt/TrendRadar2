@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T07:01:53.120807+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-06-15T08:17:52.044983+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             10,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 08时17分]"
         },
         {
           "title": "西湖大学本科生学费内地生每年 6000 元，外籍生 35 万元，相差近 58 倍，如何看待这种定价？是国际惯例吗？",
@@ -31,8 +32,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 08时17分]"
         },
         {
           "title": "精明家长,高考分数=手机价格",
@@ -44,8 +45,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 08时17分]"
         },
         {
           "title": "高考后最难受的人",
@@ -54,11 +55,12 @@
           "ranks": [
             20,
             21,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 08时17分]"
         }
       ]
     }
