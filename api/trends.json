@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T15:16:50.885957+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-06-16T20:47:01.996264+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "深度解读韩剧铁拳教育",
@@ -19,8 +19,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 20时47分]"
+        },
+        {
+          "title": "一年一度动漫高考来了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%8A%A8%E6%BC%AB%E9%AB%98%E8%80%83%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "习近平：一体推进教育科技人才发展",
@@ -53,7 +64,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -64,7 +75,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -90,6 +101,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 06时59分]"
+        },
+        {
+          "title": "重庆市树立和践行正确政绩观学习教育工作成果交流会举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33384225",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 20时47分]"
         },
         {
           "title": "美国顶尖大学新生不会解「7x–2=5」，这反映了哪些教育问题？",
@@ -132,7 +155,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -143,7 +166,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -154,18 +177,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "重庆市树立和践行正确政绩观学习教育工作成果交流会举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33384225",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
