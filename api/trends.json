@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-06-17T19:29:59.120913+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-06-17T23:21:03.006429+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
+          "url": "https://www.zhihu.com/question/2050225795503805964",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 23时21分]"
+        },
+        {
+          "title": "如何拿捏高考志愿填报",
+          "url": "https://www.douyin.com/hot/2537776",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "教育部同意：新设立32所本科高校",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%90%8C%E6%84%8F%EF%BC%9A%E6%96%B0%E8%AE%BE%E7%AB%8B32%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "韩剧铁拳教育详解",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%89%A7%E9%93%81%E6%8B%B3%E6%95%99%E8%82%B2%E8%AF%A6%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
         {
           "title": "“冲时点”转向“重日均”，银行“年中考”逻辑生变",
           "url": "https://wallstreetcn.com/livenews/3120520",
@@ -17,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
-        },
-        {
-          "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
-          "url": "https://www.zhihu.com/question/2050225795503805964",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "特朗普政府再次推动转移教育部职能",
