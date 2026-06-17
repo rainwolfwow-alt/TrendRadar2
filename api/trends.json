@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T04:02:40.384386+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-18T06:31:20.586644+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时31分]"
         },
         {
           "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
           "url": "https://www.zhihu.com/question/2050225795503805964",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时31分]"
         },
         {
           "title": "教育部同意：新设立32所本科高校",
