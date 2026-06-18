@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-18T06:31:20.586644+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-06-18T08:19:19.026860+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何拿捏高考志愿填报",
           "url": "https://www.douyin.com/hot/2537776",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 06时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 08时19分]"
         },
         {
           "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时46分 ~ 06时31分]"
+        },
+        {
+          "title": "36 岁家长跑幼儿园亲子马拉松猝死，家属质疑园方救援不力，园方需要负什么责任？亲子活动安全谁该把关？",
+          "url": "https://www.zhihu.com/question/2050158360343864201",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
         },
         {
           "title": "教育部同意：新设立32所本科高校",
