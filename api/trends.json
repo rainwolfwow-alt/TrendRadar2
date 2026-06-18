@@ -1,68 +1,22 @@
 {
-  "generated_at": "2026-06-18T22:08:21.099183+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-06-19T01:07:05.479914+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何拿捏高考志愿填报",
-          "url": "https://www.douyin.com/hot/2537776",
-          "source": "抖音",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 08时19分]"
-        },
-        {
-          "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
-          "url": "https://www.zhihu.com/question/2050225795503805964",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 06时31分]"
-        },
-        {
-          "title": "吴倩高考621分",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%AB%98%E8%80%83621%E5%88%86%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "36 岁家长跑幼儿园亲子马拉松猝死，家属质疑园方救援不力，园方需要负什么责任？亲子活动安全谁该把关？",
-          "url": "https://www.zhihu.com/question/2050158360343864201",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "教育部同意：新设立32所本科高校",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%90%8C%E6%84%8F%EF%BC%9A%E6%96%B0%E8%AE%BE%E7%AB%8B32%E6%89%80%E6%9C%AC%E7%A7%91%E9%AB%98%E6%A0%A1",
-          "source": "百度热搜",
+          "title": "高考生请为大学生静音",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%94%9F%E8%AF%B7%E4%B8%BA%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%9D%99%E9%9F%B3",
+          "source": "bilibili 热搜",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     }
