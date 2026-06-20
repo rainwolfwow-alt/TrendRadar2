@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T19:10:07.239658+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-06-20T21:43:12.381753+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,42 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "上海中考作文题出炉：如愿以偿之后",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33419559",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 21时43分]"
+        },
+        {
+          "title": "12 岁男孩偷开邻居的车，独自在高速狂飙 6 小时，父亲称「没想到儿子会开车」，家庭教育存在哪些问题？",
+          "url": "https://www.zhihu.com/question/2051001274779301605",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 21时43分]"
+        },
+        {
           "title": "中考各科老师送祝福",
           "url": "https://www.douyin.com/hot/2541220",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 21时43分]"
         },
         {
           "title": "中考",
@@ -30,6 +57,19 @@
           "time_info": "13时05分"
         },
         {
+          "title": "高考 630 和 690 的本质区别是什么？",
+          "url": "https://www.zhihu.com/question/2047356185930732208",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 21时43分]"
+        },
+        {
           "title": "工作室发布致歉声明：黄子韬已接受教育、缴纳罚款，涉事车辆未经过非法改装，仅变更车身颜色",
           "url": "https://m.thepaper.cn/newsDetail_forward_33416855",
           "source": "澎湃新闻",
@@ -41,42 +81,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时05分 ~ 19时10分]"
-        },
-        {
-          "title": "12 岁男孩偷开邻居的车，独自在高速狂飙 6 小时，父亲称「没想到儿子会开车」，家庭教育存在哪些问题？",
-          "url": "https://www.zhihu.com/question/2051001274779301605",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 19时10分]"
-        },
-        {
-          "title": "上海中考作文题出炉：如愿以偿之后",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33419559",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 19时10分]"
-        },
-        {
-          "title": "高考 630 和 690 的本质区别是什么？",
-          "url": "https://www.zhihu.com/question/2047356185930732208",
-          "source": "知乎",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 19时10分]"
         },
         {
           "title": "教育专家黄玉峰点评上海中考作文题",
