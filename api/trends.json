@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-06-20T08:02:52.590867+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-06-20T13:05:41.000583+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 1,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "中考",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E8%80%83&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "中考考点外 怀孕6个月老师来送考",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E8%80%83%E7%82%B9%E5%A4%96+%E6%80%80%E5%AD%956%E4%B8%AA%E6%9C%88%E8%80%81%E5%B8%88%E6%9D%A5%E9%80%81%E8%80%83",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "工作室发布致歉声明：黄子韬已接受教育、缴纳罚款，涉事车辆未经过非法改装，仅变更车身颜色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33416855",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "中考语文",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E8%80%83%E8%AF%AD%E6%96%87&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "中考后男生带着束脩之礼感恩老师",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E5%90%8E%E7%94%B7%E7%94%9F%E5%B8%A6%E7%9D%80%E6%9D%9F%E8%84%A9%E4%B9%8B%E7%A4%BC%E6%84%9F%E6%81%A9%E8%80%81%E5%B8%88",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "中考考场外家长默默为孩子扇风",
+          "url": "https://www.toutiao.com/trending/7652646020920754219/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
         {
           "title": "数学老师许诺握手中考能考120分",
           "url": "https://www.toutiao.com/trending/7653106901911388214/",
