@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T03:18:22.823633+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-06-22T05:07:01.694750+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 05时07分]"
         },
         {
           "title": "“职业本科无法考研”不实",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 05时07分]"
         },
         {
           "title": "学渣学霸写作业状态区别",
@@ -38,8 +38,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 05时07分]"
         },
         {
           "title": "高考，真的就那么重要吗？",
@@ -47,11 +47,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 05时07分]"
         }
       ]
     }
