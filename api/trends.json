@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:08:55.002029+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-06-21T13:55:16.197481+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "上海中考作文题出炉：如愿以偿之后",
@@ -73,6 +73,39 @@
           "time_info": "[03时12分 ~ 08时08分]"
         },
         {
+          "title": "虽然我玩手机玩的都恶心了，但我就是不想写作业，怎么办？",
+          "url": "https://www.zhihu.com/question/368308943",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
+          "title": "余华称「报志愿理科我选数学，文科选哲学」，对当下高考志愿填报有借鉴意义吗？",
+          "url": "https://www.zhihu.com/question/2050875839395410256",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
+          "title": "武汉中考生：数学出题组干得漂亮",
+          "url": "https://www.toutiao.com/trending/7652927023886893083/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
           "title": "高考 630 和 690 的本质区别是什么？",
           "url": "https://www.zhihu.com/question/2047356185930732208",
           "source": "知乎",
@@ -82,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时18分]"
+        },
+        {
+          "title": "阚清子迎来属于她的高考",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E8%BF%8E%E6%9D%A5%E5%B1%9E%E4%BA%8E%E5%A5%B9%E7%9A%84%E9%AB%98%E8%80%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
         }
       ]
     }
