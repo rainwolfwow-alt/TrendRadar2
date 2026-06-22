@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T16:51:58.237146+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-06-22T22:28:37.212332+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "“职业本科无法考研”不实",
@@ -61,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -75,6 +75,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "代课37年的教师盼望补缴社保，江西丰城教育局副局长表示“没有先例”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426994",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 22时28分]"
         },
         {
           "title": "孩子高考完以后，我要求他去送外卖或者去肯德基锻炼赚学费，他不愿意，怎么办？有好办法吗？",
@@ -118,9 +130,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "2026高考成绩将陆续公布",
+          "url": "https://www.douyin.com/hot/2543225",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "2026 高考查分临近，你的心情如何？",
@@ -129,9 +152,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "少年捡长枪送派出所问不会奖励作业吧",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%91%E5%B9%B4%E6%8D%A1%E9%95%BF%E6%9E%AA%E9%80%81%E6%B4%BE%E5%87%BA%E6%89%80%E9%97%AE%E4%B8%8D%E4%BC%9A%E5%A5%96%E5%8A%B1%E4%BD%9C%E4%B8%9A%E5%90%A7",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "教师代课37年盼补缴社保 教育局回应",
@@ -140,18 +174,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "代课37年的教师盼望补缴社保，江西丰城教育局副局长表示“没有先例”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426994",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -162,7 +185,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
