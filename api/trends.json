@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T10:54:40.429241+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-06-22T16:51:58.237146+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "“职业本科无法考研”不实",
@@ -55,13 +55,24 @@
           "time_info": "[01时20分 ~ 07时03分]"
         },
         {
+          "title": "填报高考志愿前先看这份指南",
+          "url": "https://www.baidu.com/s?wd=%E5%A1%AB%E6%8A%A5%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%89%8D%E5%85%88%E7%9C%8B%E8%BF%99%E4%BB%BD%E6%8C%87%E5%8D%97",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "明天起高考成绩陆续公布",
           "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E8%B5%B7%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -70,11 +81,24 @@
           "url": "https://www.zhihu.com/question/2051478831144482006",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 16时51分]"
+        },
+        {
+          "title": "你如何看待，高考后很多孩子要苹果手机全家桶，形成了一股热潮？",
+          "url": "https://www.zhihu.com/question/2048784446720161578",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 16时51分]"
         },
         {
           "title": "中考各科老师送祝福",
@@ -88,15 +112,59 @@
           "time_info": "07时03分"
         },
         {
-          "title": "你如何看待，高考后很多孩子要苹果手机全家桶，形成了一股热潮？",
-          "url": "https://www.zhihu.com/question/2048784446720161578",
-          "source": "知乎",
+          "title": "“高考生因没考好跳河”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E7%94%9F%E5%9B%A0%E6%B2%A1%E8%80%83%E5%A5%BD%E8%B7%B3%E6%B2%B3%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "16时51分"
+        },
+        {
+          "title": "2026 高考查分临近，你的心情如何？",
+          "url": "https://www.zhihu.com/question/2011553615827968094",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "教师代课37年盼补缴社保 教育局回应",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E4%BB%A3%E8%AF%BE37%E5%B9%B4%E7%9B%BC%E8%A1%A5%E7%BC%B4%E7%A4%BE%E4%BF%9D+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "代课37年的教师盼望补缴社保，江西丰城教育局副局长表示“没有先例”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426994",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "高考出分志愿怎么填",
+          "url": "https://www.toutiao.com/trending/7653672998334991935/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     }
