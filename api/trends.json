@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:31:19.131505+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-06-23T21:38:10.059942+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "代课37年的教师盼望补缴社保，江西丰城教育局副局长表示“没有先例”",
@@ -23,11 +23,36 @@
           "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 21时38分]"
+        },
+        {
+          "title": "上海高考分数线公布：本科403分",
+          "url": "https://www.toutiao.com/trending/7654523517756509702/",
+          "source": "今日头条",
+          "ranks": [
+            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
+        },
+        {
+          "title": "高考查分",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
         },
         {
           "title": "高考报志愿实用指南",
@@ -35,33 +60,47 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 21时38分]"
         },
         {
-          "title": "高考查分",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
-          "source": "百度热搜",
+          "title": "急哭!吧友坐等高考出分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355591&amp;topic_name=%E6%80%A5%E5%93%AD%21%E5%90%A7%E5%8F%8B%E5%9D%90%E7%AD%89%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86",
+          "source": "贴吧",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
+          "time_info": "[21时37分 ~ 21时38分]"
+        },
+        {
+          "title": "如何看待南京大学陈昌凯老师在本科生毕业典礼上没有谈成功与理想，而是叮嘱毕业生「按时吃饭、好好睡觉」？",
+          "url": "https://www.zhihu.com/question/2052360231389066372",
+          "source": "知乎",
+          "ranks": [
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
         },
         {
           "title": "上海高考分数线公布",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
         },
         {
           "title": "祝1290万高考生梦想成真",
@@ -75,26 +114,54 @@
           "time_info": "[18时29分 ~ 18时31分]"
         },
         {
-          "title": "上海高考分数线公布：本科403分",
-          "url": "https://www.toutiao.com/trending/7654523517756509702/",
-          "source": "今日头条",
+          "title": "上海高考分数线公布",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
+        },
+        {
+          "title": "上海高考分数线公布",
+          "url": "https://www.douyin.com/hot/2545013",
+          "source": "抖音",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
         },
         {
           "title": "上海2026高考分数线公布",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B72026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
+        },
+        {
+          "title": "今天开始高考查分",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            7,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 21时38分]"
         },
         {
           "title": "高考成绩陆续公布",
@@ -109,17 +176,27 @@
           "time_info": "[14时41分 ~ 18时31分]"
         },
         {
-          "title": "今天开始高考查分",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
-          "source": "bilibili 热搜",
+          "title": "上海高考查分",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
+          "source": "百度热搜",
           "ranks": [
-            23,
-            7,
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时14分 ~ 18时31分]"
+          "time_info": "[18时29分 ~ 21时38分]"
+        },
+        {
+          "title": "高考志愿怎么填报？专家解读",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E6%80%8E%E4%B9%88%E5%A1%AB%E6%8A%A5%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
         },
         {
           "title": "今起多地高考成绩陆续公布",
@@ -158,15 +235,15 @@
           "time_info": "[14时41分 ~ 18时31分]"
         },
         {
-          "title": "上海高考分数线公布",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "天津2026高考分数线公布",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A52026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "2026高考成绩将陆续公布",
@@ -178,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "上海高考分数线公布",
-          "url": "https://www.douyin.com/hot/2545013",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
         },
         {
           "title": "当你穿越回高考出分前一天",
@@ -203,15 +269,26 @@
           "time_info": "[05时29分 ~ 07时14分]"
         },
         {
-          "title": "上海高考查分",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
-          "source": "百度热搜",
+          "title": "贾浅浅被指抄袭贾平凹，陕西省教育厅最新回应",
+          "url": "https://news.ifeng.com/c/8uCBYt8kz9u",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
+          "time_info": "[21时37分 ~ 21时38分]"
+        },
+        {
+          "title": "天津高考查分",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "女孩中考查分查到隐藏款",
@@ -225,26 +302,37 @@
           "time_info": "[18时29分 ~ 18时31分]"
         },
         {
-          "title": "如何看待南京大学陈昌凯老师在本科生毕业典礼上没有谈成功与理想，而是叮嘱毕业生「按时吃饭、好好睡觉」？",
-          "url": "https://www.zhihu.com/question/2052360231389066372",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
-        },
-        {
-          "title": "高考志愿怎么填报？专家解读",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E6%80%8E%E4%B9%88%E5%A1%AB%E6%8A%A5%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB",
+          "title": "“你只是高考完了 不是家里发财了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BD%A0%E5%8F%AA%E6%98%AF%E9%AB%98%E8%80%83%E5%AE%8C%E4%BA%86+%E4%B8%8D%E6%98%AF%E5%AE%B6%E9%87%8C%E5%8F%91%E8%B4%A2%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            21
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时31分]"
+          "time_info": "[21时37分 ~ 21时38分]"
+        },
+        {
+          "title": "查高考分数时的我",
+          "url": "https://www.douyin.com/hot/2543970",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
+        },
+        {
+          "title": "2026天津高考分数线",
+          "url": "https://s.weibo.com/weibo?q=%232026%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "今年中考作文难吗",
