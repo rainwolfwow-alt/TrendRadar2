@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T19:40:37.209301+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-06-24T22:10:30.530300+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 90,
+      "match_count": 99,
       "titles": [
         {
           "title": "急哭!吧友坐等高考出分",
@@ -17,11 +17,12 @@
             4,
             8,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 19时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 22时10分]"
         },
         {
           "title": "2026天津高考出分",
@@ -37,6 +38,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 12时59分]"
+        },
+        {
+          "title": "高考分数出炉,考生集体报喜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355606&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%87%BA%E7%82%89%2C%E8%80%83%E7%94%9F%E9%9B%86%E4%BD%93%E6%8A%A5%E5%96%9C",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 22时10分]"
         },
         {
           "title": "高考志愿填报遵循9个字",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 08时03分]"
-        },
-        {
-          "title": "高考分数出炉,考生集体报喜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355606&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%87%BA%E7%82%89%2C%E8%80%83%E7%94%9F%E9%9B%86%E4%BD%93%E6%8A%A5%E5%96%9C",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时40分]"
         },
         {
           "title": "高考分数线",
@@ -113,6 +114,54 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 08时03分]"
+        },
+        {
+          "title": "河北2026高考分数线公布",
+          "url": "https://www.douyin.com/hot/2545962",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 22时10分]"
+        },
+        {
+          "title": "江苏2026高考分数线公布",
+          "url": "https://www.douyin.com/hot/2546047",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 22时10分]"
+        },
+        {
+          "title": "我的高考出分时刻",
+          "url": "https://www.douyin.com/hot/2545334",
+          "source": "抖音",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 22时10分]"
+        },
+        {
+          "title": "家长发愁孩子高考后消费账单，一句「你只是高考完了，不是家里发财了」引发共鸣，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2052870237394149872",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 22时10分]"
         },
         {
           "title": "河北高考分数线",
@@ -193,15 +242,15 @@
           "time_info": "12时59分"
         },
         {
-          "title": "沉浸式高考查分",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
-          "source": "bilibili 热搜",
+          "title": "河南高考分数线公布",
+          "url": "https://www.toutiao.com/trending/7654783511912169510/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "22时10分"
         },
         {
           "title": "江苏高考分数线",
@@ -210,20 +259,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
         {
-          "title": "河北2026高考分数线公布",
-          "url": "https://www.douyin.com/hot/2545962",
-          "source": "抖音",
+          "title": "河南高考分数线",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "22时10分"
         },
         {
           "title": "今天开始高考查分",
@@ -264,18 +313,6 @@
           "time_info": "[00时23分 ~ 08时03分]"
         },
         {
-          "title": "我的高考出分时刻",
-          "url": "https://www.douyin.com/hot/2545334",
-          "source": "抖音",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时40分]"
-        },
-        {
           "title": "江苏高考分数线：本科物理类456分",
           "url": "https://www.toutiao.com/trending/7654863365361225226/",
           "source": "今日头条",
@@ -285,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "河南2026年高考分数线公布",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%972026%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "广东高考分数线",
@@ -298,17 +346,6 @@
           "time_info": "12时59分"
         },
         {
-          "title": "江苏2026高考分数线公布",
-          "url": "https://www.douyin.com/hot/2546047",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "2026年高考分数线汇总",
           "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -318,17 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "家长发愁孩子高考后消费账单，一句「你只是高考完了，不是家里发财了」引发共鸣，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/2052870237394149872",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "挖眼案受害者高考位列全国同专业第一",
@@ -342,6 +368,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "河南高考分数线公布",
+          "url": "https://www.douyin.com/hot/2546471",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "高考658分全家人原地蹦起",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83658%E5%88%86%E5%85%A8%E5%AE%B6%E4%BA%BA%E5%8E%9F%E5%9C%B0%E8%B9%A6%E8%B5%B7",
           "source": "百度热搜",
@@ -353,26 +390,18 @@
           "time_info": "16时22分"
         },
         {
-          "title": "高考出分瞬间整个教师办公室沸腾了",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%9E%AC%E9%97%B4%E6%95%B4%E4%B8%AA%E6%95%99%E5%B8%88%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%B2%B8%E8%85%BE%E4%BA%86",
-          "source": "百度热搜",
+          "title": "广东高考分数线公布",
+          "url": "https://www.toutiao.com/trending/7654185909750923300/",
+          "source": "今日头条",
           "ranks": [
-            5
+            5,
+            8,
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "2026高考分数线",
-          "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 22时10分]"
         },
         {
           "title": "中考查分瞬间",
@@ -423,6 +452,18 @@
           "time_info": "[00时23分 ~ 07时02分]"
         },
         {
+          "title": "沉浸式高考查分",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 22时10分]"
+        },
+        {
           "title": "北京中考",
           "url": "https://www.douyin.com/hot/2545569",
           "source": "抖音",
@@ -436,29 +477,78 @@
           "time_info": "[12时59分 ~ 19时40分]"
         },
         {
-          "title": "广东高考分数线公布",
-          "url": "https://www.toutiao.com/trending/7654185909750923300/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时40分]"
-        },
-        {
           "title": "江苏2026高考分数线公布",
           "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F2026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
             13,
-            2
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 22时10分]"
+        },
+        {
+          "title": "高考查分",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 22时10分]"
+        },
+        {
+          "title": "2026高考分数线",
+          "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时40分]"
+          "time_info": "[19时40分 ~ 22时10分]"
+        },
+        {
+          "title": "高考出分瞬间整个教师办公室沸腾了",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E7%9E%AC%E9%97%B4%E6%95%B4%E4%B8%AA%E6%95%99%E5%B8%88%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%B2%B8%E8%85%BE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 22时10分]"
+        },
+        {
+          "title": "2026年各地高考分数线汇总",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 22时10分]"
+        },
+        {
+          "title": "记录高考查分瞬间",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E5%BD%95%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            13,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 22时10分]"
         },
         {
           "title": "当你穿越回高考出分前一天",
@@ -472,17 +562,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时26分 ~ 08时03分]"
-        },
-        {
-          "title": "高考查分",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时40分]"
         },
         {
           "title": "小学教师代课 37 年半未交社保，当地教育局回应补缴诉求称「没有先例」，如何看待该回应？应该补缴吗？",
@@ -523,29 +602,27 @@
           "time_info": "[08时03分 ~ 16时22分]"
         },
         {
-          "title": "2026年各地高考分数线汇总",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB",
-          "source": "百度热搜",
+          "title": "中考后的第一条抖音",
+          "url": "https://www.douyin.com/hot/2545604",
+          "source": "抖音",
           "ranks": [
-            16,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时40分]"
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 22时10分]"
         },
         {
-          "title": "记录高考查分瞬间",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E5%BD%95%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E7%9E%AC%E9%97%B4",
-          "source": "bilibili 热搜",
+          "title": "黑龙江2026高考分数线公布",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F2026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            13,
+            8,
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时40分]"
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 22时10分]"
         },
         {
           "title": "爸爸突然回家女儿闪现回屋假装写作业",
@@ -646,18 +723,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "黑龙江2026高考分数线公布",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F2026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -671,17 +737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "中考后的第一条抖音",
-          "url": "https://www.douyin.com/hot/2545604",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "高考生必看：啥是断档滑档退档掉档",
@@ -728,13 +783,24 @@
           "time_info": "16时22分"
         },
         {
+          "title": "内蒙古多地有人夜放烟花庆祝高考放榜，被指影响中考",
+          "url": "https://news.ifeng.com/c/8uDqtc9O8OL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "辽宁物理类本科线344分",
           "url": "https://www.toutiao.com/trending/7654889071126416906/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -800,9 +866,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "江苏高考查分",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "三大指数集体翻绿，微盘股指数跌超4%，影视、教育、旅游、煤炭等板块跌幅居前，全市场下跌个股超4600只。",
@@ -822,7 +899,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -844,9 +921,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "持续更新丨各省份高考分数线陆续公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33442245",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "挖眼案受害男孩高考721分班主任发声",
@@ -866,7 +954,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -888,7 +976,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -921,7 +1009,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -932,7 +1020,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -943,7 +1031,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -981,6 +1069,28 @@
           "time_info": "12时59分"
         },
         {
+          "title": "女生高考查出690分激动落泪",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%87%BA690%E5%88%86%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "高考686分考生分享英语逆袭秘诀",
+          "url": "https://www.toutiao.com/trending/7654889724171288619/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "高考志愿填报攻略来了",
           "url": "https://www.toutiao.com/trending/7654542917733744649/",
           "source": "今日头条",
@@ -1009,7 +1119,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1020,7 +1130,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
