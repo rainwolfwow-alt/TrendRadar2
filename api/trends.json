@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-26T10:35:05.654597+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-06-26T14:45:44.518414+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 46,
+      "match_count": 55,
       "titles": [
         {
           "title": "高考分数线公布,文科稳理科降",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355640&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83%2C%E6%96%87%E7%A7%91%E7%A8%B3%E7%90%86%E7%A7%91%E9%99%8D",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 14时45分]"
         },
         {
           "title": "高考出分名场面",
@@ -30,6 +31,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 10时35分]"
+        },
+        {
+          "title": "复旦出考神,沪女生高考631分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            6,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 14时45分]"
         },
         {
           "title": "作文以去世父亲为题男生高考653分",
@@ -55,20 +71,6 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
-          "title": "复旦出考神,沪女生高考631分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 10时35分]"
-        },
-        {
           "title": "高考后的独白",
           "url": "https://www.douyin.com/hot/2546594",
           "source": "抖音",
@@ -92,6 +94,37 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时03分 ~ 07时10分]"
+        },
+        {
+          "title": "高考分数线全部公布",
+          "url": "https://www.toutiao.com/trending/7655263058239000110/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            17,
+            20,
+            16,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 14时45分]"
+        },
+        {
+          "title": "高考分数出炉,考生集体报喜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355606&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%87%BA%E7%82%89%2C%E8%80%83%E7%94%9F%E9%9B%86%E4%BD%93%E6%8A%A5%E5%96%9C",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21,
+            23,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 14时45分]"
         },
         {
           "title": "30岁重新高考学2个月583分",
@@ -126,35 +159,6 @@
             23,
             18,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 10时35分]"
-        },
-        {
-          "title": "高考分数线全部公布",
-          "url": "https://www.toutiao.com/trending/7655263058239000110/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            17,
-            20,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 10时35分]"
-        },
-        {
-          "title": "高考分数出炉,考生集体报喜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355606&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%87%BA%E7%82%89%2C%E8%80%83%E7%94%9F%E9%9B%86%E4%BD%93%E6%8A%A5%E5%96%9C",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21,
-            23,
-            25
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -199,17 +203,6 @@
           "time_info": "[00时17分 ~ 10时35分]"
         },
         {
-          "title": "高考志愿填报有哪些误区",
-          "url": "https://www.douyin.com/hot/2547535",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
           "title": "高考分数线全部公布！汇总来了",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%A8%E9%83%A8%E5%85%AC%E5%B8%83%EF%BC%81%E6%B1%87%E6%80%BB%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -219,17 +212,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
-          "title": "高考第七课走出考场走进热爱",
-          "url": "https://www.douyin.com/hot/2547464",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "高考成绩被屏蔽是什么体验",
@@ -304,6 +286,86 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 07时10分]"
+        },
+        {
+          "title": "高考691分广州学霸忍痛拒绝清北",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83691%E5%88%86%E5%B9%BF%E5%B7%9E%E5%AD%A6%E9%9C%B8%E5%BF%8D%E7%97%9B%E6%8B%92%E7%BB%9D%E6%B8%85%E5%8C%97",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "高考志愿填报有哪些误区",
+          "url": "https://www.douyin.com/hot/2547535",
+          "source": "抖音",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
+          "title": "毕业生邀老板合照：本科到博士吃7年",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%95%E4%B8%9A%E7%94%9F%E9%82%80%E8%80%81%E6%9D%BF%E5%90%88%E7%85%A7%EF%BC%9A%E6%9C%AC%E7%A7%91%E5%88%B0%E5%8D%9A%E5%A3%AB%E5%90%837%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "这名带着气胸引流管高考的同学有望上清华，他说考试那天比任何时候都平静",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33452365",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
+          "title": "一只手撑着眼皮考完的高考生出分了",
+          "url": "https://www.toutiao.com/trending/7654814087100088326/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "高考分太低,海南全家游泡汤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355663&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E5%A4%AA%E4%BD%8E%2C%E6%B5%B7%E5%8D%97%E5%85%A8%E5%AE%B6%E6%B8%B8%E6%B3%A1%E6%B1%A4",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "高考第七课走出考场走进热爱",
+          "url": "https://www.douyin.com/hot/2547464",
+          "source": "抖音",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时45分]"
         },
         {
           "title": "海南考生高考794分 称发挥失常",
@@ -393,6 +455,18 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
+          "title": "男生带着气胸引流管参加高考如今有望进清华，主诊医生记住了他当时的从容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451661",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
           "title": "女孩高考查分激动落泪：我能上复旦了",
           "url": "https://www.toutiao.com/trending/7655111946324262954/",
           "source": "今日头条",
@@ -425,17 +499,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "这名带着气胸引流管高考的同学有望上清华，他说考试那天比任何时候都平静",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33452365",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "当蔡依林看见今年的高考作文题",
@@ -493,17 +556,6 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
-          "title": "男生带着气胸引流管参加高考如今有望进清华，主诊医生记住了他当时的从容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451661",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
           "title": "湖北高考600分及以上26883人",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E8%80%83600%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A26883%E4%BA%BA",
           "source": "百度热搜",
@@ -538,6 +590,50 @@
           "time_info": "[07时09分 ~ 07时10分]"
         },
         {
+          "title": "先高考再中考的初三女生高考614分",
+          "url": "https://www.baidu.com/s?wd=%E5%85%88%E9%AB%98%E8%80%83%E5%86%8D%E4%B8%AD%E8%80%83%E7%9A%84%E5%88%9D%E4%B8%89%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83614%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "高考682分清华学霸粉丝超770万",
+          "url": "https://www.toutiao.com/trending/7655210462188027958/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "高考出分老师冲进办公室报喜",
+          "url": "https://www.toutiao.com/trending/7654781610101293062/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "三胞胎兄弟高考成绩均超640分",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%9D%87%E8%B6%85640%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "四川高考分数线公布",
           "url": "https://www.toutiao.com/trending/7655248566848340006/",
           "source": "今日头条",
@@ -547,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "高考673分男生分享提分心得",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83673%E5%88%86%E7%94%B7%E7%94%9F%E5%88%86%E4%BA%AB%E6%8F%90%E5%88%86%E5%BF%83%E5%BE%97",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "双胞胎姐妹高考成绩超预期还学会厨艺",
