@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:16:28.948900+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-06-26T21:05:13.794629+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "复旦出考神,沪女生高考631分",
@@ -17,24 +17,12 @@
             6,
             8,
             12,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 18时16分]"
-        },
-        {
-          "title": "高考分数线公布,文科稳理科降",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355640&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83%2C%E6%96%87%E7%A7%91%E7%A8%B3%E7%90%86%E7%A7%91%E9%99%8D",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 21时05分]"
         },
         {
           "title": "高考出分名场面",
@@ -48,6 +36,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 10时35分]"
+        },
+        {
+          "title": "高考分数线公布,文科稳理科降",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355640&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83%2C%E6%96%87%E7%A7%91%E7%A8%B3%E7%90%86%E7%A7%91%E9%99%8D",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            11,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 21时05分]"
         },
         {
           "title": "作文以去世父亲为题男生高考653分",
@@ -167,6 +169,19 @@
           "time_info": "[00时17分 ~ 10时35分]"
         },
         {
+          "title": "这名带着气胸引流管高考的同学有望上清华，他说考试那天比任何时候都平静",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33452365",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 21时05分]"
+        },
+        {
           "title": "693分高考生刚上高中时成绩全校中游",
           "url": "https://www.toutiao.com/trending/7654521821681434650/",
           "source": "今日头条",
@@ -227,18 +242,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
-          "title": "这名带着气胸引流管高考的同学有望上清华，他说考试那天比任何时候都平静",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33452365",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 18时16分]"
         },
         {
           "title": "高考成绩被屏蔽是什么体验",
@@ -332,7 +335,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -343,7 +346,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -359,15 +362,17 @@
           "time_info": "14时45分"
         },
         {
-          "title": "海南高考800分及以上111人",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E9%AB%98%E8%80%83800%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A111%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "高考分太低,海南全家游泡汤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355663&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E5%A4%AA%E4%BD%8E%2C%E6%B5%B7%E5%8D%97%E5%85%A8%E5%AE%B6%E6%B8%B8%E6%B3%A1%E6%B1%A4",
+          "source": "贴吧",
           "ranks": [
-            5
+            5,
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 21时05分]"
         },
         {
           "title": "高考第七课走出考场走进热爱",
@@ -380,6 +385,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 14时45分]"
+        },
+        {
+          "title": "海南高考800分及以上111人",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E9%AB%98%E8%80%83800%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A111%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 21时05分]"
         },
         {
           "title": "海南考生高考794分 称发挥失常",
@@ -406,18 +423,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 10时35分]"
-        },
-        {
-          "title": "高考分太低,海南全家游泡汤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355663&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E5%A4%AA%E4%BD%8E%2C%E6%B5%B7%E5%8D%97%E5%85%A8%E5%AE%B6%E6%B8%B8%E6%B3%A1%E6%B1%A4",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 18时16分]"
         },
         {
           "title": "一只手撑着眼皮考完的高考生出分了",
@@ -504,6 +509,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 07时10分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 21时05分]"
         },
         {
           "title": "女孩高考查分激动落泪：我能上复旦了",
@@ -630,6 +647,17 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
+          "title": "高考志愿怎么填",
+          "url": "https://www.toutiao.com/trending/7655335251271499822/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
+        {
           "title": "高考后该如何重新出发",
           "url": "https://www.douyin.com/hot/2546591",
           "source": "抖音",
@@ -639,17 +667,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 07时10分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "高考682分清华学霸粉丝超770万",
@@ -680,7 +697,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -702,7 +719,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
