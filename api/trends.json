@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T07:10:06.720227+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-06-26T10:35:05.654597+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 36,
+      "match_count": 46,
       "titles": [
         {
           "title": "高考分数线公布,文科稳理科降",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时35分]"
         },
         {
           "title": "高考出分名场面",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            1
+            1,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时35分]"
         },
         {
           "title": "作文以去世父亲为题男生高考653分",
@@ -60,11 +61,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时35分]"
         },
         {
           "title": "高考后的独白",
@@ -104,6 +106,61 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
+          "title": "宁波东方理工大学公布今年本科新生学费减免政策：9.6万元减免9万",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450032",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时35分]"
+        },
+        {
+          "title": "2026高考分数线",
+          "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            23,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时35分]"
+        },
+        {
+          "title": "高考分数线全部公布",
+          "url": "https://www.toutiao.com/trending/7655263058239000110/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            17,
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时35分]"
+        },
+        {
+          "title": "高考分数出炉,考生集体报喜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355606&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%87%BA%E7%82%89%2C%E8%80%83%E7%94%9F%E9%9B%86%E4%BD%93%E6%8A%A5%E5%96%9C",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 10时35分]"
+        },
+        {
           "title": "693分高考生刚上高中时成绩全校中游",
           "url": "https://www.toutiao.com/trending/7654521821681434650/",
           "source": "今日头条",
@@ -128,6 +185,31 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
+          "title": "高考失利要复读吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E8%A6%81%E5%A4%8D%E8%AF%BB%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            25,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 10时35分]"
+        },
+        {
+          "title": "高考志愿填报有哪些误区",
+          "url": "https://www.douyin.com/hot/2547535",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
           "title": "高考分数线全部公布！汇总来了",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%A8%E9%83%A8%E5%85%AC%E5%B8%83%EF%BC%81%E6%B1%87%E6%80%BB%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -139,6 +221,28 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
+          "title": "高考第七课走出考场走进热爱",
+          "url": "https://www.douyin.com/hot/2547464",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "高考成绩被屏蔽是什么体验",
+          "url": "https://www.douyin.com/hot/2547599",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
           "title": "高一学生花1个多月备战高考考620分",
           "url": "https://www.toutiao.com/trending/7654206996631502854/",
           "source": "今日头条",
@@ -147,17 +251,6 @@
             10,
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
-          "title": "宁波东方理工大学公布今年本科新生学费减免政策：9.6万元减免9万",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33450032",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -202,46 +295,6 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
-          "title": "高考分数线全部公布",
-          "url": "https://www.toutiao.com/trending/7655263058239000110/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            17,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
-          "title": "2026高考分数线",
-          "url": "https://search.bilibili.com/all?keyword=2026%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
-          "title": "高考分数出炉,考生集体报喜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355606&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%87%BA%E7%82%89%2C%E8%80%83%E7%94%9F%E9%9B%86%E4%BD%93%E6%8A%A5%E5%96%9C",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时10分]"
-        },
-        {
           "title": "高考查分",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86",
           "source": "百度热搜",
@@ -266,17 +319,17 @@
           "time_info": "[00时17分 ~ 07时10分]"
         },
         {
-          "title": "高考失利要复读吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E8%A6%81%E5%A4%8D%E8%AF%BB%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "晗少高考查分",
+          "url": "https://www.douyin.com/hot/2547190",
+          "source": "抖音",
           "ranks": [
-            13,
             25,
-            27
+            27,
+            26
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "time_info": "[00时17分 ~ 10时35分]"
         },
         {
           "title": "卧底高考志愿填报机构",
@@ -352,16 +405,15 @@
           "time_info": "[00时17分 ~ 03时03分]"
         },
         {
-          "title": "晗少高考查分",
-          "url": "https://www.douyin.com/hot/2547190",
-          "source": "抖音",
+          "title": "戍边缉毒警察写高考作文",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%8D%E8%BE%B9%E7%BC%89%E6%AF%92%E8%AD%A6%E5%AF%9F%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            25,
-            27
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 03时03分]"
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "河南 2026 高考分数线公布，历史 459 分，物理 419 分，600 分以上 37544 人，如何看待今年分数线？",
@@ -375,6 +427,17 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
+          "title": "这名带着气胸引流管高考的同学有望上清华，他说考试那天比任何时候都平静",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33452365",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
           "title": "当蔡依林看见今年的高考作文题",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E8%94%A1%E4%BE%9D%E6%9E%97%E7%9C%8B%E8%A7%81%E4%BB%8A%E5%B9%B4%E7%9A%84%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98",
           "source": "bilibili 热搜",
@@ -384,6 +447,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "湖北2026高考分数线公布",
+          "url": "https://www.douyin.com/hot/2547215",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "女孩网红景点坠湖身亡 前天刚中考完",
@@ -397,6 +471,39 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
+          "title": "梁实第30次高考423分",
+          "url": "https://www.toutiao.com/trending/7655051637945352255/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "考生8次模考“失利” 高考逆袭652分",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%94%9F8%E6%AC%A1%E6%A8%A1%E8%80%83%E2%80%9C%E5%A4%B1%E5%88%A9%E2%80%9D+%E9%AB%98%E8%80%83%E9%80%86%E8%A2%AD652%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "男生带着气胸引流管参加高考如今有望进清华，主诊医生记住了他当时的从容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451661",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
           "title": "湖北高考600分及以上26883人",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E9%AB%98%E8%80%83600%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A26883%E4%BA%BA",
           "source": "百度热搜",
@@ -407,6 +514,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 05时24分]"
+        },
+        {
+          "title": "高一生高考620分 已入围中科大少年班",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E7%94%9F%E9%AB%98%E8%80%83620%E5%88%86+%E5%B7%B2%E5%85%A5%E5%9B%B4%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%B0%91%E5%B9%B4%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "高考后该如何重新出发",
