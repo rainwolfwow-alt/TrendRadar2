@@ -1,95 +1,24 @@
 {
-  "generated_at": "2026-06-27T23:10:31.652249+08:00",
-  "total_titles_processed": 1470,
-  "failed_sources": [],
+  "generated_at": "2026-06-28T01:02:12.195868+08:00",
+  "total_titles_processed": 311,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 39,
+      "match_count": 9,
       "titles": [
         {
-          "title": "高中作弊装三年,高考现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355680&amp;topic_name=%E9%AB%98%E4%B8%AD%E4%BD%9C%E5%BC%8A%E8%A3%85%E4%B8%89%E5%B9%B4%2C%E9%AB%98%E8%80%83%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
+          "title": "复旦、同济、上交、北航等多所名校宣布本科扩招，有哪些考量？这会成为普遍趋势吗？",
+          "url": "https://www.zhihu.com/question/2049979083467880201",
+          "source": "知乎",
           "ranks": [
-            1,
-            2,
-            7,
-            10,
-            11,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时24分 ~ 23时10分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            11,
-            12,
-            13,
-            19,
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 23时10分]"
-        },
-        {
-          "title": "高考分太低,海南全家游泡汤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355663&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E5%A4%AA%E4%BD%8E%2C%E6%B5%B7%E5%8D%97%E5%85%A8%E5%AE%B6%E6%B8%B8%E6%B3%A1%E6%B1%A4",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            15,
-            16,
-            17,
-            18,
-            24,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 23时10分]"
-        },
-        {
-          "title": "复旦出考神,沪女生高考631分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            22,
-            23,
-            24,
-            25,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 23时10分]"
-        },
-        {
-          "title": "高考志愿填报有哪些误区",
-          "url": "https://www.douyin.com/hot/2547535",
-          "source": "抖音",
-          "ranks": [
-            7,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 17时25分]"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
           "title": "安徽一高考生因没考好跳河？不实",
@@ -99,389 +28,85 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时40分 ~ 23时10分]"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "高考第七课走出考场走进热爱",
-          "url": "https://www.douyin.com/hot/2547464",
-          "source": "抖音",
-          "ranks": [
-            8,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 17时25分]"
-        },
-        {
-          "title": "高考分数线公布,文科稳理科降",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355640&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83%2C%E6%96%87%E7%A7%91%E7%A8%B3%E7%90%86%E7%A7%91%E9%99%8D",
+          "title": "高中作弊装三年,高考现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355680&amp;topic_name=%E9%AB%98%E4%B8%AD%E4%BD%9C%E5%BC%8A%E8%A3%85%E4%B8%89%E5%B9%B4%2C%E9%AB%98%E8%80%83%E7%8E%B0%E5%8E%9F%E5%BD%A2",
           "source": "贴吧",
           "ranks": [
-            18,
-            21,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 10时40分]"
-        },
-        {
-          "title": "爸爸30年前清华毕业 女孩高考708分",
-          "url": "https://www.toutiao.com/trending/7655193698527658011/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "多地今日开启高考志愿填报工作",
-          "url": "https://www.douyin.com/hot/2549285",
-          "source": "抖音",
-          "ranks": [
-            6,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 21时15分]"
-        },
-        {
-          "title": "高考716分考生：努力比天赋更重要",
-          "url": "https://www.toutiao.com/trending/7655297042735628324/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "复旦、同济、上交、北航等多所名校宣布本科扩招，有哪些考量？这会成为普遍趋势吗？",
-          "url": "https://www.zhihu.com/question/2049979083467880201",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 23时10分]"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "长腿女孩身高178cm高考617分",
-          "url": "https://www.toutiao.com/trending/7655552569800081427/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "挪威石油服务企业停工令生效，扰乱海上钻井作业",
-          "url": "https://flash.jin10.com/detail/20260627131551695800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "女生高考政治竟然考出满分100",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%94%BF%E6%B2%BB%E7%AB%9F%E7%84%B6%E8%80%83%E5%87%BA%E6%BB%A1%E5%88%86100",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时15分]"
-        },
-        {
-          "title": "女生高考近700分：不比吃穿比学习",
-          "url": "https://www.toutiao.com/trending/7655555813587664950/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            17,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 06时05分]"
-        },
-        {
-          "title": "高考没有考出很好的成绩怎么办？",
-          "url": "https://www.zhihu.com/question/2053466684804044254",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 23时10分]"
-        },
-        {
-          "title": "女生高考政治考出满分100",
-          "url": "https://www.toutiao.com/trending/7655228594176655402/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时14分 ~ 23时10分]"
-        },
-        {
-          "title": "女孩高考664分打算上军校",
-          "url": "https://www.toutiao.com/trending/7654821880532041770/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时25分]"
-        },
-        {
-          "title": "深外美女学霸高考分数达清北线",
-          "url": "https://www.toutiao.com/trending/7654951954669846591/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时28分]"
-        },
-        {
-          "title": "高考716分男生中考语文仅98分",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83716%E5%88%86%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83%E8%AF%AD%E6%96%87%E4%BB%8598%E5%88%86%23&t=31&band_rank=7&Refer=top",
+          "title": "高考699分女生父亲发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83699%E5%88%86%E5%A5%B3%E7%94%9F%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "长沙学霸谈高考制胜秘诀",
-          "url": "https://www.toutiao.com/trending/7655542961849057307/",
+          "title": "高考生烤肉店打工时查分激动到哭",
+          "url": "https://www.toutiao.com/trending/7655329670757417002/",
           "source": "今日头条",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "母亲残疾父亲务农 河南女孩高考699分",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%AE%8B%E7%96%BE%E7%88%B6%E4%BA%B2%E5%8A%A1%E5%86%9C+%E6%B2%B3%E5%8D%97%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83699%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "UP主体验重返高考",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BD%93%E9%AA%8C%E9%87%8D%E8%BF%94%E9%AB%98%E8%80%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "长腿女孩身高178cm高考617分",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E8%85%BF%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%98178cm%E9%AB%98%E8%80%83617%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "女孩高考708分称清华爸爸是榜样",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83708%E5%88%86%E7%A7%B0%E6%B8%85%E5%8D%8E%E7%88%B8%E7%88%B8%E6%98%AF%E6%A6%9C%E6%A0%B7%23&t=31&band_rank=22&Refer=top",
+          "title": "三战高考女孩查分大哭看哭网友",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%88%98%E9%AB%98%E8%80%83%E5%A5%B3%E5%AD%A9%E6%9F%A5%E5%88%86%E5%A4%A7%E5%93%AD%E7%9C%8B%E5%93%AD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "被民警背进考场的考生高考595分",
-          "url": "https://www.toutiao.com/trending/7655089794686533658/",
-          "source": "今日头条",
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "东莞一考生高考691分数学141分",
-          "url": "https://www.toutiao.com/trending/7655631131198652457/",
-          "source": "今日头条",
+          "title": "高考分太低,海南全家游泡汤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355663&amp;topic_name=%E9%AB%98%E8%80%83%E5%88%86%E5%A4%AA%E4%BD%8E%2C%E6%B5%B7%E5%8D%97%E5%85%A8%E5%AE%B6%E6%B8%B8%E6%B3%A1%E6%B1%A4",
+          "source": "贴吧",
           "ranks": [
-            25,
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 23时10分]"
+          "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "法国高温留学生称二手空调卖280欧",
-          "url": "https://www.toutiao.com/trending/7655187296526647337/",
-          "source": "今日头条",
+          "title": "复旦出考神,沪女生高考631分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355648&amp;topic_name=%E5%A4%8D%E6%97%A6%E5%87%BA%E8%80%83%E7%A5%9E%2C%E6%B2%AA%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83631%E5%88%86",
+          "source": "贴吧",
           "ranks": [
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时24分 ~ 02时25分]"
-        },
-        {
-          "title": "如何看待韩国因韩剧《铁拳教育》而筹备成立教权局，算不算敢拍的韩剧对现实的影响？",
-          "url": "https://www.zhihu.com/question/2050581132492781469",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "男生高考662分 爸爸从小陪着打游戏",
-          "url": "https://www.toutiao.com/trending/7655533127741538310/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "北京高考分数线公布",
-          "url": "https://www.douyin.com/hot/2546702",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "高考分数",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "委内瑞拉石油部长：石油作业正常，油井处于活跃状态，总产量为每天120万桶。",
-          "url": "https://flash.jin10.com/detail/20260627040320882800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "南航发布2026本科招生宣传片",
-          "url": "https://www.toutiao.com/trending/7655222569628450835/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "深圳凭颜值上热搜女生高考出分了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%87%AD%E9%A2%9C%E5%80%BC%E4%B8%8A%E7%83%AD%E6%90%9C%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "17岁患癌男生回应高考620分",
-          "url": "https://s.weibo.com/weibo?q=%2317%E5%B2%81%E6%82%A3%E7%99%8C%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83620%E5%88%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "17岁患癌男生回应高考620分",
-          "url": "https://www.baidu.com/s?wd=17%E5%B2%81%E6%82%A3%E7%99%8C%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83620%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "高考查分",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "[01时00分 ~ 01时02分]"
         }
       ]
     }
