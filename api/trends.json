@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-06-28T20:13:43.069550+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-06-28T22:44:11.241642+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "真人真事,高考作弊哥陨落记",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355700&amp;topic_name=%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B%2C%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%93%A5%E9%99%A8%E8%90%BD%E8%AE%B0",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 22时44分]"
+        },
+        {
+          "title": "有清北的实力却只考了大专，在大学怎么平衡心态？",
+          "url": "https://www.zhihu.com/question/14594933986",
+          "source": "知乎",
+          "ranks": [
+            18,
+            4,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时57分 ~ 22时44分]"
+        },
         {
           "title": "高中作弊装三年,高考现原形",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355680&amp;topic_name=%E9%AB%98%E4%B8%AD%E4%BD%9C%E5%BC%8A%E8%A3%85%E4%B8%89%E5%B9%B4%2C%E9%AB%98%E8%80%83%E7%8E%B0%E5%8E%9F%E5%BD%A2",
@@ -20,8 +45,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时00分 ~ 20时13分]"
+          "appearance_count": 16,
+          "time_info": "[01时00分 ~ 22时44分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -35,8 +60,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时00分 ~ 20时13分]"
+          "appearance_count": 16,
+          "time_info": "[01时00分 ~ 22时44分]"
         },
         {
           "title": "高考分太低,海南全家游泡汤",
@@ -50,17 +75,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时00分 ~ 11时26分]"
-        },
-        {
-          "title": "真人真事,高考作弊哥陨落记",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355700&amp;topic_name=%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B%2C%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%93%A5%E9%99%A8%E8%90%BD%E8%AE%B0",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 20时13分]"
         },
         {
           "title": "高考699分女生父亲发声",
@@ -89,19 +103,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时00分 ~ 07时58分]"
-        },
-        {
-          "title": "有清北的实力却只考了大专，在大学怎么平衡心态？",
-          "url": "https://www.zhihu.com/question/14594933986",
-          "source": "知乎",
-          "ranks": [
-            18,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时57分 ~ 20时13分]"
         },
         {
           "title": "复旦、同济、上交、北航等多所名校宣布本科扩招，有哪些考量？这会成为普遍趋势吗？",
@@ -188,6 +189,17 @@
           "time_info": "[04时04分 ~ 07时58分]"
         },
         {
+          "title": "高考报志愿优先考虑城市学校还是专业",
+          "url": "https://www.toutiao.com/trending/7655444972140838975/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
           "url": "https://www.zhihu.com/question/2053468017514602830",
           "source": "知乎",
@@ -198,6 +210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 15时45分]"
+        },
+        {
+          "title": "请问亲子阅读时，总是被孩子各种问题打断，你们会怎么处理？",
+          "url": "https://www.zhihu.com/question/1991469540165567634",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "女生高考政治考出满分100",
