@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T02:01:34.547630+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-06-29T03:23:40.995186+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时23分]"
         },
         {
           "title": "高中作弊装三年,高考现原形",
@@ -28,30 +28,32 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时23分]"
         },
         {
           "title": "有清北的实力却只考了大专，在大学怎么平衡心态？",
           "url": "https://www.zhihu.com/question/14594933986",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时23分]"
         },
         {
           "title": "河南一考生高考703分",
           "url": "https://www.toutiao.com/trending/7655609176413503534/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时23分]"
         },
         {
           "title": "假如洛神赋是高考作文",
