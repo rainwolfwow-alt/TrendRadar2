@@ -1,33 +1,57 @@
 {
-  "generated_at": "2026-06-29T00:04:27.303701+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-29T02:01:34.547630+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "真人真事,高考作弊哥陨落记",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355700&amp;topic_name=%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B%2C%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%93%A5%E9%99%A8%E8%90%BD%E8%AE%B0",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "高中作弊装三年,高考现原形",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355680&amp;topic_name=%E9%AB%98%E4%B8%AD%E4%BD%9C%E5%BC%8A%E8%A3%85%E4%B8%89%E5%B9%B4%2C%E9%AB%98%E8%80%83%E7%8E%B0%E5%8E%9F%E5%BD%A2",
           "source": "贴吧",
           "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时01分]"
+        },
+        {
+          "title": "有清北的实力却只考了大专，在大学怎么平衡心态？",
+          "url": "https://www.zhihu.com/question/14594933986",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时01分]"
+        },
+        {
+          "title": "河南一考生高考703分",
+          "url": "https://www.toutiao.com/trending/7655609176413503534/",
+          "source": "今日头条",
+          "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时01分]"
         },
         {
           "title": "假如洛神赋是高考作文",
