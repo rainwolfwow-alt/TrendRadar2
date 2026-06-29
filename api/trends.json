@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T06:49:05.010149+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-06-30T07:56:24.209877+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         },
         {
           "title": "教育发展“十五五”规划",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
-        },
-        {
-          "title": "国务院印发《教育发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2411815",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         },
         {
           "title": "委内瑞拉地震废墟清理作业，突发强烈燃气爆炸",
@@ -48,8 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
+        },
+        {
+          "title": "国务院印发《教育发展“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2411815",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         },
         {
           "title": "高考志愿填报专业怎么选",
@@ -57,11 +58,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         },
         {
           "title": "本科毕业生为何涌入专科学校",
@@ -71,11 +73,12 @@
             2,
             5,
             24,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         },
         {
           "title": "国务院：探索延长义务教育年限",
@@ -85,11 +88,12 @@
             21,
             8,
             26,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         },
         {
           "title": "高考生在家中登录省级招生考试机构系统，篡改7名同学第一志愿",
@@ -99,8 +103,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         },
         {
           "title": "真人真事,高考作弊哥陨落记",
@@ -111,8 +115,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时56分]"
         }
       ]
     }
