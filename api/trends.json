@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:25:14.081176+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-06-29T18:25:38.990508+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 8,
+      "match_count": 20,
       "titles": [
         {
           "title": "真人真事,高考作弊哥陨落记",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 13时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 18时25分]"
         },
         {
           "title": "高中作弊装三年,高考现原形",
@@ -60,6 +61,28 @@
           "time_info": "[01时59分 ~ 06时56分]"
         },
         {
+          "title": "高考志愿填报专业怎么选",
+          "url": "https://www.douyin.com/hot/2551262",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报广西壮族自治区南宁市、甘肃省酒泉市新城区、浙江省杭州市萧山区3起政绩观偏差问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472291",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 18时25分]"
+        },
+        {
           "title": "《铁拳教育》很敢拍，观众看得很爽，也很不适",
           "url": "https://m.thepaper.cn/newsDetail_forward_33445578",
           "source": "澎湃新闻",
@@ -71,15 +94,125 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
-          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报广西壮族自治区南宁市、甘肃省酒泉市新城区、浙江省杭州市萧山区3起政绩观偏差问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33472291",
-          "source": "澎湃新闻",
+          "title": "网警提醒4类“高考查分陷阱”",
+          "url": "https://www.toutiao.com/trending/7656705144813407782/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "网警提醒4类“高考查分陷阱”",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%924%E7%B1%BB%E2%80%9C%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%99%B7%E9%98%B1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "网警提醒警惕高考查分陷阱",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%99%B7%E9%98%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "网警提醒4类“高考查分陷阱”",
+          "url": "https://www.douyin.com/hot/2551748",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育 提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "高考生在家中登录省级招生考试机构系统，篡改7名同学第一志愿",
+          "url": "https://news.ifeng.com/c/8uLyAsirPw5",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "网传 2026 年新高考数学全国 1 卷仅一人满分，是真的吗？数学一卷真的这么难吗？",
+          "url": "https://www.zhihu.com/question/2053386554400142403",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "互助版模拟高考志愿填报",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%92%E5%8A%A9%E7%89%88%E6%A8%A1%E6%8B%9F%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126032",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "国务院印发《教育发展“十五五”规划》",
+          "url": "https://wallstreetcn.com/livenews/3126028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：受美国采取激进措施影响，霍尔木兹海峡航运活动有所减少，目前船舶过境作业通过伊朗航道进行。",
+          "url": "https://flash.jin10.com/detail/20260629173551889800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "温州学子高考数学满分 分享学习经验",
