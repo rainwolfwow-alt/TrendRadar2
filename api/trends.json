@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T05:18:53.017293+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-06-30T06:49:05.010149+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         },
         {
           "title": "教育发展“十五五”规划",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         },
         {
           "title": "国务院印发《教育发展“十五五”规划》",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         },
         {
           "title": "委内瑞拉地震废墟清理作业，突发强烈燃气爆炸",
@@ -48,8 +48,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
+        },
+        {
+          "title": "高考志愿填报专业怎么选",
+          "url": "https://www.douyin.com/hot/2551262",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         },
         {
           "title": "本科毕业生为何涌入专科学校",
@@ -58,22 +70,12 @@
           "ranks": [
             2,
             5,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
-        },
-        {
-          "title": "高考志愿填报专业怎么选",
-          "url": "https://www.douyin.com/hot/2551262",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         },
         {
           "title": "国务院：探索延长义务教育年限",
@@ -82,11 +84,12 @@
           "ranks": [
             21,
             8,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         },
         {
           "title": "高考生在家中登录省级招生考试机构系统，篡改7名同学第一志愿",
@@ -96,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         },
         {
           "title": "真人真事,高考作弊哥陨落记",
@@ -108,8 +111,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时49分]"
         }
       ]
     }
