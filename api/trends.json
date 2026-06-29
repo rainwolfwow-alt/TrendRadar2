@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-30T01:29:47.352297+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T03:45:59.028502+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 9,
       "titles": [
-        {
-          "title": "本科毕业生为何涌入专科学校",
-          "url": "https://www.toutiao.com/trending/7656787623263866394/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
         {
           "title": "未来五年，教育强国这样建设",
           "url": "https://www.toutiao.com/trending/7656783425231212070/",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
         },
         {
           "title": "教育发展“十五五”规划",
@@ -37,8 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
+        },
+        {
+          "title": "本科毕业生为何涌入专科学校",
+          "url": "https://www.toutiao.com/trending/7656787623263866394/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
         },
         {
           "title": "国务院印发《教育发展“十五五”规划》",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
         },
         {
           "title": "委内瑞拉地震废墟清理作业，突发强烈燃气爆炸",
@@ -59,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
         },
         {
           "title": "高考志愿填报专业怎么选",
@@ -70,8 +71,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
+        },
+        {
+          "title": "国务院：探索延长义务教育年限",
+          "url": "https://www.toutiao.com/trending/7655695666401886244/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
         },
         {
           "title": "高考生在家中登录省级招生考试机构系统，篡改7名同学第一志愿",
@@ -81,30 +94,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "国务院：探索延长义务教育年限",
-          "url": "https://www.toutiao.com/trending/7655695666401886244/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
         },
         {
           "title": "真人真事,高考作弊哥陨落记",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355700&amp;topic_name=%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B%2C%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%93%A5%E9%99%A8%E8%90%BD%E8%AE%B0",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时45分]"
         }
       ]
     }
