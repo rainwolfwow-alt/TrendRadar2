@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T18:25:38.990508+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-06-29T22:43:43.507289+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "真人真事,高考作弊哥陨落记",
@@ -15,11 +15,12 @@
             2,
             1,
             12,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 22时43分]"
         },
         {
           "title": "高中作弊装三年,高考现原形",
@@ -48,6 +49,18 @@
           "time_info": "[01时59分 ~ 08时03分]"
         },
         {
+          "title": "高考志愿填报专业怎么选",
+          "url": "https://www.douyin.com/hot/2551262",
+          "source": "抖音",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时43分]"
+        },
+        {
           "title": "河南一考生高考703分",
           "url": "https://www.toutiao.com/trending/7655609176413503534/",
           "source": "今日头条",
@@ -61,15 +74,59 @@
           "time_info": "[01时59分 ~ 06时56分]"
         },
         {
-          "title": "高考志愿填报专业怎么选",
-          "url": "https://www.douyin.com/hot/2551262",
+          "title": "男生高考695分志愿报考清华",
+          "url": "https://www.toutiao.com/trending/7655730350798700607/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "未来五年，教育强国这样建设",
+          "url": "https://www.toutiao.com/trending/7656783425231212070/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "教育发展“十五五”规划",
+          "url": "https://www.douyin.com/hot/2552261",
           "source": "抖音",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "22时43分"
+        },
+        {
+          "title": "国务院印发《教育发展“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2411815",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "委内瑞拉地震废墟清理作业，突发强烈燃气爆炸",
+          "url": "https://v.ifeng.com/c/8uJusN34wW4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报广西壮族自治区南宁市、甘肃省酒泉市新城区、浙江省杭州市萧山区3起政绩观偏差问题",
@@ -83,6 +140,39 @@
           "time_info": "[13时24分 ~ 18时25分]"
         },
         {
+          "title": "网警提醒4类“高考查分陷阱”",
+          "url": "https://www.toutiao.com/trending/7656705144813407782/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时43分]"
+        },
+        {
+          "title": "网警提醒4类“高考查分陷阱”",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%924%E7%B1%BB%E2%80%9C%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%99%B7%E9%98%B1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时43分]"
+        },
+        {
+          "title": "网警提醒4类“高考查分陷阱”",
+          "url": "https://www.douyin.com/hot/2551748",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时43分]"
+        },
+        {
           "title": "《铁拳教育》很敢拍，观众看得很爽，也很不适",
           "url": "https://m.thepaper.cn/newsDetail_forward_33445578",
           "source": "澎湃新闻",
@@ -94,26 +184,15 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
-          "title": "网警提醒4类“高考查分陷阱”",
-          "url": "https://www.toutiao.com/trending/7656705144813407782/",
-          "source": "今日头条",
+          "title": "高考生在家中登录省级招生考试机构系统，篡改7名同学第一志愿",
+          "url": "https://news.ifeng.com/c/8uLyAsirPw5",
+          "source": "凤凰网",
           "ranks": [
-            6
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "网警提醒4类“高考查分陷阱”",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%924%E7%B1%BB%E2%80%9C%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%99%B7%E9%98%B1%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时43分]"
         },
         {
           "title": "网警提醒警惕高考查分陷阱",
@@ -122,18 +201,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "网警提醒4类“高考查分陷阱”",
-          "url": "https://www.douyin.com/hot/2551748",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -144,18 +212,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "高考生在家中登录省级招生考试机构系统，篡改7名同学第一志愿",
-          "url": "https://news.ifeng.com/c/8uLyAsirPw5",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -166,7 +223,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -177,7 +234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -188,7 +245,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -199,9 +256,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "高考填志愿父亲和女儿产生分歧",
+          "url": "https://www.toutiao.com/trending/7655751189946073097/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "据伊朗法尔斯通讯社：受美国采取激进措施影响，霍尔木兹海峡航运活动有所减少，目前船舶过境作业通过伊朗航道进行。",
@@ -210,7 +278,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
