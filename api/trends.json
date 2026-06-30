@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T02:32:16.273281+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-01T04:53:42.056842+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时53分]"
+        },
+        {
+          "title": "高考志愿怎么填才能避免滑档",
+          "url": "https://www.douyin.com/hot/2552703",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时53分]"
         },
         {
           "title": "教育部发布高考招生防诈骗预警",
@@ -30,27 +42,17 @@
           "time_info": "00时18分"
         },
         {
-          "title": "高考志愿怎么填才能避免滑档",
-          "url": "https://www.douyin.com/hot/2552703",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时32分]"
-        },
-        {
           "title": "男生高考英语147分 字像打印的",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD147%E5%88%86+%E5%AD%97%E5%83%8F%E6%89%93%E5%8D%B0%E7%9A%84",
           "source": "百度热搜",
           "ranks": [
             10,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时53分]"
         },
         {
           "title": "绵阳考生高考估分715查分299？假",
@@ -60,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时53分]"
         },
         {
           "title": "“高考估分715查分299”系谣言",
@@ -71,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时53分]"
         },
         {
           "title": "2026年本科专业热度10强出炉",
@@ -82,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 04时53分]"
         },
         {
           "title": "高考640分男孩暑假打工挣学费",
