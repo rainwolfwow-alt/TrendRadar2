@@ -1,137 +1,12 @@
 {
-  "generated_at": "2026-06-30T21:05:41.096541+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-07-01T00:18:24.860644+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 22,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "未来五年，教育强国这样建设",
-          "url": "https://www.toutiao.com/trending/7656783425231212070/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 10时35分]"
-        },
-        {
-          "title": "教育发展“十五五”规划",
-          "url": "https://www.douyin.com/hot/2552261",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 10时35分]"
-        },
-        {
-          "title": "高考志愿填报专业怎么选",
-          "url": "https://www.douyin.com/hot/2551262",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5,
-            6,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 14时50分]"
-        },
-        {
-          "title": "委内瑞拉地震废墟清理作业，突发强烈燃气爆炸",
-          "url": "https://v.ifeng.com/c/8uJusN34wW4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "国务院印发《教育发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2411815",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "本科毕业生为何涌入专科学校",
-          "url": "https://www.toutiao.com/trending/7656787623263866394/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            24,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "真人真事,高考作弊哥陨落记",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355700&amp;topic_name=%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B%2C%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%93%A5%E9%99%A8%E8%90%BD%E8%AE%B0",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 10时35分]"
-        },
-        {
-          "title": "教育发展十五五规划释放多个利好",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E9%87%8A%E6%94%BE%E5%A4%9A%E4%B8%AA%E5%88%A9%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 14时50分]"
-        },
-        {
-          "title": "国务院：探索延长义务教育年限",
-          "url": "https://www.toutiao.com/trending/7655695666401886244/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            8,
-            26,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "高考生在家中登录省级招生考试机构系统，篡改7名同学第一志愿",
-          "url": "https://news.ifeng.com/c/8uLyAsirPw5",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
         {
           "title": "@高考考生 这些骗局要当心",
           "url": "https://www.baidu.com/s?wd=%40%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F+%E8%BF%99%E4%BA%9B%E9%AA%97%E5%B1%80%E8%A6%81%E5%BD%93%E5%BF%83",
@@ -139,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "00时18分"
         },
         {
           "title": "教育部发布高考招生防诈骗预警",
@@ -150,91 +25,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "2026年广州中考开考",
-          "url": "https://www.douyin.com/hot/2552790",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "国务院：探索延长义务教育年限",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E6%8E%A2%E7%B4%A2%E5%BB%B6%E9%95%BF%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%B9%B4%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "教育部披露：高考生篡改7名同学志愿",
-          "url": "https://www.toutiao.com/trending/7656672182621667382/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 18时27分]"
+          "time_info": "00时18分"
         },
         {
           "title": "高考志愿怎么填才能避免滑档",
           "url": "https://www.douyin.com/hot/2552703",
           "source": "抖音",
           "ranks": [
-            7,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "教育部披露：高考生篡改7名同学志愿",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E6%8A%AB%E9%9C%B2%EF%BC%9A%E9%AB%98%E8%80%83%E7%94%9F%E7%AF%A1%E6%94%B97%E5%90%8D%E5%90%8C%E5%AD%A6%E5%BF%97%E6%84%BF",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 14时50分]"
-        },
-        {
-          "title": "教育局通报核查河北任泽区让教师周末巡网吧台球厅，为何需要教师上街执勤？这是负责还是「甩锅」？",
-          "url": "https://www.zhihu.com/question/2052711823577707174",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 18时27分]"
-        },
-        {
-          "title": "法国教育部长誓不装空调声援学校",
-          "url": "https://www.toutiao.com/trending/7655899347729498148/",
+          "title": "2026年本科专业热度10强出炉",
+          "url": "https://www.toutiao.com/trending/7656384936521400374/",
           "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "00时18分"
+        },
+        {
+          "title": "男生高考英语147分 字像打印的",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD147%E5%88%86+%E5%AD%97%E5%83%8F%E6%89%93%E5%8D%B0%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "绵阳考生高考估分715查分299？假",
@@ -243,9 +69,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "00时18分"
         },
         {
           "title": "“高考估分715查分299”系谣言",
@@ -254,20 +80,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "00时18分"
         },
         {
-          "title": "法国教育部长誓不装空调声援学校",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%95%99%E8%82%B2%E9%83%A8%E9%95%BF%E8%AA%93%E4%B8%8D%E8%A3%85%E7%A9%BA%E8%B0%83%E5%A3%B0%E6%8F%B4%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "高考640分男孩暑假打工挣学费",
+          "url": "https://www.toutiao.com/trending/7656331344481730603/",
+          "source": "今日头条",
           "ranks": [
-            30
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "00时18分"
         }
       ]
     }
