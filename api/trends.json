@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T05:20:12.055501+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-07-02T07:04:50.318512+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "探索多元中考升学路径再添一地：湖南娄底试点小学入学可直升高中",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时04分]"
         },
         {
           "title": "“中考作文阅卷30秒快速打分”不实",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时04分]"
         },
         {
           "title": "“中考作文阅卷30秒快速打分”不实",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时04分]"
         },
         {
           "title": "高考志愿怎么填才能避免滑档",
@@ -50,6 +50,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "现在在中国科学院大学本科大一就读，想退学复读参加 2027 高考，值得吗？",
+          "url": "https://www.zhihu.com/question/2047865845272016838",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "上海高考 600 分以上 626 人，比去年少了一半，难这么多吗？",
+          "url": "https://www.zhihu.com/question/2053101644359759255",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "武汉一初中生中考获高分保护",
+          "url": "https://www.toutiao.com/trending/7657437261797261338/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "新势力车企“中考”：无一家过及格线",
+          "url": "https://www.toutiao.com/trending/7657487408744890377/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         }
       ]
     }
