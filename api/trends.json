@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T20:04:54.914154+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-07-02T23:07:46.156207+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "“中考作文阅卷30秒快速打分”不实",
@@ -52,6 +52,17 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
+          "title": "河南高考 699 分女生基本确定去清华学医，母亲患病卧床、父亲打零工，为什么网友都在说这个选择不好？",
+          "url": "https://www.zhihu.com/question/2054372674491750198",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "高考志愿怎么填才能避免滑档",
           "url": "https://www.douyin.com/hot/2552703",
           "source": "抖音",
@@ -62,6 +73,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时08分 ~ 10时32分]"
+        },
+        {
+          "title": "00后本科生抱儿子参加毕业典礼",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E6%9C%AC%E7%A7%91%E7%94%9F%E6%8A%B1%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 23时07分]"
         },
         {
           "title": "被中方要求停止测量船作业，日本不满提出“抗议”",
@@ -110,18 +134,6 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "00后本科生抱儿子参加毕业典礼",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E6%9C%AC%E7%A7%91%E7%94%9F%E6%8A%B1%E5%84%BF%E5%AD%90%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 20时04分]"
-        },
-        {
           "title": "中考生预言葡萄牙夺冠路径",
           "url": "https://www.toutiao.com/trending/7657497907729448970/",
           "source": "今日头条",
@@ -145,6 +157,18 @@
           "time_info": "[14时32分 ~ 14时33分]"
         },
         {
+          "title": "一考生因嫉妒篡改 7 人高考志愿，被判破坏计算机信息系统，如何解读这一判决？",
+          "url": "https://www.zhihu.com/question/2055297387804070409",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时04分 ~ 23时07分]"
+        },
+        {
           "title": "教育局回应家长举报老师群内公开成绩",
           "url": "https://www.toutiao.com/trending/7656622601050193961/",
           "source": "今日头条",
@@ -162,20 +186,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
         {
-          "title": "一考生因嫉妒篡改 7 人高考志愿，被判破坏计算机信息系统，如何解读这一判决？",
-          "url": "https://www.zhihu.com/question/2055297387804070409",
-          "source": "知乎",
+          "title": "高考699分女孩希望回归平静生活",
+          "url": "https://www.toutiao.com/trending/7657862107174141994/",
+          "source": "今日头条",
           "ranks": [
-            15
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时04分"
+          "time_info": "23时07分"
+        },
+        {
+          "title": "00后本科生抱儿子参加毕业典礼",
+          "url": "https://www.toutiao.com/trending/7657831487636062214/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "高考680分女孩初中就明确目标",
@@ -187,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "多地试水免中考直升",
+          "url": "https://www.toutiao.com/trending/7657564284906569747/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "上海高考 600 分以上 626 人，比去年少了一半，难这么多吗？",
