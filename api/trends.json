@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T10:32:04.844992+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-02T14:33:09.880856+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "“中考作文阅卷30秒快速打分”不实",
@@ -96,6 +96,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "被中方要求停止测量船作业，日本不满提出“抗议”",
+          "url": "https://news.ifeng.com/c/8uQRhu4O0jv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "博士明明比本科难毕业的多，为什么很多人仍认为「金本银硕铜博」？",
+          "url": "https://www.zhihu.com/question/5587850354",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "教育局回应家长举报老师群内公开成绩",
+          "url": "https://www.toutiao.com/trending/7656622601050193961/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "上海高考 600 分以上 626 人，比去年少了一半，难这么多吗？",
