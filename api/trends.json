@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T04:56:55.950022+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-07-03T06:01:57.659498+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时01分]"
         },
         {
           "title": "高考699分女孩希望回归平静生活",
@@ -39,11 +39,12 @@
           "ranks": [
             16,
             21,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时01分]"
         },
         {
           "title": "日本竟抗议中方要求其测量船停止作业",
@@ -52,11 +53,12 @@
           "ranks": [
             23,
             27,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 06时01分]"
         },
         {
           "title": "高考699分女孩家被围堵善意变负担",
@@ -64,11 +66,12 @@
           "source": "微博",
           "ranks": [
             24,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时56分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 06时01分]"
         }
       ]
     }
