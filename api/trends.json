@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T14:23:52.612305+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-07-03T17:51:41.024044+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "河南高考 699 分女生基本确定去清华学医，母亲患病卧床、父亲打零工，为什么网友都在说这个选择不好？",
@@ -43,7 +43,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -89,6 +89,17 @@
           "time_info": "[03时12分 ~ 06时01分]"
         },
         {
+          "title": "学生因中考失利跳河？谣言",
+          "url": "https://www.toutiao.com/trending/7657828867579854911/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 17时51分]"
+        },
+        {
           "title": "高考699分女孩希望回归平静生活",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83699%E5%88%86%E5%A5%B3%E5%AD%A9%E5%B8%8C%E6%9C%9B%E5%9B%9E%E5%BD%92%E5%B9%B3%E9%9D%99%E7%94%9F%E6%B4%BB",
           "source": "百度热搜",
@@ -100,15 +111,26 @@
           "time_info": "10时06分"
         },
         {
-          "title": "学生因中考失利跳河？谣言",
-          "url": "https://www.toutiao.com/trending/7657828867579854911/",
-          "source": "今日头条",
+          "title": "教育部：坚决杜绝用手机布置作业",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时23分"
+          "time_info": "17时51分"
+        },
+        {
+          "title": "高考第七课属于我们的安可曲",
+          "url": "https://www.douyin.com/hot/2555758",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "家长为摆脱应试教育带孩子去泰国上学，却仍然忍不住「鸡娃」，为什么会这样？泰国的教育环境到底怎么样？",
@@ -120,6 +142,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "河南高考 699 分女孩选择清华学医，您觉得她的选择如何？",
+          "url": "https://www.zhihu.com/question/2056264281822322710",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "教育部：严禁暑假集体补课",
+          "url": "https://www.toutiao.com/trending/7657895704732991534/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     }
