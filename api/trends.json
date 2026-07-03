@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T03:05:21.108367+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-07-04T04:55:26.609068+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时55分]"
         },
         {
           "title": "教育部：坚决杜绝用手机布置作业",
@@ -36,11 +37,12 @@
           "url": "https://www.douyin.com/hot/2556675",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 04时55分]"
         }
       ]
     }
