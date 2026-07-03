@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T01:16:01.028749+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-04T03:05:21.108367+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.toutiao.com/trending/7658188046671773723/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时05分]"
         },
         {
           "title": "教育部：坚决杜绝用手机布置作业",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时05分]"
         },
         {
           "title": "教育部：严禁人籍分离空挂学籍",
