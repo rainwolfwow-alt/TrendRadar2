@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T04:45:53.692504+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-07-05T05:51:20.057148+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 05时51分]"
         },
         {
           "title": "教育机构员工泄愤删考生志愿致落榜",
@@ -25,11 +25,12 @@
           "ranks": [
             14,
             24,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 05时51分]"
         },
         {
           "title": "男孩高考693分：希望靠学习改善生活",
@@ -41,8 +42,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 05时51分]"
         }
       ]
     }
