@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:58:44.304372+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-05T03:07:56.277244+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -14,31 +14,33 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时07分]"
         },
         {
           "title": "教育机构员工泄愤删考生志愿致落榜",
           "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E6%9C%BA%E6%9E%84%E5%91%98%E5%B7%A5%E6%B3%84%E6%84%A4%E5%88%A0%E8%80%83%E7%94%9F%E5%BF%97%E6%84%BF%E8%87%B4%E8%90%BD%E6%A6%9C",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时07分]"
         },
         {
           "title": "男孩高考693分：希望靠学习改善生活",
           "url": "https://www.toutiao.com/trending/7658415549945249802/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时07分]"
         }
       ]
     }
