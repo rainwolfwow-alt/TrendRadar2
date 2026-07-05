@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T00:58:56.393731+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-06T02:02:16.407062+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2057047195979702923",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "计算机跌出本科专业月收入前十",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%B7%8C%E5%87%BA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%9C%88%E6%94%B6%E5%85%A5%E5%89%8D%E5%8D%81%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
@@ -37,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "4名高考生打暑假工 高温硬扛32吨货",
