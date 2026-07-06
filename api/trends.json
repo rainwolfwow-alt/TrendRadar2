@@ -1,45 +1,48 @@
 {
-  "generated_at": "2026-07-07T02:51:43.233972+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-07-07T04:48:40.895333+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "word删除空白页 义务教育",
-          "url": "https://s.weibo.com/weibo?q=word%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%20%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时51分]"
-        },
         {
           "title": "深交所：对中公教育相关投资者采取暂停交易措施",
           "url": "https://www.cls.cn/detail/2418354",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时48分]"
         },
         {
           "title": "中公教育因股民「荒诞赌约」涨停，发生了什么？A 股市场投机风气会否加剧？",
           "url": "https://www.zhihu.com/question/2057430773481968954",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 04时48分]"
+        },
+        {
+          "title": "word删除空白页 义务教育",
+          "url": "https://s.weibo.com/weibo?q=word%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%20%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时48分]"
         },
         {
           "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
@@ -50,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时48分]"
         },
         {
           "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
@@ -62,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时48分]"
         },
         {
           "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
@@ -76,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 02时51分]"
+        },
+        {
+          "title": "未来5年中小学教育将有哪些变化",
+          "url": "https://www.toutiao.com/trending/7658470175007637523/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     }
