@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T06:55:26.505648+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-07-06T08:00:43.061090+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 08时00分]"
         },
         {
           "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 08时00分]"
         },
         {
           "title": "计算机跌出本科专业月收入前十",
