@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T08:00:43.061090+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-07-06T11:40:25.589420+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "教育机构员工泄愤删除考生志愿致落榜，仅获刑 8 个月，刑期是否过轻？考生被改写的人生谁来赔偿？",
@@ -46,6 +46,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 04时07分]"
+        },
+        {
+          "title": "中公教育",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "4名高考生打暑假工 高温硬扛32吨货",
