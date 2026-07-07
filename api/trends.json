@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T06:06:59.971136+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-08T07:50:49.835196+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 07时50分]"
         },
         {
           "title": "高考第七课唱响青春主打歌",
@@ -38,22 +39,24 @@
           "url": "https://www.cls.cn/detail/2419566",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 07时50分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
           "url": "https://wallstreetcn.com/articles/3776397",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 07时50分]"
         },
         {
           "title": "大量名校生玩梗大专毕业、自嘲水硕水博，这是种什么心理？",
@@ -63,11 +66,12 @@
             20,
             10,
             17,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 07时50分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
@@ -78,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 07时50分]"
         },
         {
           "title": "香港高校留学生申请大增",
