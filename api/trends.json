@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T06:08:12.741532+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-07-07T08:02:01.960104+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 08时02分]"
         },
         {
           "title": "中公教育因股民「荒诞赌约」涨停，发生了什么？A 股市场投机风气会否加剧？",
@@ -28,8 +29,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[02时51分 ~ 08时02分]"
+        },
+        {
+          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 08时02分]"
         },
         {
           "title": "word删除空白页 义务教育",
@@ -58,16 +72,17 @@
           "time_info": "[00时14分 ~ 06时08分]"
         },
         {
-          "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
-          "source": "澎湃新闻",
+          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2055157666142541293",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            13,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 08时02分]"
         },
         {
           "title": "未来5年中小学教育将有哪些变化",
@@ -80,18 +95,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 06时08分]"
-        },
-        {
-          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
-          "url": "https://www.zhihu.com/question/2055157666142541293",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时51分]"
         }
       ]
     }
