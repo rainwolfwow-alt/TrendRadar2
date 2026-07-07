@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T08:02:01.960104+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-07-07T11:46:16.413966+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "深交所：对中公教育相关投资者采取暂停交易措施",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 08时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 11时46分]"
         },
         {
           "title": "中公教育因股民「荒诞赌约」涨停，发生了什么？A 股市场投机风气会否加剧？",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 06时08分]"
+        },
+        {
+          "title": "高考第七课唱响青春主打歌",
+          "url": "https://www.douyin.com/hot/2560739",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
         }
       ]
     }
