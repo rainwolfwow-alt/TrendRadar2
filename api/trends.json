@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T04:47:03.948715+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-07-08T06:06:59.971136+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时06分]"
         },
         {
           "title": "高考第七课唱响青春主打歌",
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             1,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时06分]"
         },
         {
           "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时06分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
@@ -51,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时06分]"
         },
         {
           "title": "大量名校生玩梗大专毕业、自嘲水硕水博，这是种什么心理？",
@@ -61,22 +62,24 @@
           "ranks": [
             20,
             10,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时06分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/2057930097039090211",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时06分]"
         },
         {
           "title": "香港高校留学生申请大增",
