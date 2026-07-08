@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T20:15:50.288107+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-07-08T23:12:53.519854+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
@@ -95,11 +95,23 @@
             2,
             18,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 20时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 23时12分]"
+        },
+        {
+          "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
+          "url": "https://www.zhihu.com/question/2057932320250795330",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "孩子列出高考标配清单压垮家长",
@@ -135,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时56分 ~ 20时15分]"
+        },
+        {
+          "title": "这场震惊世人的中国在德留学生性侵案，受害者首次发声",
+          "url": "https://news.ifeng.com/c/8ubHj1Cy5V5",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "如何看待深圳理工提出实验班逐步取消大学英语，改教跨文化交流？未来大学的英语教育和学习可能发生什么变化？",
