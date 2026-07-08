@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T18:56:18.066373+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-07-08T20:15:50.288107+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 18时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 20时15分]"
         },
         {
           "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
@@ -94,11 +94,12 @@
           "ranks": [
             2,
             18,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 20时15分]"
         },
         {
           "title": "孩子列出高考标配清单压垮家长",
@@ -117,11 +118,23 @@
           "url": "https://www.cls.cn/detail/2420176",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时15分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33536387",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时15分]"
         },
         {
           "title": "如何看待深圳理工提出实验班逐步取消大学英语，改教跨文化交流？未来大学的英语教育和学习可能发生什么变化？",
@@ -133,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33536387",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "香港高校留学生申请大增",
