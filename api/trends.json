@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T07:50:49.835196+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-07-08T09:53:41.848675+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 09时53分]"
         },
         {
           "title": "高考第七课唱响青春主打歌",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 09时53分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 09时53分]"
         },
         {
           "title": "大量名校生玩梗大专毕业、自嘲水硕水博，这是种什么心理？",
@@ -67,11 +67,12 @@
             10,
             17,
             12,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 07时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 09时53分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
