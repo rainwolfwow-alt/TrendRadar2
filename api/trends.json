@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-08T13:14:39.544809+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-07-08T16:11:38.895193+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://wallstreetcn.com/articles/3776397",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 16时11分]"
+        },
         {
           "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
           "url": "https://www.cls.cn/detail/2419636",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 09时53分]"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://wallstreetcn.com/articles/3776397",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 13时14分]"
         },
         {
           "title": "高考第七课唱响青春主打歌",
@@ -91,11 +92,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355990&amp;topic_name=%E9%AB%98%E8%80%83643%E5%88%86%E8%A2%AB%E7%88%B9%E5%A6%88%E6%89%93%E5%85%A5%E5%86%B7%E5%AE%AB",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 16时11分]"
         },
         {
           "title": "如何看待深圳理工提出实验班逐步取消大学英语，改教跨文化交流？未来大学的英语教育和学习可能发生什么变化？",
@@ -104,9 +106,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "孩子列出高考标配清单压垮家长",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%88%97%E5%87%BA%E9%AB%98%E8%80%83%E6%A0%87%E9%85%8D%E6%B8%85%E5%8D%95%E5%8E%8B%E5%9E%AE%E5%AE%B6%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "香港高校留学生申请大增",
