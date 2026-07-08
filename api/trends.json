@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T01:21:51.572617+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-09T03:11:11.101461+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时11分]"
         },
         {
           "title": "这场震惊世人的中国在德留学生性侵案，受害者首次发声",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时11分]"
         },
         {
           "title": "高考643分被爹妈打入冷宫",
@@ -37,8 +37,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时11分]"
         }
       ]
     }
