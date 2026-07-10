@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T04:16:16.766642+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-11T05:53:59.480994+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 05时53分]"
         },
         {
           "title": "全国教育辟谣平台矩阵正式启动运行",
