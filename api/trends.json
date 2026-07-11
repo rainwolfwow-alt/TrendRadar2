@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T18:57:32.432552+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-07-11T19:47:47.973432+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 19时47分]"
         },
         {
           "title": "当哈佛学生高喊「f*ckAI」，复旦学生已开始考 AI，这反映了东西方教育理念对人工智能的何种差异？",
@@ -54,6 +54,17 @@
           "time_info": "[12时59分 ~ 17时19分]"
         },
         {
+          "title": "教育部：“教师全面硕士化”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%99%E5%B8%88%E5%85%A8%E9%9D%A2%E7%A1%95%E5%A3%AB%E5%8C%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时47分]"
+        },
+        {
           "title": "全国教育辟谣平台矩阵正式启动运行",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%95%99%E8%82%B2%E8%BE%9F%E8%B0%A3%E5%B9%B3%E5%8F%B0%E7%9F%A9%E9%98%B5%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E8%BF%90%E8%A1%8C",
           "source": "百度热搜",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 04时16分]"
-        },
-        {
-          "title": "教育部：“教师全面硕士化”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%99%E5%B8%88%E5%85%A8%E9%9D%A2%E7%A1%95%E5%A3%AB%E5%8C%96%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "救援队救下小女孩顺带救下暑假作业",
