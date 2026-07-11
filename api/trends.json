@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:41:56.021836+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-07-12T06:40:30.299236+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时40分]"
         },
         {
           "title": "教育部：“教师全面硕士化”系谣言",
@@ -29,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时40分]"
         },
         {
           "title": "直接工作与读大专，哪个更划算？",
@@ -43,8 +44,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 06时40分]"
         }
       ]
     }
