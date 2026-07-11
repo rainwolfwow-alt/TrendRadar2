@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T19:47:47.973432+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-07-11T20:59:28.363083+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "广西贵港教育园区孤岛救援始末",
@@ -61,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 20时59分]"
         },
         {
           "title": "全国教育辟谣平台矩阵正式启动运行",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 04时16分]"
+        },
+        {
+          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
+          "url": "https://www.zhihu.com/question/2058964046766945142",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "救援队救下小女孩顺带救下暑假作业",
