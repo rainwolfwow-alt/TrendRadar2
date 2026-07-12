@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T16:03:12.183766+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-07-12T18:20:09.299998+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "url": "https://www.toutiao.com/trending/7661268804329652234/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时20分]"
         },
         {
           "title": "中国民办本科科研竞争力排名发布",
