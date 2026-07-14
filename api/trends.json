@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T04:52:23.474344+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-07-15T05:50:04.163693+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
         },
         {
           "title": "如何看待全国教育辟谣平台紧急辟谣「教师全面硕士化」「教师需做好失业准备」?",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时06分 ~ 05时50分]"
         }
       ]
     }
