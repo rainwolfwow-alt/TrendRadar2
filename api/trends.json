@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T19:20:09.408333+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-07-14T21:13:03.571178+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[01时08分 ~ 09时44分]"
         },
         {
+          "title": "全国文旅把户外亲子卷起来了",
+          "url": "https://www.douyin.com/hot/2570563",
+          "source": "抖音",
+          "ranks": [
+            2,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 21时13分]"
+        },
+        {
           "title": "厨师离职被要求交出烹饪配方才结工资，饭店称为了标准化作业，烹饪配方属于个人还是饭店？可以和工资绑定吗？",
           "url": "https://www.zhihu.com/question/2060062676676503140",
           "source": "知乎",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时44分 ~ 17时49分]"
-        },
-        {
-          "title": "全国文旅把户外亲子卷起来了",
-          "url": "https://www.douyin.com/hot/2570563",
-          "source": "抖音",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 19时20分]"
         },
         {
           "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
