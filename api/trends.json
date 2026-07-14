@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T21:13:03.571178+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-07-14T23:18:25.439685+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             2,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时49分 ~ 21时13分]"
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 23时18分]"
         },
         {
           "title": "厨师离职被要求交出烹饪配方才结工资，饭店称为了标准化作业，烹饪配方属于个人还是饭店？可以和工资绑定吗？",
