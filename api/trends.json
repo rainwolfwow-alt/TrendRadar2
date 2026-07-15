@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T21:16:49.284932+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-07-15T23:20:21.417127+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "全国文旅把户外亲子卷起来了",
@@ -35,6 +35,17 @@
           "time_info": "[07时43分 ~ 12时43分]"
         },
         {
+          "title": "高考678分男生暑假跟着父亲跑货车",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83678%E5%88%86%E7%94%B7%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%9F%E7%9D%80%E7%88%B6%E4%BA%B2%E8%B7%91%E8%B4%A7%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "如何看待全国教育辟谣平台紧急辟谣「教师全面硕士化」「教师需做好失业准备」?",
           "url": "https://www.zhihu.com/question/2059323780208636411",
           "source": "知乎",
@@ -59,6 +70,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时53分 ~ 19时24分]"
+        },
+        {
+          "title": "国科大本科录取通知书001号签收",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E7%A7%91%E5%A4%A7%E6%9C%AC%E7%A7%91%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6001%E5%8F%B7%E7%AD%BE%E6%94%B6",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     }
