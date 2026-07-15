@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T04:05:57.614873+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-16T05:51:32.983431+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             20,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 05时51分]"
         },
         {
           "title": "高考678分男生暑假跟着父亲跑货车",
