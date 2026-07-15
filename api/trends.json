@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T07:44:09.665607+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-07-15T09:31:52.436776+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 07时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 09时31分]"
         },
         {
           "title": "如何看待全国教育辟谣平台紧急辟谣「教师全面硕士化」、「教师需做好失业准备」?",
           "url": "https://www.zhihu.com/question/2059323780208636411",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时31分]"
         },
         {
           "title": "如何看待全国教育辟谣平台紧急辟谣「教师全面硕士化」「教师需做好失业准备」?",
