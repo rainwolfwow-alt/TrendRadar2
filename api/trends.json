@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T01:06:21.742420+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-17T02:58:32.456107+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时58分]"
         },
         {
           "title": "新高考下选物理,文科成冷门",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时58分]"
         }
       ]
     }
