@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T04:02:12.486341+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-07-17T05:58:08.952244+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "新高考下选物理,文科成冷门",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 05时58分]"
         }
       ]
     }
