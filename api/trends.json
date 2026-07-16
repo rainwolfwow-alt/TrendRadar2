@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T21:24:23.050911+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-07-16T23:28:05.890378+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,25 @@
             17,
             13,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 21时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 23时28分]"
+        },
+        {
+          "title": "新高考下选物理,文科成冷门",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 23时28分]"
         },
         {
           "title": "国科大本科录取通知书001号签收",
@@ -35,19 +49,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 05时51分]"
-        },
-        {
-          "title": "新高考下选物理,文科成冷门",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 21时24分]"
         },
         {
           "title": "吴绮莉公开成龙拒认吴卓林原因，称自己不想做亲子鉴定，分开了孩子与男方无关，如何看待她的观点？",
