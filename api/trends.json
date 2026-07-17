@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T17:51:10.278246+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-07-17T19:17:33.971013+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[01时06分 ~ 12时57分]"
         },
         {
+          "title": "当30年前的中专生写高考作文",
+          "url": "https://www.douyin.com/hot/2574501",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时17分]"
+        },
+        {
           "title": "如果你是刘备，有亲子刘禅出生后，会如何对待处理养子刘封的尴尬敏感问题？",
           "url": "https://www.zhihu.com/question/2049444949750555027",
           "source": "知乎",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时53分 ~ 17时51分]"
-        },
-        {
-          "title": "当30年前的中专生写高考作文",
-          "url": "https://www.douyin.com/hot/2574501",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
         },
         {
           "title": "小朋友作业被洪水冲走志愿者送全套",
