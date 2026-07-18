@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T22:18:07.832995+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-07-18T23:47:08.073609+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             24,
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 22时18分]"
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 23时47分]"
         },
         {
           "title": "如果我身边的朋友的孩子都很厉害都是学霸，我的孩子相对比较平凡，我还和这些家庭一起亲子活动吗？",
