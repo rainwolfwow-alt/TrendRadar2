@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T01:52:07.739897+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-07-20T02:54:38.464331+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7663706715846246442/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 02时54分]"
         },
         {
           "title": "妈妈辅导孩子写作业一巴掌把牙打掉",
