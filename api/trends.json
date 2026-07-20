@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T17:51:29.961198+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-07-20T20:10:54.130516+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[07时50分 ~ 10时10分]"
         },
         {
+          "title": "著名思想史家、教育家张岂之逝世，享年99岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33617559",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 20时10分]"
+        },
+        {
           "title": "警方介入工人高空作业副绳疑遭割断",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E5%B7%A5%E4%BA%BA%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A%E5%89%AF%E7%BB%B3%E7%96%91%E9%81%AD%E5%89%B2%E6%96%AD%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "著名思想史家、教育家张岂之逝世，享年99岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33617559",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         }
       ]
     }
