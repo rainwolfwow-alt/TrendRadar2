@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T16:11:04.682818+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-07-21T18:58:24.986952+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "女生高考684分花3000元咨询进双非",
@@ -28,19 +28,46 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 18时58分]"
+        },
+        {
+          "title": "对话｜北京四中雄安校区校长黄春谈教育：不补课，少点作业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 18时58分]"
         },
         {
           "title": "我收到高考录取通知书了",
           "url": "https://www.douyin.com/hot/2579352",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时58分]"
+        },
+        {
+          "title": "西安中考满分 640，600 分以上超 10500 人，599 分基本无好学校可选，如何看待？",
+          "url": "https://www.zhihu.com/question/2062545131677528566",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时58分]"
         },
         {
           "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
@@ -67,19 +94,6 @@
           "time_info": "[09时52分 ~ 13时14分]"
         },
         {
-          "title": "对话｜北京四中雄安校区校长黄春谈教育：不补课，少点作业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时11分]"
-        },
-        {
           "title": "女儿高考完和妈妈一起扛楼赚学费",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%AE%8C%E5%92%8C%E5%A6%88%E5%A6%88%E4%B8%80%E8%B5%B7%E6%89%9B%E6%A5%BC%E8%B5%9A%E5%AD%A6%E8%B4%B9",
           "source": "百度热搜",
@@ -101,19 +115,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 16时11分]"
-        },
-        {
-          "title": "西安中考满分 640，600 分以上超 10500 人，599 分基本无好学校可选，如何看待？",
-          "url": "https://www.zhihu.com/question/2062545131677528566",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 18时58分]"
         },
         {
           "title": "高考684分进了双非院校女生发声",
@@ -158,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
+          "title": "张一鸣向芳梅公益基金再捐3亿元，支持龙岩市教育和医疗发展",
+          "url": "https://www.cls.cn/detail/2432317",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "男孩高考后去工地搬钢筋挣钱",
