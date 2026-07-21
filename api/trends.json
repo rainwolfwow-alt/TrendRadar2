@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T02:12:01.652105+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-07-22T04:15:47.846585+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时15分]"
         },
         {
           "title": "我收到高考录取通知书了",
@@ -27,19 +27,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时15分]"
         },
         {
           "title": "武汉一工人高空作业时副绳疑遭恶意割断，当地警方已介入",
           "url": "https://m.thepaper.cn/newsDetail_forward_33623526",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时15分]"
         },
         {
           "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
