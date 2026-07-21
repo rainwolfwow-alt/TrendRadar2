@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T05:58:45.716644+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-22T06:51:51.993797+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时51分]"
         },
         {
           "title": "我收到高考录取通知书了",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时51分]"
         },
         {
           "title": "武汉一工人高空作业时副绳疑遭恶意割断，当地警方已介入",
@@ -37,11 +38,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时51分]"
         },
         {
           "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
@@ -49,11 +51,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 06时51分]"
         },
         {
           "title": "中考681分考生选择中本贯通背后",
