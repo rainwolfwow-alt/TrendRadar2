@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-07-21T18:58:24.986952+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-07-21T20:23:02.937736+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "对话｜北京四中雄安校区校长黄春谈教育：不补课，少点作业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 20时23分]"
+        },
+        {
+          "title": "西安中考满分 640，600 分以上超 10500 人，599 分基本无好学校可选，如何看待？",
+          "url": "https://www.zhihu.com/question/2062545131677528566",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 20时23分]"
+        },
         {
           "title": "女生高考684分花3000元咨询进双非",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E",
@@ -32,20 +60,6 @@
           "time_info": "[13时13分 ~ 18时58分]"
         },
         {
-          "title": "对话｜北京四中雄安校区校长黄春谈教育：不补课，少点作业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33621312",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 18时58分]"
-        },
-        {
           "title": "我收到高考录取通知书了",
           "url": "https://www.douyin.com/hot/2579352",
           "source": "抖音",
@@ -54,20 +68,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时58分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 20时23分]"
         },
         {
-          "title": "西安中考满分 640，600 分以上超 10500 人，599 分基本无好学校可选，如何看待？",
-          "url": "https://www.zhihu.com/question/2062545131677528566",
+          "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
+          "url": "https://www.zhihu.com/question/2062307894830408467",
           "source": "知乎",
           "ranks": [
-            6,
-            5
+            20,
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时58分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 20时23分]"
         },
         {
           "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
@@ -107,18 +122,6 @@
           "time_info": "[07时49分 ~ 13时14分]"
         },
         {
-          "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
-          "url": "https://www.zhihu.com/question/2062307894830408467",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 18时58分]"
-        },
-        {
           "title": "高考684分进了双非院校女生发声",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -139,6 +142,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "武汉一工人高空作业时副绳疑遭恶意割断，当地警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623526",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "高考684分进双非女生原计划上央财",
@@ -169,7 +183,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -183,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "美团客服辟谣“骑手配送费本科8元、硕士15元、博士88元”：网传截图不属实，系AI生成",
+          "url": "https://wallstreetcn.com/livenews/3137545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
