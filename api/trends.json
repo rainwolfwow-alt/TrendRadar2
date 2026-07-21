@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T20:23:02.937736+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-07-21T22:58:09.641034+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,38 @@
             12,
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时52分 ~ 20时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 22时58分]"
+        },
+        {
+          "title": "我收到高考录取通知书了",
+          "url": "https://www.douyin.com/hot/2579352",
+          "source": "抖音",
+          "ranks": [
+            4,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 22时58分]"
+        },
+        {
+          "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
+          "url": "https://www.zhihu.com/question/2062307894830408467",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时13分 ~ 22时58分]"
         },
         {
           "title": "西安中考满分 640，600 分以上超 10500 人，599 分基本无好学校可选，如何看待？",
@@ -60,31 +87,6 @@
           "time_info": "[13时13分 ~ 18时58分]"
         },
         {
-          "title": "我收到高考录取通知书了",
-          "url": "https://www.douyin.com/hot/2579352",
-          "source": "抖音",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时10分 ~ 20时23分]"
-        },
-        {
-          "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
-          "url": "https://www.zhihu.com/question/2062307894830408467",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时13分 ~ 20时23分]"
-        },
-        {
           "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
           "url": "https://www.zhihu.com/question/2001825569575306638",
           "source": "知乎",
@@ -122,6 +124,18 @@
           "time_info": "[07时49分 ~ 13时14分]"
         },
         {
+          "title": "武汉一工人高空作业时副绳疑遭恶意割断，当地警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623526",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时58分]"
+        },
+        {
           "title": "高考684分进了双非院校女生发声",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -142,17 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 13时14分]"
-        },
-        {
-          "title": "武汉一工人高空作业时副绳疑遭恶意割断，当地警方已介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33623526",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "高考684分进双非女生原计划上央财",
@@ -205,7 +208,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
