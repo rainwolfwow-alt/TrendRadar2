@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:50:40.619842+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-07-22T09:52:27.537666+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 09时52分]"
         },
         {
           "title": "武汉一工人高空作业时副绳疑遭恶意割断，当地警方已介入",
@@ -40,11 +40,12 @@
             16,
             15,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 09时52分]"
         },
         {
           "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
