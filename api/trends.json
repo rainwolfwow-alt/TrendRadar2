@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T05:58:21.889785+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-07-25T06:58:37.721352+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 06时58分]"
         },
         {
           "title": "越来越多高分考生选“中职直通本科”",
@@ -25,11 +25,12 @@
           "ranks": [
             22,
             9,
-            23
+            23,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 06时58分]"
         },
         {
           "title": "马克龙致电王虹,硬吹法国教育",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 06时58分]"
         },
         {
           "title": "男生中考699分偷偷改志愿读中职",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 06时58分]"
         },
         {
           "title": "中国美术学院的录取通知书里附带 30 张速写作业，你怎么看高校给新生布置暑假作业？",
@@ -62,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 06时58分]"
         },
         {
           "title": "王虹16岁高考653分进北大",
@@ -71,11 +72,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时12分 ~ 06时58分]"
         }
       ]
     }
