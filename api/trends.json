@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T00:54:31.032652+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-26T01:53:18.348015+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时53分]"
         },
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
           "url": "https://www.zhihu.com/question/2064272326489628784",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时53分]"
         },
         {
           "title": "马克龙致电王虹,硬吹法国教育",
@@ -37,8 +38,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时53分]"
         }
       ]
     }
