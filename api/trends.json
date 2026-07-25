@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T21:15:31.587920+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-07-25T22:56:33.213081+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,28 @@
             23,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时12分 ~ 21时15分]"
+          "appearance_count": 14,
+          "time_info": "[02时12分 ~ 22时56分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时11分 ~ 22时56分]"
         },
         {
           "title": "越来越多高分考生选“中职直通本科”",
@@ -73,21 +90,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时12分 ~ 08时01分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时11分 ~ 21时15分]"
         },
         {
           "title": "中国基础教育 自信从何而来？",
@@ -171,8 +173,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时56分]"
         },
         {
           "title": "副教授被举报18年前高考移民",
