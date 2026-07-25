@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T19:57:50.692241+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-07-25T21:15:31.587920+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时12分 ~ 19时57分]"
+          "appearance_count": 13,
+          "time_info": "[02时12分 ~ 21时15分]"
         },
         {
           "title": "越来越多高分考生选“中职直通本科”",
@@ -74,6 +75,21 @@
           "time_info": "[02时12分 ~ 08时01分]"
         },
         {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 21时15分]"
+        },
+        {
           "title": "中国基础教育 自信从何而来？",
           "url": "https://www.toutiao.com/trending/7665393637421776939/",
           "source": "今日头条",
@@ -91,18 +107,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "大学副教授被举报18年前“高考移民”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A518%E5%B9%B4%E5%89%8D%E2%80%9C%E9%AB%98%E8%80%83%E7%A7%BB%E6%B0%91%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -121,20 +126,6 @@
           "time_info": "[11时15分 ~ 19时57分]"
         },
         {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时11分 ~ 19时57分]"
-        },
-        {
           "title": "男生中考699分偷改志愿读中职",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83699%E5%88%86%E5%81%B7%E6%94%B9%E5%BF%97%E6%84%BF%E8%AF%BB%E4%B8%AD%E8%81%8C",
           "source": "百度热搜",
@@ -146,6 +137,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时15分 ~ 16时56分]"
+        },
+        {
+          "title": "大学副教授被举报18年前“高考移民”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A518%E5%B9%B4%E5%89%8D%E2%80%9C%E9%AB%98%E8%80%83%E7%A7%BB%E6%B0%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时15分]"
         },
         {
           "title": "王虹16岁高考653分进北大",
@@ -161,6 +164,17 @@
           "time_info": "[04时12分 ~ 06时58分]"
         },
         {
+          "title": "孩子高考被交大医学院录取，但现在惧怕学医，打算放弃入学，复读后高考再选工科，如果你是家长会怎么做？",
+          "url": "https://www.zhihu.com/question/2063110932038001519",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时15分]"
+        },
+        {
           "title": "副教授被举报18年前高考移民",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A518%E5%B9%B4%E5%89%8D%E9%AB%98%E8%80%83%E7%A7%BB%E6%B0%91%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -172,24 +186,13 @@
           "time_info": "11时15分"
         },
         {
-          "title": "孩子高考被交大医学院录取，但现在惧怕学医，打算放弃入学，复读后高考再选工科，如果你是家长会怎么做？",
-          "url": "https://www.zhihu.com/question/2063110932038001519",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
           "title": "小猫咬主人然后被她妈妈教育了",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%92%AC%E4%B8%BB%E4%BA%BA%E7%84%B6%E5%90%8E%E8%A2%AB%E5%A5%B9%E5%A6%88%E5%A6%88%E6%95%99%E8%82%B2%E4%BA%86&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
