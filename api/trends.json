@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T14:11:21.772468+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-07-25T16:56:21.756413+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             12,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时12分 ~ 14时11分]"
+          "appearance_count": 10,
+          "time_info": "[02时12分 ~ 16时56分]"
         },
         {
           "title": "越来越多高分考生选“中职直通本科”",
@@ -87,11 +88,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 16时56分]"
         },
         {
           "title": "王虹16岁高考653分进北大",
@@ -112,11 +114,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 16时56分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时11分]"
+          "time_info": "[14时11分 ~ 16时56分]"
         },
         {
           "title": "副教授被举报18年前高考移民",
@@ -128,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
         },
         {
           "title": "脱口秀演员海宇谈高考加分上大专",
