@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T11:15:59.112519+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-07-25T14:11:21.772468+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
@@ -32,6 +32,19 @@
           "time_info": "[02时12分 ~ 11时15分]"
         },
         {
+          "title": "马克龙致电王虹,硬吹法国教育",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356472&amp;topic_name=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%87%B4%E7%94%B5%E7%8E%8B%E8%99%B9%2C%E7%A1%AC%E5%90%B9%E6%B3%95%E5%9B%BD%E6%95%99%E8%82%B2",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 14时11分]"
+        },
+        {
           "title": "越来越多高分考生选“中职直通本科”",
           "url": "https://www.toutiao.com/trending/7665635499444928522/",
           "source": "今日头条",
@@ -44,18 +57,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时12分 ~ 08时01分]"
-        },
-        {
-          "title": "马克龙致电王虹,硬吹法国教育",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356472&amp;topic_name=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%87%B4%E7%94%B5%E7%8E%8B%E8%99%B9%2C%E7%A1%AC%E5%90%B9%E6%B3%95%E5%9B%BD%E6%95%99%E8%82%B2",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 11时15分]"
         },
         {
           "title": "中国美术学院的录取通知书里附带 30 张速写作业，你怎么看高校给新生布置暑假作业？",
@@ -76,20 +77,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 14时11分]"
         },
         {
           "title": "男生中考699分偷改志愿读中职",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83699%E5%88%86%E5%81%B7%E6%94%B9%E5%BF%97%E6%84%BF%E8%AF%BB%E4%B8%AD%E8%81%8C",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 14时11分]"
         },
         {
           "title": "王虹16岁高考653分进北大",
@@ -105,26 +107,38 @@
           "time_info": "[04时12分 ~ 06时58分]"
         },
         {
+          "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652226",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 14时11分]"
+        },
+        {
           "title": "副教授被举报18年前高考移民",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A518%E5%B9%B4%E5%89%8D%E9%AB%98%E8%80%83%E7%A7%BB%E6%B0%91%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
         {
-          "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652226",
-          "source": "澎湃新闻",
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
           "ranks": [
-            14
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "14时11分"
         },
         {
           "title": "脱口秀演员海宇谈高考加分上大专",
