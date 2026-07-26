@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T16:11:46.271058+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-07-26T18:31:57.934368+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             5,
             10,
             17,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 16时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 18时31分]"
         },
         {
           "title": "马克龙致电王虹,硬吹法国教育",
@@ -73,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 18时31分]"
         },
         {
           "title": "小狗吹空调看到女主人辅导作业溜走",
