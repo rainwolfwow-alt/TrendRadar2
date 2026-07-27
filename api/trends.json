@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T04:15:37.618164+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-28T05:59:08.621886+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时59分]"
+        },
+        {
+          "title": "约好跟同学写作业 其实是一起玩手机",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%A5%BD%E8%B7%9F%E5%90%8C%E5%AD%A6%E5%86%99%E4%BD%9C%E4%B8%9A+%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            8,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时59分]"
         },
         {
           "title": "今年高考很多 600-620 分段的考生跌出万名之外，如何看待高考分数「通货膨胀」？对考生有哪些影响？",
@@ -26,19 +40,6 @@
             12,
             3,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 04时15分]"
-        },
-        {
-          "title": "约好跟同学写作业 其实是一起玩手机",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%A5%BD%E8%B7%9F%E5%90%8C%E5%AD%A6%E5%86%99%E4%BD%9C%E4%B8%9A+%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            8,
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
