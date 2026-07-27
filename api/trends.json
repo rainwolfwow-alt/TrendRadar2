@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T00:09:26.835682+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-28T02:19:23.895683+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时19分]"
         },
         {
           "title": "今年高考很多 600-620 分段的考生跌出万名之外，如何看待高考分数「通货膨胀」？对考生有哪些影响？",
           "url": "https://www.zhihu.com/question/2065009083904742875",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "如何看待 2026 安徽高考安徽师范大学投档线位次暴跌？",
-          "url": "https://www.zhihu.com/question/2064347921571648296",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时19分]"
         },
         {
           "title": "约好跟同学写作业 其实是一起玩手机",
           "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%A5%BD%E8%B7%9F%E5%90%8C%E5%AD%A6%E5%86%99%E4%BD%9C%E4%B8%9A+%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%89%8B%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时19分]"
+        },
+        {
+          "title": "如何看待 2026 安徽高考安徽师范大学投档线位次暴跌？",
+          "url": "https://www.zhihu.com/question/2064347921571648296",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时19分]"
         }
       ]
     }
