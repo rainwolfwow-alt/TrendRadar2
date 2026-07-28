@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T08:01:48.601493+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-07-28T10:43:40.591038+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             8,
             10,
             18,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 10时43分]"
         },
         {
           "title": "今年高考很多 600-620 分段的考生跌出万名之外，如何看待高考分数「通货膨胀」？对考生有哪些影响？",
