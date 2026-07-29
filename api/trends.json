@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T13:13:59.902269+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-07-29T16:24:27.902876+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "创业板指、科创50均涨超1%，沪指涨0.15%，深成指涨0.46%，教育、乳业、影视、油气等方向涨幅居前，沪深京三市上涨个股超4200只。",
@@ -19,15 +19,38 @@
           "time_info": "09时49分"
         },
         {
+          "title": "网约车父亲吐槽本科儿女躺平",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356604&amp;topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%88%B6%E4%BA%B2%E5%90%90%E6%A7%BD%E6%9C%AC%E7%A7%91%E5%84%BF%E5%A5%B3%E8%BA%BA%E5%B9%B3",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
           "url": "https://www.zhihu.com/question/2065158710427751418",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 16时24分]"
+        },
+        {
+          "title": "王虹的经历是不是说明了，教育和环境对一个人发展的影响其实比很多人认为的大的多？",
+          "url": "https://www.zhihu.com/question/2064984398307578588",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "16时24分"
         },
         {
           "title": "官方通报中学老师教育不当行为",
@@ -36,9 +59,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "迪丽热巴粉丝中考全市第一名",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B2%89%E4%B8%9D%E4%B8%AD%E8%80%83%E5%85%A8%E5%B8%82%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     }
