@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T21:49:21.109091+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-07-29T23:45:46.313664+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             4,
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 21时49分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 23时45分]"
         },
         {
           "title": "网约车父亲吐槽本科儿女躺平",
@@ -28,11 +29,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 21时49分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 23时45分]"
         },
         {
           "title": "创业板指、科创50均涨超1%，沪指涨0.15%，深成指涨0.46%，教育、乳业、影视、油气等方向涨幅居前，沪深京三市上涨个股超4200只。",
