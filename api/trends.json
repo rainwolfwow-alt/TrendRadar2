@@ -1,95 +1,44 @@
 {
-  "generated_at": "2026-07-29T23:45:46.313664+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-07-30T01:07:55.622849+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 23时45分]"
-        },
         {
           "title": "网约车父亲吐槽本科儿女躺平",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356604&amp;topic_name=%E7%BD%91%E7%BA%A6%E8%BD%A6%E7%88%B6%E4%BA%B2%E5%90%90%E6%A7%BD%E6%9C%AC%E7%A7%91%E5%84%BF%E5%A5%B3%E8%BA%BA%E5%B9%B3",
           "source": "贴吧",
           "ranks": [
-            4,
-            6,
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 23时45分]"
-        },
-        {
-          "title": "创业板指、科创50均涨超1%，沪指涨0.15%，深成指涨0.46%，教育、乳业、影视、油气等方向涨幅居前，沪深京三市上涨个股超4200只。",
-          "url": "https://wallstreetcn.com/livenews/3141333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "01时07分"
         },
         {
-          "title": "在日留学生亲历强震：余震不断不敢睡",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%97%A5%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%B2%E5%8E%86%E5%BC%BA%E9%9C%87%EF%BC%9A%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD%E4%B8%8D%E6%95%A2%E7%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "王虹的经历是不是说明了，教育和环境对一个人发展的影响其实比很多人认为的大的多？",
-          "url": "https://www.zhihu.com/question/2064984398307578588",
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
           "source": "知乎",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "01时07分"
         },
         {
-          "title": "官方通报中学老师教育不当行为",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E6%95%99%E8%82%B2%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
+          "source": "澎湃新闻",
           "ranks": [
-            28
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "迪丽热巴粉丝中考全市第一名",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B2%89%E4%B8%9D%E4%B8%AD%E8%80%83%E5%85%A8%E5%B8%82%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "01时07分"
         }
       ]
     }
