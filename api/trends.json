@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T03:01:34.489495+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-30T04:14:39.671558+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时14分]"
         },
         {
           "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
           "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时14分]"
         },
         {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
