@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T07:55:14.301223+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-07-30T09:43:14.944450+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "网约车父亲吐槽本科儿女躺平",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 09时43分]"
         },
         {
           "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 09时43分]"
         },
         {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
@@ -42,6 +43,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 07时55分]"
+        },
+        {
+          "title": "教育部长被迫下台，莫迪政府遭遇空前挑战",
+          "url": "https://news.ifeng.com/c/8vA8gE05sFB",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
+          "title": "A股教育板块再度走强，传智教育4连板，创业黑马涨超10%，科德教育、学大教育、凯文教育、昂立教育、中公教育跟涨。",
+          "url": "https://flash.jin10.com/detail/20260730093520180800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     }
