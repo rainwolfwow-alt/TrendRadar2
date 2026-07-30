@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T12:50:53.940707+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-07-30T15:29:44.929966+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             17,
             11,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 12时50分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 15时29分]"
         },
         {
           "title": "网约车父亲吐槽本科儿女躺平",
@@ -27,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 12时50分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 15时29分]"
         },
         {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
@@ -64,9 +66,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 15时29分]"
         },
         {
           "title": "A股教育板块再度走强，传智教育4连板，创业黑马涨超10%，科德教育、学大教育、凯文教育、昂立教育、中公教育跟涨。",
