@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T03:11:21.690461+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-08-01T04:56:24.366835+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时56分]"
         },
         {
           "title": "市场消息：里海管道联盟（CPC）继续开展石油作业。此前曾考虑“无限期”暂停石油及油轮运营。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         }
