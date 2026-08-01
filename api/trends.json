@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:01:39.303083+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-08-01T22:28:30.009753+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 22时28分]"
         },
         {
           "title": "菲尔兹奖之后，教育的本质到底更应倾向筛选天才还是培养天才?",
