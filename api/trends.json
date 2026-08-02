@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T19:56:28.246685+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-08-02T21:03:08.223683+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[09时57分 ~ 13时21分]"
         },
         {
+          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
+          "url": "https://www.zhihu.com/question/2067018457934197978",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 21时03分]"
+        },
+        {
           "title": "女儿说房主任愧疚式教育",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AF%B4%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%84%A7%E7%96%9A%E5%BC%8F%E6%95%99%E8%82%B2%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 09时57分]"
-        },
-        {
-          "title": "如何看待房主任在二女儿生日宴诉苦被指愧疚式教育？大女儿说其当年坚持说是为了女儿，实则为自己，你怎么看？",
-          "url": "https://www.zhihu.com/question/2067018457934197978",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 19时56分]"
         },
         {
           "title": "部分民办本科出现招生难",
