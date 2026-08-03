@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-08-03T09:59:38.552405+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-08-03T13:42:48.980478+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "哥哥冒用弟弟高考身份一路读到博士，为什么一直没被发现？暴露了学籍审核等方面哪些问题？",
+          "url": "https://www.zhihu.com/question/2066958063932912243",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "教育部：全面提升学生科学素养",
+          "url": "https://www.toutiao.com/trending/7669404559672131625/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
