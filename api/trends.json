@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:54:03.456880+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-08-07T18:44:36.824967+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 18时44分]"
         },
         {
           "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
