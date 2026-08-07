@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-07T19:39:43.319236+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-08-07T20:43:27.298968+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 8,
       "titles": [
+        {
+          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 20时43分]"
+        },
         {
           "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
           "url": "https://www.zhihu.com/question/2068724870267891996",
@@ -19,19 +33,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时12分 ~ 14时06分]"
-        },
-        {
-          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时39分]"
         },
         {
           "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
@@ -51,7 +52,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -84,7 +85,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -95,7 +96,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
