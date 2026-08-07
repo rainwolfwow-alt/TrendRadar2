@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T16:09:58.620675+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-08-07T17:54:03.456880+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时12分 ~ 14时06分]"
+        },
+        {
+          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
@@ -49,7 +60,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         }
