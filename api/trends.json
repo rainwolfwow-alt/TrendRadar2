@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T06:36:06.711629+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-08-08T07:27:12.883918+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 07时27分]"
         },
         {
           "title": "监测数据显示：地震过后，委内瑞拉拉瓜伊拉港船舶装卸作业量出现回升。",
