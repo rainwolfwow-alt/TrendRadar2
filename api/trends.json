@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T12:50:04.787106+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-08-07T14:06:11.561925+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 14时06分]"
         },
         {
           "title": "44 岁爸爸因叛逆期女儿说「有本事你去考个研究生」，在职一战上岸 985，怎样看待这种教育方式？",
