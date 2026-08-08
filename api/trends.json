@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:37:59.759526+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-08-08T14:37:53.822105+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 13时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 14时37分]"
         },
         {
           "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时37分]"
         },
         {
           "title": "监测数据显示：地震过后，委内瑞拉拉瓜伊拉港船舶装卸作业量出现回升。",
@@ -52,9 +52,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时37分]"
         }
       ]
     }
