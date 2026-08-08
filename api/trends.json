@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:40:18.787001+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-08-08T23:21:52.904567+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 23时21分]"
         },
         {
           "title": "中国留学生称学校都是印度人",
@@ -80,6 +80,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 14时37分]"
+        },
+        {
+          "title": "你对自己孩子的教育理念是什么?",
+          "url": "https://www.zhihu.com/question/664708644",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "2026年“未录满”本科专业排行榜出炉",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     }
