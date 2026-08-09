@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:22:17.916000+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-08-09T20:33:16.547812+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时33分]"
         },
         {
           "title": "妹妹高考志愿被母亲偷偷修改，原本想学机械相关专业却被改报医学，遇到这种情况该怎么办？",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时22分]"
+        },
+        {
+          "title": "复旦美籍留学生被曝玩弄多名女性，胡锡进发声",
+          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时33分]"
         },
         {
           "title": "父亲节俭供养留学女儿反遭辱骂",
@@ -88,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
-        },
-        {
-          "title": "复旦美籍留学生被曝玩弄多名女性，胡锡进发声",
-          "url": "https://news.ifeng.com/c/8vS5QujjAL8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "你对自己孩子的教育理念是什么?",
