@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T20:33:16.547812+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-08-09T21:43:12.056050+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "2026年“未录满”本科专业排行榜出炉",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "2026年“未录满”本科专业排行榜",
+          "url": "https://www.douyin.com/hot/2603232",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "2026年未录满本科专业排行榜",
