@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T22:26:43.362894+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-08-09T23:23:24.552578+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,18 @@
           "time_info": "[12时57分 ~ 13时43分]"
         },
         {
+          "title": "2026年“未录满”本科专业排行榜",
+          "url": "https://www.douyin.com/hot/2603232",
+          "source": "抖音",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时23分]"
+        },
+        {
           "title": "2026“未录满”本科专业排行榜出炉",
           "url": "https://www.baidu.com/s?wd=2026%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89",
           "source": "百度热搜",
@@ -77,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "2026年“未录满”本科专业排行榜",
-          "url": "https://www.douyin.com/hot/2603232",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "2026年未录满本科专业排行榜",
