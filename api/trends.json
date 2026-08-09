@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:20:54.542123+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-08-09T09:03:23.984129+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%87%BA%E7%82%89",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时03分]"
         },
         {
           "title": "妹妹高考志愿被母亲偷偷修改，原本想学机械相关专业却被改报医学，遇到这种情况该怎么办？",
