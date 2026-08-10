@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T05:34:20.982389+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-08-11T06:28:48.534353+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 06时28分]"
         },
         {
           "title": "教育局回应拉架教师被降岗处分",
@@ -26,7 +26,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
