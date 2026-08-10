@@ -1,38 +1,12 @@
 {
-  "generated_at": "2026-08-10T23:53:34.923568+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2026-08-11T01:45:13.380499+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "2026年“未录满”本科专业排行榜",
-          "url": "https://www.douyin.com/hot/2603232",
-          "source": "抖音",
-          "ranks": [
-            25,
-            19,
-            24,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时21分]"
-        },
-        {
-          "title": "福建终止防台风应急响应 海上生产作业陆续恢复",
-          "url": "https://flash.jin10.com/detail/20260810130604679800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
         {
           "title": "代表建议设立带薪陪考假“中考3天、高考5天”，当地人社局回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753022",
@@ -42,40 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时53分]"
-        },
-        {
-          "title": "两部门：大力实施灾害严重矿井、发生较大及以上事故矿井智能化改造 推动危险繁重岗位机器人作业替代",
-          "url": "https://wallstreetcn.com/livenews/3147377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "商汤科技斩获沙特千万元级教育订单",
-          "url": "https://flash.jin10.com/detail/20260810143529045800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "如何看待西湖大学本科新生开学，施一公用王虹邓煜的故事激励新生？",
-          "url": "https://www.zhihu.com/question/2069597421764663135",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "[01时44分 ~ 01时45分]"
         }
       ]
     }
