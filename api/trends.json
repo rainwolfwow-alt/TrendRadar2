@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T19:48:51.028505+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-08-10T20:48:58.144441+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026年“未录满”本科专业排行榜",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "如何看待西湖大学本科新生开学，施一公用王虹邓煜的故事激励新生？",
+          "url": "https://www.zhihu.com/question/2069597421764663135",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     }
