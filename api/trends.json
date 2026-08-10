@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T22:15:33.786324+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-08-10T23:53:34.923568+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
@@ -40,9 +40,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时53分]"
         },
         {
           "title": "两部门：大力实施灾害严重矿井、发生较大及以上事故矿井智能化改造 推动危险繁重岗位机器人作业替代",
