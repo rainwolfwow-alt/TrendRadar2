@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-11T13:54:04.655302+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-08-11T14:52:07.017955+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
       "match_count": 3,
       "titles": [
+        {
+          "title": "因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？",
+          "url": "https://www.zhihu.com/question/2070152087481083737",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 14时52分]"
+        },
         {
           "title": "代表建议设立带薪陪考假“中考3天、高考5天”，当地人社局回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753022",
@@ -18,21 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时44分 ~ 13时54分]"
-        },
-        {
-          "title": "因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？",
-          "url": "https://www.zhihu.com/question/2070152087481083737",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 13时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时44分 ~ 14时52分]"
         },
         {
           "title": "教育局回应拉架教师被降岗处分",
