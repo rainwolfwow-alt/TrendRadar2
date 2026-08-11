@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T00:49:51.446643+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-12T01:51:50.967998+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "霍尔木兹海峡重开预期升温，卡塔尔加大LNG装船作业",
-          "url": "https://wallstreetcn.com/livenews/3148163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
           "title": "高考444分考生回应被殡葬专业录取",
           "url": "https://www.toutiao.com/trending/7671994340315545642/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时51分]"
+        },
+        {
+          "title": "霍尔木兹海峡重开预期升温，卡塔尔加大LNG装船作业",
+          "url": "https://wallstreetcn.com/livenews/3148163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时51分]"
         }
       ]
     }
