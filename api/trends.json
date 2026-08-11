@@ -1,50 +1,33 @@
 {
-  "generated_at": "2026-08-11T22:14:47.125978+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-08-12T00:49:51.446643+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？",
-          "url": "https://www.zhihu.com/question/2070152087481083737",
-          "source": "知乎",
+          "title": "霍尔木兹海峡重开预期升温，卡塔尔加大LNG装船作业",
+          "url": "https://wallstreetcn.com/livenews/3148163",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 20时44分]"
-        },
-        {
-          "title": "代表建议设立带薪陪考假“中考3天、高考5天”，当地人社局回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753022",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时44分 ~ 16时05分]"
-        },
-        {
-          "title": "教育局回应拉架教师被降岗处分",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E6%8B%89%E6%9E%B6%E6%95%99%E5%B8%88%E8%A2%AB%E9%99%8D%E5%B2%97%E5%A4%84%E5%88%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "00时49分"
+        },
+        {
+          "title": "高考444分考生回应被殡葬专业录取",
+          "url": "https://www.toutiao.com/trending/7671994340315545642/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         }
       ]
     }
