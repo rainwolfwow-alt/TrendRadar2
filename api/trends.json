@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T04:36:45.636582+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-08-12T05:37:40.813584+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             1,
             2,
             15,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 05时37分]"
         },
         {
           "title": "霍尔木兹海峡重开预期升温，卡塔尔加大LNG装船作业",
