@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T09:04:22.327338+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-08-11T11:28:14.813353+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时44分 ~ 09时04分]"
+          "appearance_count": 10,
+          "time_info": "[01时44分 ~ 11时28分]"
         },
         {
           "title": "因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？",
           "url": "https://www.zhihu.com/question/2070152087481083737",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 11时28分]"
         },
         {
           "title": "教育局回应拉架教师被降岗处分",
