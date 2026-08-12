@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T11:58:12.784993+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-08-12T15:11:18.282438+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83444%E5%88%86%E8%80%83%E7%94%9F%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 11时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 15时11分]"
         },
         {
           "title": "霍尔木兹海峡重开预期升温，卡塔尔加大LNG装船作业",
