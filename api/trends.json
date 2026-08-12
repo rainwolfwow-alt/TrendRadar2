@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T20:49:08.066875+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-08-12T22:16:22.985353+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
           "ranks": [
             13,
             12,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时16分]"
         },
         {
           "title": "高考444分考生回应被殡葬专业录取",
