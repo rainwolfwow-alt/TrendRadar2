@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T19:41:36.355325+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2026-08-12T20:49:08.066875+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,19 @@
           "time_info": "[00时49分 ~ 07时32分]"
         },
         {
+          "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化？",
+          "url": "https://www.zhihu.com/question/2070815706040329689",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时49分]"
+        },
+        {
           "title": "高考444分考生回应被殡葬专业录取",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83444%E5%88%86%E8%80%83%E7%94%9F%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96",
           "source": "百度热搜",
@@ -35,18 +48,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时11分 ~ 15时11分]"
-        },
-        {
-          "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化？",
-          "url": "https://www.zhihu.com/question/2070815706040329689",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 19时41分]"
         },
         {
           "title": "霍尔木兹海峡重开预期升温，卡塔尔加大LNG装船作业",
