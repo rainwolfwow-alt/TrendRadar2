@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T01:53:15.202990+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-13T02:51:47.964631+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 02时51分]"
         },
         {
           "title": "也门摩卡港港务负责人：因胡塞武装袭击，港口全面停止作业。",
@@ -25,7 +25,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
