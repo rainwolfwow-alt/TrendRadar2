@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:33:59.902467+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-08-14T05:36:59.824888+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/2070804607966470578",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时36分]"
         },
         {
           "title": "考生中考700分放弃重点高中读职校",
