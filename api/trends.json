@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-08-16T20:21:54.170994+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-08-17T00:15:30.634691+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "教育 高考 中考 职业教育 本科 大专 大学生就业 毕业实习 AI教育 教育AI 美国大学 美国教育 欧洲大学 英国大学 国际教育 留学 家庭教育 亲子 鸡娃 卷学习 卷不动 作业 中二 青春期 孩子抑郁 孩子焦虑 孩子睡眠",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "山西挖眼案男孩高考全国同专业第一",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%8C%96%E7%9C%BC%E6%A1%88%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83%E5%85%A8%E5%9B%BD%E5%90%8C%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "匈牙利总理：已开始沉船作业抬升水位 保障核电站运行",
-          "url": "https://wallstreetcn.com/livenews/3149983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 08时47分]"
-        },
-        {
-          "title": "山西挖眼案男孩高考721分选了中医学",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%8C%96%E7%9C%BC%E6%A1%88%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83721%E5%88%86%E9%80%89%E4%BA%86%E4%B8%AD%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
